@@ -4,7 +4,8 @@
     {
         enum Sections
         {
-            Vaje_1 = 1
+            Vaje_1 = 1,
+            Vaje_2 = 2
         }
 
         static void Main(string[] args)
@@ -40,6 +41,49 @@
                                     (int NSV, int NSD) = Vaje_1.Naloga141(x, y);
                                     Console.WriteLine($"Najmanjši skupni večkratnik števil {x} in {y} je {NSV}.");
                                     Console.WriteLine($"Največji skupni delitelj števil {x} in {y} je {NSD}.");
+                                }
+                                break;
+                        }
+                    }
+                    break;
+
+                case Sections.Vaje_2:
+                    {
+                        switch (InterfaceFunctions.ChooseSection<Vaje2>())
+                        {
+                            case Vaje2.Naloga135:
+                                {
+                                    Vaje_2.Naloga135();
+                                }
+                                break;
+                            case Vaje2.Naloga142:
+                                {
+                                    int x = 11;
+                                    int y = 17;
+                                    int NSV = Vaje_2.Naloga142(x, y, out int? NSD, findGCD: true);
+                                    Console.WriteLine($"Najmanjši skupni večkratnik števil {x} in {y} je {NSV}.");
+                                    Console.WriteLine($"Največji skupni delitelj števil {x} in {y} je {NSD}.");
+                                }
+                                break;
+                            case Vaje2.Naloga143:
+                                {
+                                    var newList = new List<double>()
+                                            {
+                                                0.9, 1.2, 3.5
+                                            };
+
+                                    Vaje_2.Naloga143(ref newList);
+                                    Console.WriteLine(newList.Count);
+                                }
+                                break;
+                            case Vaje2.Naloga152:
+                                {
+                                    Vaje_2.Naloga152();
+                                }
+                                break;
+                            case Vaje2.Naloga171:
+                                {
+                                    Vaje_2.Naloga171();
                                 }
                                 break;
                         }
