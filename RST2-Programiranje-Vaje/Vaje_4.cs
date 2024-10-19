@@ -1,4 +1,5 @@
 ﻿using System.Diagnostics.Metrics;
+using System.Reflection;
 using System.Runtime.ConstrainedExecution;
 
 namespace RST2_Programiranje_Vaje
@@ -62,6 +63,53 @@ namespace RST2_Programiranje_Vaje
 
             // Izpiši podatke na ekran
             Console.WriteLine($"Hvala za podatke. Konjske moči vašega avtomobila: {mojAvto2.Hp}");
+        }
+
+
+        public static void Naloga232()
+        {
+            Index indeks = new Index()
+            {
+                Ime = "Leon",
+                Priimek = "Priimek",
+                VpisnaSt = 35420000
+            };
+            indeks[Predmet.Programiranje] = 10;
+            indeks[Predmet.DiskretnaMatematika] = 10;
+            indeks[Predmet.Algoritmi] = 10;
+
+            Console.WriteLine($"Student z vpisno st {indeks.VpisnaSt} ima povprecno oceno {indeks.PovprecnaOcena}");
+        }
+
+
+        public static void Naloga233()
+        {
+            Student student1 = new Student()
+            {
+                Id = 1,
+                Ime = "Aljaz",
+                Priimek = "Fink",
+                Spol = Gender.Moski
+            };
+
+            Student student2 = new Student()
+            {
+                Id = 2,
+                Ime = "Enej",
+                Priimek = "Lokar",
+                Spol = Gender.Moski
+            };
+
+            StudentGeneration rstMag = new StudentGeneration()
+            {
+                LetoVpisa = 2024,
+                StudijskiProgram = "RST",
+            };
+
+            rstMag[35240001] = student1;
+            rstMag[35240002] = student2;
+
+            Console.WriteLine($"Velikost generacije {rstMag.StudijskiProgram} je {rstMag.VelikostGeneracije}");
         }
     }
 }
