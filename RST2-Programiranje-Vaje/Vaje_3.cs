@@ -12,7 +12,7 @@ namespace RST2_Programiranje_Vaje
     }
 
     /// <summary>
-    /// Rešitve vaj - 4. oktober 2024
+    /// Rešitve vaj - 9. oktober 2024
     /// </summary>
     public class Vaje_3
     {

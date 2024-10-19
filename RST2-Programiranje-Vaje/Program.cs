@@ -4,10 +4,10 @@
     {
         enum Sections
         {
-            Vaje_1 = 1, // 3. 10. 2024
-            Vaje_2 = 2, // 4. 10. 2024
-            Vaje_3 = 3, // 9. 10. 2024
-            Vaje_4 = 4
+            Vaje_1 = 1, //  3. 10. 2024
+            Vaje_2 = 2, //  4. 10. 2024
+            Vaje_3 = 3, //  9. 10. 2024
+            Vaje_4 = 4, // 19. 10. 2024
         }
 
         static void Main(string[] args)
@@ -114,6 +114,19 @@
                             case Vaje3.Naloga213:
                                 {
                                     Vaje_3.Naloga213();
+                                }
+                                break;
+                        }
+                    }
+                    break;
+                
+                case Sections.Vaje_4:
+                    {
+                        switch (InterfaceFunctions.ChooseSection<Vaje4>())
+                        {
+                            case Vaje4.Naloga221:
+                                {
+                                    Vaje_4.Naloga221();
                                 }
                                 break;
                         }
