@@ -129,6 +129,11 @@
                                     Vaje_4.Naloga221();
                                 }
                                 break;
+                            case Vaje4.Naloga222:
+                                {
+                                    Vaje_4.Naloga222();
+                                }
+                                break;
                         }
                     }
                     break;

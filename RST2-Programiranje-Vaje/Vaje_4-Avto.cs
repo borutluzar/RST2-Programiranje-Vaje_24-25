@@ -1,11 +1,19 @@
-﻿namespace RST2_Programiranje_Vaje
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace RST2_Programiranje_Vaje
 {
     internal class Avto
     {
         private const double MAXMOCMOTORJA = 450;
+        private int letnicaIzdelave;
+        private double mocMotorja;
 
         /// <summary>
-        /// konstruktor
+        /// Konstruktor za številko šasije
         /// </summary>
         /// <param name="stSasije"></param>
         public Avto(string stSasije)
@@ -13,7 +21,15 @@
             this.StSasije = stSasije;
         }
 
-        private int letnicaIzdelave;
+        public Avto()
+        {
+            this.StSasije = "00000000";
+            this.StPotnikov = 5;
+            this.StVrat = 4;
+            this.MocMotorja = 0;
+            this.LetnicaIzdelave = DateTime.Now.Year;
+        }
+
         public int LetnicaIzdelave
         {
             get
@@ -24,16 +40,12 @@
             {
                 if (value > DateTime.Now.Year)
                 {
-                    throw new ArgumentException("Letnica izdelave je napačna");
+                    throw new ArgumentException($"Letnica izdelave {value} je napačna.");
                 }
-                else
-                {
-                    letnicaIzdelave = value;
-                }
+                // throw vrne return, tako da else {} ni potreben, lahko bi napisali le: letnicaIzdelave = value;
+                else letnicaIzdelave = value;
             }
         }
-
-        private double mocMotorja;
 
         public double MocMotorja
         {
@@ -45,17 +57,13 @@
             {
                 if (value > MAXMOCMOTORJA)
                 {
-                    throw new ArgumentException("Moč je previsoka za naše ceste");
+                    throw new ArgumentException($"Moč motorja {value} kW je previsoka za registracijo v Sloveniji, ki je {MAXMOCMOTORJA} kW. \n");
                 }
-                else
-                {
-                    mocMotorja = value;
-                }
+                mocMotorja = value;
             }
         }
-
         /// <summary>
-        /// Lastnist vrača število potnikov
+        /// Lastnost vrača število potnikov
         /// </summary>
         public int StPotnikov { get; set; }
 
@@ -63,11 +71,14 @@
 
         public string StSasije { get; }
 
+        /// <summary>
+        /// Lastnost vrača konjske moči
+        /// </summary>
         public int Hp
         {
             get
             {
-                return (int)(this.MocMotorja * 1.341);
+                return (int)Math.Round(this.MocMotorja * 1.341, MidpointRounding.AwayFromZero);
             }
         }
     }
