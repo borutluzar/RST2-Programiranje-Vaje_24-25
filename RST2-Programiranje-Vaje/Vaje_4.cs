@@ -7,7 +7,9 @@ namespace RST2_Programiranje_Vaje
     public enum Vaje4
     {
         Naloga221 = 1,
-        Naloga222 = 2
+        Naloga222 = 2,
+        Naloga232 = 3,
+        Naloga233 = 4
     }
 
     /// <summary>
