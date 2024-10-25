@@ -87,16 +87,16 @@ namespace RST2_Programiranje_Vaje
             Student student1 = new Student()
             {
                 Id = 1,
-                Ime = "Aljaz",
-                Priimek = "Fink",
+                Ime = "Tone",
+                Priimek = "Pavček",
                 Spol = Gender.Moski
             };
 
             Student student2 = new Student()
             {
                 Id = 2,
-                Ime = "Enej",
-                Priimek = "Lokar",
+                Ime = "Janez",
+                Priimek = "Novak",
                 Spol = Gender.Moski
             };
 

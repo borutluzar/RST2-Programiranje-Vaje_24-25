@@ -1,10 +1,11 @@
-﻿using System;
-using System.Reflection;
-
-class Index
+﻿class Index
 {
+    // Pomožen slovar, ki ga uporabljamo za shranjevanje vrednosti indekserja
     private Dictionary<Predmet, int> dicOcene = new Dictionary<Predmet, int>();
 
+    /// <summary>
+    /// Indekser za objekt Index
+    /// </summary>
     public int? this[Predmet predmet]
     {
         get
@@ -41,11 +42,14 @@ class Index
     }
 
 }
+
+/// <summary>
+/// Seznam predmetov zapišemo v obliki enumeracije
+/// </summary>
 public enum Predmet
 {
     Programiranje = 1,
     DiskretnaMatematika = 2,
-    Algoritmi = 3,
-
+    Algoritmi = 3
 }
 
