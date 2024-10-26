@@ -9,6 +9,7 @@
             Vaje_3 = 3, //  9. 10. 2024
             Vaje_4 = 4, // 19. 10. 2024
             Vaje_5 = 5, // 26. 10. 2024
+            Vaje_6 = 6, // 30. 10. 2024
         }
 
         static void Main(string[] args)
@@ -153,11 +154,29 @@
                     {
                         switch (InterfaceFunctions.ChooseSection<Vaje5>())
                         {
-                            case Vaje5.NalogaXY:
+                            case Vaje5.Naloga244:
                                 {
-                                    Vaje_5.NalogaXY();
+                                    Vaje_5.Naloga244();
                                 }
                                 break;
+                            case Vaje5.Naloga245:
+                                {
+                                    Vaje_5.Naloga245();
+                                }
+                                break;
+                        }
+                    }
+                    break;
+
+                case Sections.Vaje_6:
+                    {
+                        switch (InterfaceFunctions.ChooseSection<Vaje6>())
+                        {
+                            case Vaje6.NalogaXY:
+                                {
+                                    Vaje_6.NalogaXY();
+                                }
+                                break;                            
                         }
                     }
                     break;

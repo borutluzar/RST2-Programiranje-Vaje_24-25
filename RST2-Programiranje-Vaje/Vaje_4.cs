@@ -1,6 +1,8 @@
-﻿using System.Diagnostics.Metrics;
+﻿using System;
+using System.Diagnostics.Metrics;
 using System.Reflection;
 using System.Runtime.ConstrainedExecution;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace RST2_Programiranje_Vaje
 {
@@ -17,6 +19,11 @@ namespace RST2_Programiranje_Vaje
     /// </summary>
     public class Vaje_4
     {
+        /// <summary>
+        /// Ustvarite razred Avto in mu dodajte nekaj ustreznih lastnosti, 
+        /// dve implementirajte v celoti, dve naj bosta samodejno implementirani 
+        /// in ena samodejno implementirana, vendar samo za branje.
+        /// </summary>
         public static void Naloga221()
         {
             Avto mojAvto = new Avto("1234ABC")
@@ -30,14 +37,14 @@ namespace RST2_Programiranje_Vaje
             Console.WriteLine($"Moj avto ima {mojAvto.Hp} konjskih moči.");
         }
 
+        /// <summary>
+        /// Lastnostim iz zgornjega razreda vrednosti nastavite v praznem konstruktorju,
+        /// nato pa zapišite še metodo, ki uporabnika pozove k vnosu vrednosti za vsako izmed njih.
+        /// Za lastnosti, ki sta implementirani v celoti, 
+        /// v bloku set preverite, če so vnešene vrednosti ustrezne.
+        /// </summary>
         public static void Naloga222()
         {
-            Console.WriteLine($"Naloga 2.2.2");
-
-            // Lastnostim iz zgornjega razreda vrednosti nastavite v praznem konstruktorju,
-            // nato pa zapišite še metodo, ki uporabnika pozove k vnosu vrednosti za vsako izmed njih.
-            // Za lastnosti, ki sta implementirani v celoti, v bloku set preverite, če so vnesene vrednosti ustrezne.
-
             Console.WriteLine("Vpišite podatke vašega avtomobila:");
 
             // Podatek o št. šasije
@@ -67,7 +74,10 @@ namespace RST2_Programiranje_Vaje
             Console.WriteLine($"Hvala za podatke. Konjske moči vašega avtomobila: {mojAvto2.Hp}");
         }
 
-
+        /// <summary>
+        /// Za razred Zapiski iz Naloge221 naredite indekser, 
+        /// ki bo vračal objekt Poglavje glede na dani naslov poglavja.
+        /// </summary>
         public static void Naloga232()
         {
             Index indeks = new Index()
@@ -83,7 +93,12 @@ namespace RST2_Programiranje_Vaje
             Console.WriteLine($"Student z vpisno st {indeks.VpisnaSt} ima povprecno oceno {indeks.PovprecnaOcena}");
         }
 
-
+        /// <summary>
+        /// Napišite razred StudentGeneration, ki ima kot lastnosti leto vpisa in študijski program, 
+        /// kot indekser pa množico študentov vpisanih v ta program v danem letu. 
+        /// Študent naj identificira glede na njihovo vpisno številko, 
+        /// shranjeni pa naj bodo kot poseben objekt tipa Student.
+        /// </summary>
         public static void Naloga233()
         {
             Student student1 = new Student()
