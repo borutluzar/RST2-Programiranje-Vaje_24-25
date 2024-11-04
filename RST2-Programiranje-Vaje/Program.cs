@@ -9,7 +9,8 @@
             Vaje_3 = 3, //  9. 10. 2024
             Vaje_4 = 4, // 19. 10. 2024
             Vaje_5 = 5, // 26. 10. 2024
-            Vaje_6 = 6, // 30. 10. 2024
+            Vaje_6 = 6, // 30. 10. 2024 - skupno delo (Nalogi 2.5.3 in 2.5.4)
+            Vaje_7 = 7, //  7. 11. 2024
         }
 
         static void Main(string[] args)
@@ -164,17 +165,22 @@
                                     Vaje_5.Naloga245();
                                 }
                                 break;
+                            case Vaje5.Naloga246:
+                                {
+                                    Vaje_5.Naloga246();
+                                }
+                                break;
                         }
                     }
                     break;
 
-                case Sections.Vaje_6:
+                case Sections.Vaje_7:
                     {
-                        switch (InterfaceFunctions.ChooseSection<Vaje6>())
+                        switch (InterfaceFunctions.ChooseSection<Vaje7>())
                         {
-                            case Vaje6.NalogaXY:
+                            case Vaje7.NalogaXY:
                                 {
-                                    Vaje_6.NalogaXY();
+                                    Vaje_7.NalogaXY();
                                 }
                                 break;                            
                         }

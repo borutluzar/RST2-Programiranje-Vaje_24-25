@@ -5,7 +5,7 @@ using System.Runtime.Intrinsics.X86;
 
 namespace RST2_Programiranje_Vaje
 {
-    public enum Vaje6
+    public enum Vaje7
     {
         NalogaXY = 1,        
     }
@@ -13,7 +13,7 @@ namespace RST2_Programiranje_Vaje
     /// <summary>
     /// Rešitve vaj - 30. oktober 2024
     /// </summary>
-    public class Vaje_6
+    public class Vaje_7
     {
         /// <summary>
         /// NAVODILA

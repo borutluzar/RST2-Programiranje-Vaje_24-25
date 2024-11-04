@@ -9,6 +9,7 @@ namespace RST2_Programiranje_Vaje
     {
         Naloga244 = 1,
         Naloga245 = 2,
+        Naloga246 = 3
     }
 
     /// <summary>
@@ -80,6 +81,38 @@ namespace RST2_Programiranje_Vaje
             Console.WriteLine("JEDILNIK");
             Console.WriteLine(sobota.ToString());
             Console.WriteLine($"Skupna cena menija je {sobota.SkupnaCena(true)}.");
+        }
+
+
+        // Razvijate rešitev za spletno trgovino in pripraviti morate podatkovni model za nakupovalno košarico.
+        // Nakupovalna košarica lahko vsebuje množico različnih izdelkov.
+        // Napišite ustrezen razred za košarico, izdelek in vsaj pet podrazredov izdelka.
+        // Smiselno dodajte nekaj metod in lastnosti v vsakem od razredov,
+        // s čimer boste lahko na primeru prikazali, kako nam polimorfizmi pomagajo pri razvoju
+        // programskih rešitev.
+        public static void Naloga246()
+        {
+            // Ustvarimo primerke izdelkov Sadje
+            Sadje jabolko = new Sadje("Jabolko", "Kranj", 0.99m, new DateTime(2024, 5, 20));
+            Sadje mandarina = new Sadje("Mandarine", "Šenčur", 1.20m, new DateTime(2024, 3, 10));
+            Sadje grozdje = new Sadje("Grozdje", "Kmetija Novak", 2.50m, new DateTime(2024, 4, 15));
+
+            // Ustvarimo primerke izdelkov BelaTehnika
+            BelaTehnika pralniStroj = new BelaTehnika("Pralni stroj", "Bosch", 499.99m, 36, "A++");
+            BelaTehnika hladilnik = new BelaTehnika("Hladilnik", "Samsung", 699.99m, 24, "A++");
+            BelaTehnika pomivalniStroj = new BelaTehnika("Pomivalni stroj", "Gorenje", 400.00m, 24, "A+");
+
+            // Ustvarimo kosarico in dodamo izdelke
+            Kosarica kosarica = new Kosarica();
+            kosarica.DodajIzdelek(jabolko);
+            kosarica.DodajIzdelek(mandarina);
+            kosarica.DodajIzdelek(grozdje);
+            kosarica.DodajIzdelek(pralniStroj);
+            kosarica.DodajIzdelek(hladilnik);
+            kosarica.DodajIzdelek(pomivalniStroj);
+
+            // Izpišemo vsebino košarice
+            Console.WriteLine(kosarica.ToString());
         }
     }    
 }
