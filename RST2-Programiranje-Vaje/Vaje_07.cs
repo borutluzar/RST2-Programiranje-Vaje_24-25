@@ -18,6 +18,11 @@
             Report report = new Report("Porocilo o programiranju", DateTime.Now);
             report.Author = "Leon";
             report.Save();
+            SystemUser user = new SystemUser(12);
+            user.Name = "Enej";
+            report.Validator = user;
+            DateTime deadline = DateTime.Now.AddDays(10);
+            report.SendToNextStage(deadline);
         }
     }    
 }
