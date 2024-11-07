@@ -5,7 +5,7 @@ using System.Runtime.Intrinsics.X86;
 
 namespace RST2_Programiranje_Vaje
 {
-    public enum Vaje5
+    public enum Vaje_05_Naloge
     {
         Naloga244 = 1,
         Naloga245 = 2,
@@ -15,7 +15,7 @@ namespace RST2_Programiranje_Vaje
     /// <summary>
     /// Rešitve vaj - 26. oktober 2024
     /// </summary>
-    public sealed class Vaje_5
+    public sealed class Vaje_05
     {
         /// <summary>
         /// Postali ste del razvojne ekipe večjega sistema. 

@@ -4,46 +4,49 @@
     {
         enum Sections
         {
-            Vaje_1 = 1, //  3. 10. 2024
-            Vaje_2 = 2, //  4. 10. 2024
-            Vaje_3 = 3, //  9. 10. 2024
-            Vaje_4 = 4, // 19. 10. 2024
-            Vaje_5 = 5, // 26. 10. 2024
-            Vaje_6 = 6, // 30. 10. 2024 - skupno delo (Nalogi 2.5.3 in 2.5.4)
-            Vaje_7 = 7, //  7. 11. 2024
+            Vaje_01 =  1, //  3. 10. 2024
+            Vaje_02 =  2, //  4. 10. 2024
+            Vaje_03 =  3, //  9. 10. 2024
+            Vaje_04 =  4, // 19. 10. 2024
+            Vaje_05 =  5, // 26. 10. 2024
+            Vaje_06 =  6, // 30. 10. 2024 - skupno delo (Nalogi 2.5.3 in 2.5.4)
+            Vaje_07 =  7, //  7. 11. 2024
+            Vaje_08 =  8, // 15. 11. 2024
+            Vaje_09 =  9, // 21. 11. 2024
+            Vaje_10 = 10, // 29. 11. 2024
         }
 
         static void Main(string[] args)
         {
             switch (InterfaceFunctions.ChooseSection<Sections>())
             {
-                case Sections.Vaje_1:
+                case Sections.Vaje_01:
                     {
-                        switch (InterfaceFunctions.ChooseSection<Vaje1>())
+                        switch (InterfaceFunctions.ChooseSection<Vaje_01_Naloge>())
                         {
-                            case Vaje1.Naloga112:
+                            case Vaje_01_Naloge.Naloga112:
                                 {
-                                    Vaje_1.Naloga112();
+                                    Vaje_01.Naloga112();
                                 }
                                 break;
-                            case Vaje1.Naloga123:
+                            case Vaje_01_Naloge.Naloga123:
                                 {
                                     Console.Write("Vpišite številko meseca: ");
                                     int mesec = int.Parse(Console.ReadLine());
-                                    int stDni = Vaje_1.Naloga123(mesec);
+                                    int stDni = Vaje_01.Naloga123(mesec);
                                     Console.WriteLine($"V {mesec}. mesecu je {stDni} dni.");
                                 }
                                 break;
-                            case Vaje1.Naloga131:
+                            case Vaje_01_Naloge.Naloga131:
                                 {
-                                    Vaje_1.Naloga131();
+                                    Vaje_01.Naloga131();
                                 }
                                 break;
-                            case Vaje1.Naloga141:
+                            case Vaje_01_Naloge.Naloga141:
                                 {
                                     int x = 10;
                                     int y = 20;
-                                    (int NSV, int NSD) = Vaje_1.Naloga141(x, y);
+                                    (int NSV, int NSD) = Vaje_01.Naloga141(x, y);
                                     Console.WriteLine($"Najmanjši skupni večkratnik števil {x} in {y} je {NSV}.");
                                     Console.WriteLine($"Največji skupni delitelj števil {x} in {y} je {NSD}.");
                                 }
@@ -52,135 +55,135 @@
                     }
                     break;
 
-                case Sections.Vaje_2:
+                case Sections.Vaje_02:
                     {
-                        switch (InterfaceFunctions.ChooseSection<Vaje2>())
+                        switch (InterfaceFunctions.ChooseSection<Vaje_02_Naloge>())
                         {
-                            case Vaje2.Naloga135:
+                            case Vaje_02_Naloge.Naloga135:
                                 {
-                                    Vaje_2.Naloga135();
+                                    Vaje_02.Naloga135();
                                 }
                                 break;
-                            case Vaje2.Naloga142:
+                            case Vaje_02_Naloge.Naloga142:
                                 {
                                     int x = 11;
                                     int y = 17;
-                                    int NSV = Vaje_2.Naloga142(x, y, out int? NSD, findGCD: true);
+                                    int NSV = Vaje_02.Naloga142(x, y, out int? NSD, findGCD: true);
                                     Console.WriteLine($"Najmanjši skupni večkratnik števil {x} in {y} je {NSV}.");
                                     Console.WriteLine($"Največji skupni delitelj števil {x} in {y} je {NSD}.");
                                 }
                                 break;
-                            case Vaje2.Naloga143:
+                            case Vaje_02_Naloge.Naloga143:
                                 {
                                     var newList = new List<double>()
                                             {
                                                 0.9, 1.2, 3.5
                                             };
 
-                                    Vaje_2.Naloga143(ref newList);
+                                    Vaje_02.Naloga143(ref newList);
                                     Console.WriteLine(newList.Count);
                                 }
                                 break;
-                            case Vaje2.Naloga152:
+                            case Vaje_02_Naloge.Naloga152:
                                 {
-                                    Vaje_2.Naloga152();
+                                    Vaje_02.Naloga152();
                                 }
                                 break;
-                            case Vaje2.Naloga171:
+                            case Vaje_02_Naloge.Naloga171:
                                 {
-                                    Vaje_2.Naloga171();
-                                }
-                                break;
-                        }
-                    }
-                    break;
-
-                case Sections.Vaje_3:
-                    {
-                        switch (InterfaceFunctions.ChooseSection<Vaje3>())
-                        {
-                            case Vaje3.Naloga182:
-                                {
-                                    Vaje_3.Naloga182(10_000);
-                                }
-                                break;
-                            case Vaje3.Naloga211:
-                                {
-                                    Vaje_3.Naloga211();
-                                }
-                                break;
-                            case Vaje3.Naloga212:
-                                {
-                                    Vaje_3.Naloga212();
-                                }
-                                break;
-                            case Vaje3.Naloga213:
-                                {
-                                    Vaje_3.Naloga213();
-                                }
-                                break;
-                        }
-                    }
-                    break;
-                
-                case Sections.Vaje_4:
-                    {
-                        switch (InterfaceFunctions.ChooseSection<Vaje4>())
-                        {
-                            case Vaje4.Naloga221:
-                                {
-                                    Vaje_4.Naloga221();
-                                }
-                                break;
-                            case Vaje4.Naloga222:
-                                {
-                                    Vaje_4.Naloga222();
-                                }
-                                break;
-                            case Vaje4.Naloga232:
-                                {
-                                    Vaje_4.Naloga232();
-                                }
-                                break;
-                            case Vaje4.Naloga233:
-                                {
-                                    Vaje_4.Naloga233();
-                                }
-                                break;
-                        }
-                    }
-                    break;
-                
-                case Sections.Vaje_5:
-                    {
-                        switch (InterfaceFunctions.ChooseSection<Vaje5>())
-                        {
-                            case Vaje5.Naloga244:
-                                {
-                                    Vaje_5.Naloga244();
-                                }
-                                break;
-                            case Vaje5.Naloga245:
-                                {
-                                    Vaje_5.Naloga245();
-                                }
-                                break;
-                            case Vaje5.Naloga246:
-                                {
-                                    Vaje_5.Naloga246();
+                                    Vaje_02.Naloga171();
                                 }
                                 break;
                         }
                     }
                     break;
 
-                case Sections.Vaje_7:
+                case Sections.Vaje_03:
                     {
-                        switch (InterfaceFunctions.ChooseSection<Vaje7>())
+                        switch (InterfaceFunctions.ChooseSection<Vaje_03_Naloge>())
                         {
-                            case Vaje7.NalogaXY:
+                            case Vaje_03_Naloge.Naloga182:
                                 {
-                                    Vaje_7.NalogaXY();
+                                    Vaje_03.Naloga182(10_000);
+                                }
+                                break;
+                            case Vaje_03_Naloge.Naloga211:
+                                {
+                                    Vaje_03.Naloga211();
+                                }
+                                break;
+                            case Vaje_03_Naloge.Naloga212:
+                                {
+                                    Vaje_03.Naloga212();
+                                }
+                                break;
+                            case Vaje_03_Naloge.Naloga213:
+                                {
+                                    Vaje_03.Naloga213();
+                                }
+                                break;
+                        }
+                    }
+                    break;
+                
+                case Sections.Vaje_04:
+                    {
+                        switch (InterfaceFunctions.ChooseSection<Vaje_04_Naloge>())
+                        {
+                            case Vaje_04_Naloge.Naloga221:
+                                {
+                                    Vaje_04.Naloga221();
+                                }
+                                break;
+                            case Vaje_04_Naloge.Naloga222:
+                                {
+                                    Vaje_04.Naloga222();
+                                }
+                                break;
+                            case Vaje_04_Naloge.Naloga232:
+                                {
+                                    Vaje_04.Naloga232();
+                                }
+                                break;
+                            case Vaje_04_Naloge.Naloga233:
+                                {
+                                    Vaje_04.Naloga233();
+                                }
+                                break;
+                        }
+                    }
+                    break;
+                
+                case Sections.Vaje_05:
+                    {
+                        switch (InterfaceFunctions.ChooseSection<Vaje_05_Naloge>())
+                        {
+                            case Vaje_05_Naloge.Naloga244:
+                                {
+                                    Vaje_05.Naloga244();
+                                }
+                                break;
+                            case Vaje_05_Naloge.Naloga245:
+                                {
+                                    Vaje_05.Naloga245();
+                                }
+                                break;
+                            case Vaje_05_Naloge.Naloga246:
+                                {
+                                    Vaje_05.Naloga246();
+                                }
+                                break;
+                        }
+                    }
+                    break;
+
+                case Sections.Vaje_07:
+                    {
+                        switch (InterfaceFunctions.ChooseSection<Vaje_07_Naloge>())
+                        {
+                            case Vaje_07_Naloge.NalogaXY:
+                                {
+                                    Vaje_07.NalogaXY();
                                 }
                                 break;                            
                         }

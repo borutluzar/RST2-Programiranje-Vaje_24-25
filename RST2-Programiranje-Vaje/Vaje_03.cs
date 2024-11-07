@@ -3,7 +3,7 @@ using System.Runtime.ConstrainedExecution;
 
 namespace RST2_Programiranje_Vaje
 {
-    public enum Vaje3
+    public enum Vaje_03_Naloge
     {
         Naloga182 = 1,
         Naloga211 = 2,
@@ -14,7 +14,7 @@ namespace RST2_Programiranje_Vaje
     /// <summary>
     /// Rešitve vaj - 9. oktober 2024
     /// </summary>
-    public class Vaje_3
+    public class Vaje_03
     {
         /// <summary>
         /// Zapišite funkcijo, ki za dano število poskusov simulira met igralne kocke (števila med 1 in 6).

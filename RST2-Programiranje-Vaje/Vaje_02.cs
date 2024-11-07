@@ -4,7 +4,7 @@ using System.Runtime.ConstrainedExecution;
 
 namespace RST2_Programiranje_Vaje
 {
-    public enum Vaje2
+    public enum Vaje_02_Naloge
     {
         Naloga135 = 1,
         Naloga142 = 2,
@@ -16,7 +16,7 @@ namespace RST2_Programiranje_Vaje
     /// <summary>
     /// Rešitve vaj - 4. oktober 2024
     /// </summary>
-    public class Vaje_2
+    public class Vaje_02
     {
         /// <summary>
         /// Na spletu poiščite postopek za branje izvorne kode html strani, podane z url naslovom, s C#. 

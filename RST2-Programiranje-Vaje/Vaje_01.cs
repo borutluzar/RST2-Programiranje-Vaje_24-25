@@ -3,7 +3,7 @@ using System.Runtime.ConstrainedExecution;
 
 namespace RST2_Programiranje_Vaje
 {
-    public enum Vaje1
+    public enum Vaje_01_Naloge
     {
         Naloga112 = 1,
         Naloga123 = 2,
@@ -14,7 +14,7 @@ namespace RST2_Programiranje_Vaje
     /// <summary>
     /// Rešitve vaj - 3. oktober 2024
     /// </summary>
-    public class Vaje_1
+    public class Vaje_01
     {
         /// <summary>
         /// V rešitev iz prejšnje naloge dodajte še en projekt tipa Class Library, 

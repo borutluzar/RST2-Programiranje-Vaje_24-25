@@ -6,7 +6,7 @@ using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace RST2_Programiranje_Vaje
 {
-    public enum Vaje4
+    public enum Vaje_04_Naloge
     {
         Naloga221 = 1,
         Naloga222 = 2,
@@ -17,7 +17,7 @@ namespace RST2_Programiranje_Vaje
     /// <summary>
     /// Rešitve vaj - 19. oktober 2024
     /// </summary>
-    public class Vaje_4
+    public class Vaje_04
     {
         /// <summary>
         /// Ustvarite razred Avto in mu dodajte nekaj ustreznih lastnosti, 
