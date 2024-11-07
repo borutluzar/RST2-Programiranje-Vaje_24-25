@@ -2,7 +2,7 @@
 {
     public enum Vaje_07_Naloge
     {
-        NalogaXY = 1,        
+        Naloga261 = 1,        
     }
 
     /// <summary>
@@ -13,9 +13,11 @@
         /// <summary>
         /// NAVODILA
         /// </summary>
-        public static void NalogaXY()
+        public static void Naloga261()
         {
-            
+            Report report = new Report("Porocilo o programiranju", DateTime.Now);
+            report.Author = "Leon";
+            report.Save();
         }
     }    
 }
