@@ -1,10 +1,5 @@
 ﻿namespace RST2_Programiranje_Vaje
 {
-
-    /// <summary>
-    /// Rešitve vaj - 7. november 2024
-    /// </summary>
-    /// 
     interface IDocument 
     {
         string Title { get; }
@@ -31,13 +26,10 @@
         SystemUser Certifier { get; set; } 
         SystemUser Validator { get; set; }
         void SendToNextStage(DateTime deadline);
-
     }
-
 
     public class Report : IDocument, IWorkflow
     {
-
         public Report(string title, DateTime date) 
         { 
             Title = title;
