@@ -177,6 +177,19 @@
                     }
                     break;
 
+                case Sections.Vaje_06:
+                    {
+                        switch (InterfaceFunctions.ChooseSection<Vaje_06_Naloge>())
+                        {
+                            case Vaje_06_Naloge.Naloga254:
+                                {
+                                    Vaje_06.Naloga254();
+                                }
+                                break;
+                        }
+                    }
+                    break;
+
                 case Sections.Vaje_07:
                     {
                         switch (InterfaceFunctions.ChooseSection<Vaje_07_Naloge>())
