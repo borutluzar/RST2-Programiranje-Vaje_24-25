@@ -2,7 +2,7 @@
 {
     public enum Vaje_08_Naloge
     {
-        NalogaXY = 1,        
+        Naloga272 = 1,
     }
 
     /// <summary>
@@ -13,9 +13,30 @@
         /// <summary>
         /// NAVODILA
         /// </summary>
-        public static void NalogaXY()
+        public static void Naloga272()
         {
-            
+            string besedilo = "na roblek bom odsel";
+            int stevec = besedilo.SteviloSamoglasnikov();
+            Console.WriteLine("Besedilo ima " + stevec + " samoglasnikov");
         }
-    }    
+    }
+
+    public static class RazsiritveneMetode
+    {
+        public static int SteviloSamoglasnikov(this string besedilo)
+        {
+            int stevec = 0;
+            besedilo = besedilo.ToLower();
+            foreach (var c in besedilo)
+            {
+                switch (c)
+                {
+                    case 'a' or 'e' or 'i' or 'o' or 'u':
+                        stevec++;
+                        break;
+                }
+            }
+            return stevec;
+        }
+    }
 }
