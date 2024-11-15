@@ -3,6 +3,7 @@
     public enum Vaje_08_Naloge
     {
         Naloga272 = 1,
+        Naloga273 = 2,
     }
 
     /// <summary>
@@ -18,6 +19,13 @@
             string besedilo = "na roblek bom odsel";
             int stevec = besedilo.SteviloSamoglasnikov();
             Console.WriteLine("Besedilo ima " + stevec + " samoglasnikov");
+        }
+
+        public static void Naloga273()
+        {
+            string beseda = "abeceda";
+            Console.WriteLine(beseda.ToString());
+            Console.WriteLine(RazsiritveneMetode.ToString(beseda));
         }
     }
 
@@ -37,6 +45,11 @@
                 }
             }
             return stevec;
+        }
+
+        public static string ToString(this string niz)
+        {
+            return new String(niz.Reverse().ToArray());
         }
     }
 }
