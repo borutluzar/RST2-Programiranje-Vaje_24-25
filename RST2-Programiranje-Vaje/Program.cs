@@ -222,6 +222,11 @@
                                     Vaje_08.Naloga273();
                                 }
                                 break;
+                            case Vaje_08_Naloge.Naloga274:
+                                {
+                                    Vaje_08.Naloga274();
+                                }
+                                break;
                         }
                     }
                     break;

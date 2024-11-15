@@ -4,6 +4,7 @@
     {
         Naloga272 = 1,
         Naloga273 = 2,
+        Naloga274 = 3,
     }
 
     /// <summary>
@@ -26,6 +27,12 @@
             string beseda = "abeceda";
             Console.WriteLine(beseda.ToString());
             Console.WriteLine(RazsiritveneMetode.ToString(beseda));
+        }
+
+        public static void Naloga274()
+        {
+            Porocilo porocilo = new Porocilo() { Potrjevalec = "Enej", StDni = 3, Tujina = false };
+            Console.WriteLine(porocilo.IzracunDnevnic(25));
         }
     }
 
@@ -51,5 +58,17 @@
         {
             return new String(niz.Reverse().ToArray());
         }
+
+        public static double IzracunDnevnic(this Porocilo porocilo, double visinaDnevnice)
+        {
+            return visinaDnevnice * porocilo.StDni;
+        }
+    }
+
+    public class Porocilo
+    {        
+        public int StDni { get; set; }
+        public Boolean Tujina { get; set; }
+        public string Potrjevalec { get; set; }
     }
 }
