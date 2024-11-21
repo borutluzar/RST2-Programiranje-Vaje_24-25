@@ -6,7 +6,7 @@
     }
 
     /// <summary>
-    /// Rešitve vaj - 21. november 2024
+    /// Rešitve vaj - 29. november 2024
     /// </summary>
     public class Vaje_10
     {
