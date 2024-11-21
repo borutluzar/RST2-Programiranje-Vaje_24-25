@@ -234,7 +234,7 @@
                                 break;
                             case Vaje_08_Naloge.Naloga300:
                                 {
-                                    Vaje_08.Naloga330();
+                                    Vaje_08.Naloga300();
                                 }
                                 break;
                         }
@@ -247,6 +247,21 @@
                             case Vaje_09_Naloge.Naloga301:
                                 {
                                     Vaje_09.Naloga301();
+                                }
+                                break;
+                            case Vaje_09_Naloge.Naloga302:
+                                {
+                                    Vaje_09.Naloga302();
+                                }
+                                break;
+                            case Vaje_09_Naloge.Naloga303:
+                                {
+                                    Vaje_09.Naloga303();
+                                }
+                                break;
+                            case Vaje_09_Naloge.Naloga311:
+                                {
+                                    Vaje_09.Naloga311();
                                 }
                                 break;
                         }

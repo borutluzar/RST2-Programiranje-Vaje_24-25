@@ -53,7 +53,7 @@ namespace RST2_Programiranje_Vaje
         /// V mapi Vaje_08_Tweets imate datoteke s tviti v JSON obliki.
         /// Pripravite funkcijo, ki prebere vse tvite avtorja z danim ID-jem.
         /// </summary>
-        public static void Naloga330()
+        public static void Naloga300()
         {
             string folderPath = $"./Vaje_08_Tweets";
             List<string> lstAuthorsTweets = new List<string>();
