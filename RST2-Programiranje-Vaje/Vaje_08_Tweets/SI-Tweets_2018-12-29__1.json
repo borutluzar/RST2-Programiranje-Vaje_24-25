@@ -1,0 +1,6447 @@
+{
+  "data": [
+    {
+      "conversation_id": "1079088905251635200",
+      "lang": "sl",
+      "in_reply_to_user_id": "384298331",
+      "created_at": "2018-12-29T23:33:52Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079158592723472384",
+      "author_id": "188011104",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1079088905251635200"
+        }
+      ],
+      "text": "@ZoranKofol Samo ti pa ju lahko primerjas.",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079156959834791936",
+      "lang": "und",
+      "created_at": "2018-12-29T23:27:23Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079156959834791936",
+      "author_id": "494864152",
+      "text": "#PravdaZaDavida se culo i na punk svirci u Ljubljani.",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079117128240893953",
+      "lang": "und",
+      "in_reply_to_user_id": "1016043560288817153",
+      "created_at": "2018-12-29T22:49:10Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 6,
+        "quote_count": 0
+      },
+      "id": "1079147342496976896",
+      "author_id": "28444782",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1079117128240893953"
+        }
+      ],
+      "text": "@MilanCHE111 Kada je bio onwj sneg ili tako nešto 💊",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078970379157286913",
+      "lang": "qme",
+      "in_reply_to_user_id": "13514762",
+      "created_at": "2018-12-29T22:07:31Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "id": "1079136861153619968",
+      "author_id": "31370707",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078970379157286913"
+        }
+      ],
+      "text": "@LegaSalvini @MarTin98766959 https://t.co/MZ5wbH8oj2",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079135593303605248",
+      "lang": "qht",
+      "created_at": "2018-12-29T22:02:29Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079135593303605248",
+      "author_id": "1251558624",
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1078964543743840257"
+        }
+      ],
+      "text": "#Sloveniamycountry https://t.co/YnJAg7Rn2J",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078962848276119553",
+      "lang": "sl",
+      "in_reply_to_user_id": "2159864302",
+      "created_at": "2018-12-29T22:00:18Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1079135045959467008",
+      "author_id": "459532635",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078962848276119553"
+        }
+      ],
+      "text": "@janezsnoj @SmiljanPurger Oslarija. Nam je za vse, ki jih opisujete. Vse drugo je podtikanje.",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079133790788833281",
+      "lang": "sl",
+      "created_at": "2018-12-29T21:55:19Z",
+      "public_metrics": {
+        "retweet_count": 25,
+        "reply_count": 5,
+        "like_count": 36,
+        "quote_count": 1
+      },
+      "id": "1079133790788833281",
+      "author_id": "459532635",
+      "text": "Jsvna hiša TVS je nocoj poročala @InfoTVSLO , da so protesti v upadanju, da jim zmanjkuje moči in da je šlo le za nekaj 100 protestnikov. Po takšnih in drugih fake news se pokaže vsa vrednost socialnih omrežij in vsa beda nacionalken https://t.co/RCZFOx3yhT",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079133293520535553",
+      "lang": "und",
+      "created_at": "2018-12-29T21:53:21Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079133293520535553",
+      "author_id": "1295721338",
+      "text": "#السياحة في #ليوبليانا #سلوفينيا 🇸🇮 جبال لاتيجا .. على #نهر #سافا #أوروبا #سفر #سياحة 😍\nperfect_places2go #ljubljana #litija #slovenia #Sava #river #S #E #touring #tourist #tour #tourism… https://t.co/nj20sgwi2L",
+      "geo": {
+        "place_id": "58f54743b1a62911",
+        "coordinates": {
+          "type": "Point",
+          "coordinates": [
+            14.506,
+            46.0576
+          ]
+        }
+      }
+    },
+    {
+      "conversation_id": "1079130343704326144",
+      "lang": "sl",
+      "created_at": "2018-12-29T21:41:37Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 5,
+        "quote_count": 0
+      },
+      "id": "1079130343704326144",
+      "author_id": "635174708",
+      "text": "V #Koper sem moral pridet, da sem slišal prvo petardo.",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079130025545355264",
+      "lang": "art",
+      "created_at": "2018-12-29T21:40:22Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1079130025545355264",
+      "author_id": "1251558624",
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1078692692807290882"
+        }
+      ],
+      "text": "👍😀 https://t.co/KWsRIXZCQ4",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079129551836459008",
+      "lang": "art",
+      "created_at": "2018-12-29T21:38:29Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1079129551836459008",
+      "author_id": "1251558624",
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1078692692807290882"
+        }
+      ],
+      "text": "🥇👍🥁🍾 https://t.co/KWsRIXZCQ4",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079125580380016640",
+      "lang": "sl",
+      "created_at": "2018-12-29T21:22:42Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079125580380016640",
+      "author_id": "451337847",
+      "text": "Paškova bi si lahko narastek pobarvala ob pregedu leta skozi prevelika očala🤮",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079123993355927552",
+      "lang": "und",
+      "created_at": "2018-12-29T21:16:23Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 10,
+        "quote_count": 0
+      },
+      "id": "1079123993355927552",
+      "author_id": "2452913056",
+      "text": "Poletarci #kampvanjegrbica ispred skakaonice gde cemo za #novagodina igrati #odbojkanasnegu #odbojka #deca #sneg #zima #slovenija @ Logatec https://t.co/S04cGmtgzw",
+      "geo": {
+        "place_id": "58f54743b1a62911",
+        "coordinates": {
+          "type": "Point",
+          "coordinates": [
+            14.21874,
+            45.91601
+          ]
+        }
+      }
+    },
+    {
+      "conversation_id": "1078992854872190976",
+      "lang": "sl",
+      "in_reply_to_user_id": "338331168",
+      "created_at": "2018-12-29T21:11:40Z",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "id": "1079122806909161478",
+      "author_id": "2228828034",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1079066172832796673"
+        }
+      ],
+      "text": "@nmusar @vinkovasle1 ZELO LEPO POVEDANO :\nhttps://t.co/QCHtKMtzZu",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079121659704066048",
+      "lang": "qme",
+      "created_at": "2018-12-29T21:07:07Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "id": "1079121659704066048",
+      "author_id": "4134673103",
+      "text": "#avadox #edm #asia https://t.co/w3SP5GGKMh",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079117245358366720",
+      "lang": "und",
+      "created_at": "2018-12-29T20:49:34Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 37,
+        "quote_count": 0
+      },
+      "id": "1079117245358366720",
+      "author_id": "37733018",
+      "text": "🇸🇮🇸🇮 https://t.co/IFxKRC2GFV",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078958770082979841",
+      "lang": "sl",
+      "in_reply_to_user_id": "1072525972245807104",
+      "created_at": "2018-12-29T20:48:38Z",
+      "public_metrics": {
+        "retweet_count": 7,
+        "reply_count": 0,
+        "like_count": 10,
+        "quote_count": 1
+      },
+      "id": "1079117007906324481",
+      "author_id": "459532635",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1079072045227483137"
+        }
+      ],
+      "text": "@IztokSterbenc @Alex4aleksandra @AltR_Paulin @JiriKocica @protoreakcionar @alenkamajsep @pikapok38002423 Mislim, da v svetu ne bi odmevalo. V EU vedo za Serpentinškov napad na medijsko svobodo, pa nič. Odlično so bili obveščeni o montiranem političnem procesu proti @JJansaSDS v zadevi patrija, pa nič.",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079114809868775430",
+      "lang": "sl",
+      "in_reply_to_user_id": "2228828034",
+      "created_at": "2018-12-29T20:45:51Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079116306559967232",
+      "author_id": "2228828034",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1079114809868775430"
+        }
+      ],
+      "text": "GENIALNO POVEDANO !!",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079115949075320832",
+      "lang": "sl",
+      "created_at": "2018-12-29T20:44:25Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079115949075320832",
+      "author_id": "2228828034",
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1079114809868775430"
+        }
+      ],
+      "text": "Prosim za - PREVOD V SLOVENŠČINO - da LEVAKI  preberejo 100X https://t.co/UXdzrfFuEv",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079114809868775430",
+      "lang": "sl",
+      "in_reply_to_user_id": "2228828034",
+      "created_at": "2018-12-29T20:43:28Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079115709786046466",
+      "author_id": "2228828034",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1079114809868775430"
+        }
+      ],
+      "text": "PREVOD V SLOVENŠČINO - da LEVAKI  preberejo 100X",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079101491569410048",
+      "lang": "sl",
+      "in_reply_to_user_id": "43664667",
+      "created_at": "2018-12-29T20:43:12Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1079115642589102081",
+      "author_id": "295806113",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1079111913349484544"
+        }
+      ],
+      "text": "@pengovsky @petracj @SikkPuppi @KatarinaDbr @zelenilka Pri Ben Guru smo v NM imeli pavzo.",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079115635328729089",
+      "lang": "und",
+      "created_at": "2018-12-29T20:43:11Z",
+      "public_metrics": {
+        "retweet_count": 7,
+        "reply_count": 4,
+        "like_count": 16,
+        "quote_count": 0
+      },
+      "id": "1079115635328729089",
+      "author_id": "459532635",
+      "text": "Ajsa. Sovražni govor leftardice. https://t.co/GhfunSy8UX",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079056688110551040",
+      "lang": "und",
+      "in_reply_to_user_id": "2802155333",
+      "created_at": "2018-12-29T20:35:43Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1079113759858274306",
+      "author_id": "459532635",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1079056688110551040"
+        }
+      ],
+      "text": "@Margu501 Laž.",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079056688110551040",
+      "lang": "sl",
+      "in_reply_to_user_id": "2802155333",
+      "created_at": "2018-12-29T20:35:25Z",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 2,
+        "like_count": 4,
+        "quote_count": 0
+      },
+      "id": "1079113684096565253",
+      "author_id": "459532635",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1079112613471182848"
+        }
+      ],
+      "text": "@Margu501 @pikapoka_jelen Lari fari. Neumna laž.",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079113272983515136",
+      "lang": "sl",
+      "created_at": "2018-12-29T20:33:47Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079113272983515136",
+      "author_id": "451337847",
+      "text": "Sem si ponovno pogedala Stekle lisice... realiti Slovenija moj doma😂😂😂😂😂😂😂",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079109613612658691",
+      "lang": "sl",
+      "created_at": "2018-12-29T20:19:15Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079109613612658691",
+      "author_id": "359280521",
+      "text": "#unionbeer #union #pivo #beer #birra #ljubljana #visitljubljana #slovenia #friends #fotoatradimento #ifeelslovenia #saturdaynight #relax #chilling @ Captain's Cabin Ljubljana https://t.co/vsDPQMmx2Y",
+      "geo": {
+        "place_id": "58f54743b1a62911",
+        "coordinates": {
+          "type": "Point",
+          "coordinates": [
+            14.50588,
+            46.04967
+          ]
+        }
+      }
+    },
+    {
+      "conversation_id": "1079052222464475137",
+      "lang": "und",
+      "in_reply_to_user_id": "994147590043291649",
+      "created_at": "2018-12-29T20:16:47Z",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "id": "1079108991689478144",
+      "author_id": "459532635",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1079052222464475137"
+        }
+      ],
+      "text": "@Alex4aleksandra Poglej qfotko. Kaj mu pa drugega ostane.",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079107776104796160",
+      "lang": "und",
+      "created_at": "2018-12-29T20:11:57Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079107776104796160",
+      "author_id": "2228828034",
+      "text": "TO JE MUSLIMAN !! https://t.co/HS3cXxshJD",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078993337267433472",
+      "lang": "sl",
+      "in_reply_to_user_id": "1071032065909510144",
+      "created_at": "2018-12-29T20:04:29Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1079105897576697856",
+      "author_id": "2228828034",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078993337267433472"
+        }
+      ],
+      "text": "@GPreac @miran_lipovec Bravo Gregor - LEPO RAZVDEN - GastarBajtarski “TITO Model” državno podprtega migr.Biznisa - (pošiljajte denar domov v REŽIME)",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079105146230054913",
+      "lang": "art",
+      "created_at": "2018-12-29T20:01:30Z",
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 1,
+        "like_count": 10,
+        "quote_count": 0
+      },
+      "id": "1079105146230054913",
+      "author_id": "459532635",
+      "text": "🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣 https://t.co/tDsneg3XOM",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079104732491382784",
+      "lang": "sl",
+      "created_at": "2018-12-29T19:59:51Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079104732491382784",
+      "author_id": "2228828034",
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1078971575079186433"
+        }
+      ],
+      "text": "VSI NASILNI - VSI LEVI !!! https://t.co/pze32LCYeO",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078922506122207232",
+      "lang": "sl",
+      "in_reply_to_user_id": "2322198599",
+      "created_at": "2018-12-29T19:55:51Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079103725183082498",
+      "author_id": "835042923104387072",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078922506122207232"
+        }
+      ],
+      "text": "@MuriMursic Razpad sistema bo!",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079103471079645184",
+      "lang": "und",
+      "created_at": "2018-12-29T19:54:50Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079103471079645184",
+      "author_id": "2228828034",
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1079055554025349120"
+        }
+      ],
+      "text": "NASILJE - ISLAM https://t.co/oX5RQxA4rE",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079103117629755392",
+      "lang": "sl",
+      "created_at": "2018-12-29T19:53:26Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079103117629755392",
+      "author_id": "2228828034",
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1078992854872190976"
+        }
+      ],
+      "text": "En UDBOVNIK manj v Bordelu RTV !! https://t.co/xF7zE2Iueo",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079102213333676034",
+      "lang": "qht",
+      "created_at": "2018-12-29T19:49:51Z",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 4,
+        "quote_count": 0
+      },
+      "id": "1079102213333676034",
+      "author_id": "1251558624",
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1078938841195663360"
+        }
+      ],
+      "text": "#Sloveniamycountry https://t.co/qXYN9wJEtc",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079101858671722497",
+      "lang": "art",
+      "created_at": "2018-12-29T19:48:26Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079101858671722497",
+      "author_id": "2392809751",
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1079090035096309760"
+        }
+      ],
+      "text": "😃😍 https://t.co/ekOQYYqwtT",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079099841639256064",
+      "lang": "sl",
+      "created_at": "2018-12-29T19:40:25Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079099841639256064",
+      "author_id": "1251558624",
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1079044681466548229"
+        }
+      ],
+      "text": "Lepa dvorana, lepsa kot v Bruslju, a dveh res @EP_Slovenija ne bi potreboval. Izsiljevanje Francije. https://t.co/WEj2Kyrhxn",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079099739625455616",
+      "lang": "und",
+      "created_at": "2018-12-29T19:40:01Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079099739625455616",
+      "author_id": "76274090",
+      "text": "Hoppey... - Drinking  The Girl From Ipanema by Mali Grad @ Pivovarna&amp;Točilnica MALI GRAD  — https://t.co/euC8Zz7V4Q",
+      "geo": {
+        "place_id": "58f54743b1a62911",
+        "coordinates": {
+          "type": "Point",
+          "coordinates": [
+            14.6061,
+            46.2218
+          ]
+        }
+      }
+    },
+    {
+      "conversation_id": "1079099498771726337",
+      "lang": "sl",
+      "created_at": "2018-12-29T19:39:03Z",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1079099498771726337",
+      "author_id": "1251558624",
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1078929760221388800"
+        }
+      ],
+      "text": "Kar pravi @JunckerEU,smo ze opazili v #Bruslju in tudi opozorili kot @sbrabruselj,a videli bomo v praksi, kaj in kako.Tudi @vladaRS se kmalu bliza predsedovanje-druga polovica 21,a v trojki ze takoj z letom 21. Verjamem, da se bo izkoristilo tudi naso pomoc. @MZZRS @sarecmarjan https://t.co/GmCUqPlOkE",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079090921470337024",
+      "lang": "sl",
+      "in_reply_to_user_id": "1912487906",
+      "created_at": "2018-12-29T19:37:33Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1079099119170437120",
+      "author_id": "2214436298",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1079090921470337024"
+        }
+      ],
+      "text": "@nejkom Nisem gledal veliko njihovih tekem letos, ampak danes so bili obupno zanič.",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079096342247542785",
+      "lang": "sl",
+      "created_at": "2018-12-29T19:26:31Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "id": "1079096342247542785",
+      "author_id": "2593109912",
+      "text": "V bistvu je še boljše:\n\n“Sedaj pa prihaja rebalans. To bo pokazalo ali ta vlada kaj velja.”\n\nŠarec o svoji vladi pametuje, kot da ne bi sedel z njimi, ampak z novinarji. Na kritiziranje vlade bo v najboljšem primeru rekel, da je on tudi razočaran. https://t.co/krICbuHwd2",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079069459967553536",
+      "lang": "sl",
+      "in_reply_to_user_id": "2476802971",
+      "created_at": "2018-12-29T19:18:57Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079094440294342657",
+      "author_id": "906645992",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1079091030815895558"
+        }
+      ],
+      "text": "@sivanosoroginja No, to z Darwinom se ze boljse slisi :)",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078984222130532352",
+      "lang": "sl",
+      "in_reply_to_user_id": "403337692",
+      "created_at": "2018-12-29T19:16:08Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1079093730227953664",
+      "author_id": "577177456",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1079015783345332224"
+        }
+      ],
+      "text": "@bobsparrow70 @MarjeticaM @sarecmarjan Pri nas ni možno zadovoljiti vsem inšpektorjem. Preveč zakonov, ki si jih lahko vsak pravnik še različno razlaga",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079093350446313472",
+      "lang": "sl",
+      "created_at": "2018-12-29T19:14:37Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1079093350446313472",
+      "author_id": "313287925",
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1078947855350538240"
+        }
+      ],
+      "text": "Prepričan sem, da je tudi @EliudKipchoge fasciniran nad to kilometražo 🏆👏🏻✌️⤵️ https://t.co/rAR8EVHafp",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079087365577150465",
+      "lang": "und",
+      "in_reply_to_user_id": "92600449",
+      "created_at": "2018-12-29T19:08:43Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "id": "1079091862676353025",
+      "author_id": "365291778",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1079090118491815937"
+        }
+      ],
+      "text": "@Trdosrcnez A so strejtom vsi strejti ok?",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078965477785956352",
+      "lang": "sl",
+      "in_reply_to_user_id": "257937910",
+      "created_at": "2018-12-29T19:07:00Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079091431191531522",
+      "author_id": "809148636026306560",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078978115072917504"
+        }
+      ],
+      "text": "@janeztu @RomanVodeb Mene pa res zanima od kod “gospa” Türk vleče zamisel, da je enaka zastopanost najboljši recept za dobro delovanje. Ne samo to, to je DEJSTVO.!! To so vam instalirali v možgane. Gre se da to kar vi zastopate pelje v demografsko katastrofo za celotno družbo.",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079091274530127874",
+      "lang": "art",
+      "created_at": "2018-12-29T19:06:23Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 3,
+        "quote_count": 0
+      },
+      "id": "1079091274530127874",
+      "author_id": "189011411",
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1079090687449227265"
+        }
+      ],
+      "text": "👉 https://t.co/ZjVJvbbtx1",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079087812241174530",
+      "lang": "sl",
+      "in_reply_to_user_id": "356334161",
+      "created_at": "2018-12-29T19:04:06Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079090703047770112",
+      "author_id": "37990022",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1079088422827032581"
+        }
+      ],
+      "text": "@AndrejKreca Nobenga občutka nima",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079087365577150465",
+      "lang": "und",
+      "in_reply_to_user_id": "92600449",
+      "created_at": "2018-12-29T18:55:49Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079088617681813511",
+      "author_id": "365291778",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1079087365577150465"
+        }
+      ],
+      "text": "@Trdosrcnez Klozetiran? #retorično",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079087812241174530",
+      "lang": "sl",
+      "created_at": "2018-12-29T18:52:37Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1079087812241174530",
+      "author_id": "37990022",
+      "text": "Oliver najbolj jadn sodnik",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079083794735550466",
+      "lang": "sl",
+      "in_reply_to_user_id": "1487131837",
+      "created_at": "2018-12-29T18:51:08Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1079087438159589377",
+      "author_id": "37990022",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1079085782143586304"
+        }
+      ],
+      "text": "@D10S_fedex Februar,Marec tu moreš bit pravi",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078932555783696384",
+      "lang": "sl",
+      "in_reply_to_user_id": "459532635",
+      "created_at": "2018-12-29T18:41:27Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 4,
+        "quote_count": 1
+      },
+      "id": "1079084999641653249",
+      "author_id": "379672433",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078932555783696384"
+        }
+      ],
+      "text": "@vinkovasle1 Zanimivo ampak še vedno mi iz @SiolNEWS niso sporočili ali je mladstno naiven novinar ali pač zaradi preživetja piše režimsko?",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079056062223912960",
+      "lang": "sl",
+      "in_reply_to_user_id": "249540607",
+      "created_at": "2018-12-29T18:35:26Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079083486978412544",
+      "author_id": "44965477",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1079056062223912960"
+        }
+      ],
+      "text": "@tomceh @lisjakm Nikoli in nikdar",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079081169302552576",
+      "lang": "sl",
+      "created_at": "2018-12-29T18:26:13Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "id": "1079081169302552576",
+      "author_id": "2965817333",
+      "text": "Falila in njena regresivno levičarska tolpa ponorelih feministk, bi jim burko poveznila nazaj na glavo. https://t.co/zvCddkIJGA",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079071165614878720",
+      "lang": "sl",
+      "in_reply_to_user_id": "978618128",
+      "created_at": "2018-12-29T18:23:26Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 5,
+        "quote_count": 0
+      },
+      "id": "1079080466937012227",
+      "author_id": "182089980",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1079071165614878720"
+        }
+      ],
+      "text": "@Ernek58 @petrol_olimpija Kako nič novega!? Tokrat sem si šel ta novi poraz pogledat v živo! In vse kar sem do zdaj celo sezono gledal po TV, se je potrdilo v živo: neinteligentne minute , tretjerazredna košarka, gledalcev za vzorec (razen nasprotnikovih navijačev!). Skratka, deja vu zadnjih sezon  (=0!).",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079078767648223234",
+      "lang": "sl",
+      "created_at": "2018-12-29T18:16:41Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1079078767648223234",
+      "author_id": "37990022",
+      "text": "Salah ma pa zadnje čase padavico",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078977086151409664",
+      "lang": "sl",
+      "in_reply_to_user_id": "492089060",
+      "created_at": "2018-12-29T18:11:04Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 4,
+        "quote_count": 0
+      },
+      "id": "1079077353735815173",
+      "author_id": "492089060",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078977086151409664"
+        }
+      ],
+      "text": "Omg je tole dobro. \nNi sicer vreden tega denarja, ampak to lahko reces za vsako vrhunsko stvar na svetu.",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078996304565542912",
+      "lang": "sl",
+      "in_reply_to_user_id": "69578182",
+      "created_at": "2018-12-29T18:06:31Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 4,
+        "quote_count": 0
+      },
+      "id": "1079076211484225536",
+      "author_id": "953916200194539520",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1079070049502224384"
+        }
+      ],
+      "text": "@Matino667 @magrateja @Ajdovscina prvič v lajfu sem doživu, da folk dejansko pride na ajdovski plac pogledat lučke. Bife Pika poleg je skoz nabito poln.",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079075635233017862",
+      "lang": "sl",
+      "created_at": "2018-12-29T18:04:14Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 11,
+        "quote_count": 0
+      },
+      "id": "1079075635233017862",
+      "author_id": "953916200194539520",
+      "text": "Si misliš, da ti rata pobegniti z zapora, dva dni pred silvestrovim? Kaka žurka bo to. Grande! 💪",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079074617417965569",
+      "lang": "art",
+      "created_at": "2018-12-29T18:00:11Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079074617417965569",
+      "author_id": "1328730660",
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1079060243638898693"
+        }
+      ],
+      "text": "❤️❤️❤️ https://t.co/H8PjolpJIG",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079072799195574273",
+      "lang": "sl",
+      "created_at": "2018-12-29T17:52:58Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079072799195574273",
+      "author_id": "359280521",
+      "text": "#zmajskimost #dragonbridge #lubiana #visitljubljana #ljubljana #ifeelslovenia #slovenia #tourist #friends @ Zmajski most / Dragon Bridge https://t.co/DgVXdEAMz5",
+      "geo": {
+        "place_id": "58f54743b1a62911",
+        "coordinates": {
+          "type": "Point",
+          "coordinates": [
+            14.510426,
+            46.051777
+          ]
+        }
+      }
+    },
+    {
+      "conversation_id": "1079072439722803200",
+      "lang": "sl",
+      "created_at": "2018-12-29T17:51:32Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079072439722803200",
+      "author_id": "451337847",
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1078982300187136001"
+        }
+      ],
+      "text": "Mi imamo še 1000 tako dobrih podjetij, te bodo ostale🤦‍♀️. https://t.co/yE3znhHvtA",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079070981862367237",
+      "lang": "qst",
+      "created_at": "2018-12-29T17:45:44Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079070981862367237",
+      "author_id": "37990022",
+      "text": "2:1 🙈",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079070658888433664",
+      "lang": "qst",
+      "created_at": "2018-12-29T17:44:27Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079070658888433664",
+      "author_id": "37990022",
+      "text": "LOL",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079069889913151488",
+      "lang": "qst",
+      "created_at": "2018-12-29T17:41:24Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079069889913151488",
+      "author_id": "37990022",
+      "text": "0:1 👀",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079069637718036480",
+      "lang": "sl",
+      "created_at": "2018-12-29T17:40:24Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079069637718036480",
+      "author_id": "49831400",
+      "text": "no da vidimo če bo zdaj kaj bolje.. zgleda kr spodbudno.. sem mal potvikal guglov črkovalnik/predvidovalnik/drsalnim 🤣🥰",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079067767846912005",
+      "lang": "und",
+      "created_at": "2018-12-29T17:32:58Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079067767846912005",
+      "author_id": "182089980",
+      "text": "Znamenite minute neinteligentnosti @petrol_olimpija ....",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078976967591055360",
+      "lang": "sl",
+      "in_reply_to_user_id": "908227593283014656",
+      "created_at": "2018-12-29T17:24:22Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1079065603615481858",
+      "author_id": "49831400",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1079060465995653121"
+        }
+      ],
+      "text": "@RLjubljana @WorldIs2Noisy @Plavalka @leaathenatabako To ti je pa zaradi tistih ad/da pretvornikov.. v analog tega ni ;)",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079060521603817472",
+      "lang": "und",
+      "created_at": "2018-12-29T17:04:10Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1079060521603817472",
+      "author_id": "559956450",
+      "text": "🌆🌃🌅\n\n #explore #eveningview #evening #eveningsky #europe #red #inspire #outdoors #peace #panorama #photooftheday #sky #skyline #slovenia #sunset #dark #december #freedom #landscape #color… https://t.co/2avXMjrGWi",
+      "geo": {
+        "place_id": "58f54743b1a62911",
+        "coordinates": {
+          "type": "Point",
+          "coordinates": [
+            13.87120278,
+            45.55749444
+          ]
+        }
+      }
+    },
+    {
+      "conversation_id": "1079059964088471552",
+      "lang": "sl",
+      "created_at": "2018-12-29T17:01:58Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "id": "1079059964088471552",
+      "author_id": "49831400",
+      "text": "Prasice... ta folk namreč.. https://t.co/NCrgwF0KdT",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078976967591055360",
+      "lang": "sl",
+      "in_reply_to_user_id": "49831400",
+      "created_at": "2018-12-29T16:57:48Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1079058916523298819",
+      "author_id": "49831400",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1079058220516290560"
+        }
+      ],
+      "text": "@RLjubljana @WorldIs2Noisy @Plavalka @leaathenatabako nestisnjenega bi moralo pisati.. bom lihkar izklopil gugl črkovalnik/predvidovalnik grrrf",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079058507981381632",
+      "lang": "und",
+      "created_at": "2018-12-29T16:56:10Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1079058507981381632",
+      "author_id": "3139904650",
+      "text": "Hi🤗\n.\n.\n.\n.\n.\n\n#makeup #makeupinspo #makeuplooks #makeuplook #makeuplover #simplelook #wintertime #weekend #instagood #instapic #instamakeup #inspired #coppermakeup #instamood… https://t.co/sQvC4H9UBS",
+      "geo": {
+        "place_id": "58f54743b1a62911",
+        "coordinates": {
+          "type": "Point",
+          "coordinates": [
+            13.6619,
+            45.5369
+          ]
+        }
+      }
+    },
+    {
+      "conversation_id": "1079055501613322245",
+      "lang": "qst",
+      "created_at": "2018-12-29T16:44:14Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079055501613322245",
+      "author_id": "37990022",
+      "text": "1:3 😀",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079054595454844933",
+      "lang": "qst",
+      "created_at": "2018-12-29T16:40:38Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079054595454844933",
+      "author_id": "37990022",
+      "text": "1:2 😲",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079053314409533440",
+      "lang": "sl",
+      "created_at": "2018-12-29T16:35:32Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079053314409533440",
+      "author_id": "49831400",
+      "text": "Pa bemumast #twitter.. od kdaj moraš slike vlečt tako daleč da skočijo nazaj",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079053273930387461",
+      "lang": "und",
+      "created_at": "2018-12-29T16:35:23Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079053273930387461",
+      "author_id": "1142954072",
+      "text": "Djurđi 🐾\n\n#ljubavi #pridnapunca #dogsofinstagram #dogfashionista @ Europe/Ljubljana https://t.co/KKTcXgMZeS",
+      "geo": {
+        "place_id": "58f54743b1a62911",
+        "coordinates": {
+          "type": "Point",
+          "coordinates": [
+            14.81781551,
+            46.1117007
+          ]
+        }
+      }
+    },
+    {
+      "conversation_id": "1079051758196965377",
+      "lang": "und",
+      "created_at": "2018-12-29T16:29:21Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079051758196965377",
+      "author_id": "37990022",
+      "text": "1:1 ups",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078976967591055360",
+      "lang": "sl",
+      "in_reply_to_user_id": "517906762",
+      "created_at": "2018-12-29T16:26:44Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1079051100949528578",
+      "author_id": "49831400",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1079047094609022977"
+        }
+      ],
+      "text": "@WorldIs2Noisy @leaathenatabako Od njih smo nekoč posneli priredbo trans  europe express  fan sem bil pa se v 80tih .. pa tangerine dream ,😋",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079050447468531712",
+      "lang": "qme",
+      "in_reply_to_user_id": "54603232",
+      "created_at": "2018-12-29T16:26:36Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1079051067227324418",
+      "author_id": "204026155",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1079050447468531712"
+        }
+      ],
+      "text": "@IrenaSirena https://t.co/9dS8teMSCL",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079043446164332545",
+      "lang": "sl",
+      "in_reply_to_user_id": "369011791",
+      "created_at": "2018-12-29T16:22:28Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 3,
+        "quote_count": 0
+      },
+      "id": "1079050026289168384",
+      "author_id": "953916200194539520",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1079043446164332545"
+        }
+      ],
+      "text": "@AcmanT @had doma je seveda iz Ajdovščine.",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079046736327380998",
+      "lang": "sl",
+      "in_reply_to_user_id": "97645764",
+      "created_at": "2018-12-29T16:14:27Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1079048008162050049",
+      "author_id": "953916200194539520",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1079046736327380998"
+        }
+      ],
+      "text": "@Adornoisdead ustav se mal na lučkah v Wajdušni.",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079042341833527297",
+      "lang": "sl",
+      "in_reply_to_user_id": "1912487906",
+      "created_at": "2018-12-29T16:07:10Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079046173997060098",
+      "author_id": "953916200194539520",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1079045963174559744"
+        }
+      ],
+      "text": "@nejkom @Adornoisdead v Interju že životari en Slovenc. Brez veze.",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079042341833527297",
+      "lang": "sl",
+      "in_reply_to_user_id": "97645764",
+      "created_at": "2018-12-29T15:58:33Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079044005088952320",
+      "author_id": "953916200194539520",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1079042983473934341"
+        }
+      ],
+      "text": "@Adornoisdead iz Bergama bi se loh preselil v Milano.",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079043961338114048",
+      "lang": "sl",
+      "created_at": "2018-12-29T15:58:22Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079043961338114048",
+      "author_id": "915952917831659520",
+      "text": "Danes ob 20.00h koncert Rich&amp;Mean kostnamoka &amp; @ZavodOrbita  v Ljubljani, galerijabartrenutek #rockmusic #blues #liveshow #discomusic #disco #livemusic #harmonicablues #harp #night… https://t.co/tnQFZzqQvi",
+      "geo": {
+        "place_id": "58f54743b1a62911",
+        "coordinates": {
+          "type": "Point",
+          "coordinates": [
+            14.5164182,
+            46.0519951
+          ]
+        }
+      }
+    },
+    {
+      "conversation_id": "1078913084637544450",
+      "lang": "und",
+      "in_reply_to_user_id": "581122909",
+      "created_at": "2018-12-29T15:53:20Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1079042695816007680",
+      "author_id": "1128685700",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078913084637544450"
+        }
+      ],
+      "text": "@PeterSvetina Hipodrom Komenda :)",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079042341833527297",
+      "lang": "sl",
+      "created_at": "2018-12-29T15:51:56Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1079042341833527297",
+      "author_id": "953916200194539520",
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1079040846824038400"
+        }
+      ],
+      "text": "Iličić za konc leta 2x v polno. Grande! https://t.co/WZZ6WN5qxC",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079039252963442688",
+      "lang": "sl",
+      "in_reply_to_user_id": "69578182",
+      "created_at": "2018-12-29T15:51:05Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079042126191751174",
+      "author_id": "953916200194539520",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1079039252963442688"
+        }
+      ],
+      "text": "@Matino667 prvič si bil na tvitmitu v Wajdušni.",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078976967591055360",
+      "lang": "sl",
+      "in_reply_to_user_id": "517906762",
+      "created_at": "2018-12-29T15:51:02Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079042113885618177",
+      "author_id": "49831400",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1079040219364630534"
+        }
+      ],
+      "text": "@WorldIs2Noisy @leaathenatabako Jp.. ko sem kupoval sem izbiral se med novejsimi BW in se odločil za bolj oldskul zvok.. za  bolj blues jazz funk, pa tud kake kruder al Garnier ipd ;)",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078681998309244928",
+      "lang": "sl",
+      "in_reply_to_user_id": "22185437",
+      "created_at": "2018-12-29T15:46:42Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079041025614757893",
+      "author_id": "878317834077560833",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078681998309244928"
+        }
+      ],
+      "text": "@dallasmavs @luka7doncic @BEDGEAR V Sloveniji glasujemo vsak dan za našega Luko.",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078976967591055360",
+      "lang": "und",
+      "in_reply_to_user_id": "517906762",
+      "created_at": "2018-12-29T15:43:17Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079040163131678720",
+      "author_id": "49831400",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1079037746675662848"
+        }
+      ],
+      "text": "@WorldIs2Noisy @Plavalka @leaathenatabako To prolazi samo pri gledanju filma zvecer oktobra na morju :p",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079039715523919874",
+      "lang": "sl",
+      "created_at": "2018-12-29T15:41:30Z",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079039715523919874",
+      "author_id": "861088008",
+      "text": "Podarim dve obrobi za stresni okni. Povej naprej https://t.co/B5VCVoTGmT",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078958770082979841",
+      "lang": "sl",
+      "in_reply_to_user_id": "1072525972245807104",
+      "created_at": "2018-12-29T15:39:21Z",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "id": "1079039176434171904",
+      "author_id": "459532635",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1079036415118401536"
+        }
+      ],
+      "text": "@IztokSterbenc @Alex4aleksandra @AltR_Paulin @JiriKocica @protoreakcionar @alenkamajsep @pikapok38002423 In kaj bi bilo potem?",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079037228662358021",
+      "lang": "sl",
+      "created_at": "2018-12-29T15:31:37Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "id": "1079037228662358021",
+      "author_id": "915952917831659520",
+      "text": "Today Live Music Show at 8pm 🎶  kostnamoka &amp; @ZavodOrbita Ljubljana 👉 galerijabartrenutek #musicshow #liveshow #livemusicvenue #funkytown #funky #funnyart #funny #musician #musicandart… https://t.co/mN4J89AUpS",
+      "geo": {
+        "place_id": "58f54743b1a62911",
+        "coordinates": {
+          "type": "Point",
+          "coordinates": [
+            14.5164182,
+            46.0519951
+          ]
+        }
+      }
+    },
+    {
+      "conversation_id": "1078976967591055360",
+      "lang": "sl",
+      "in_reply_to_user_id": "453243678",
+      "created_at": "2018-12-29T15:29:07Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "id": "1079036598472376321",
+      "author_id": "49831400",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1079035845238231041"
+        }
+      ],
+      "text": "@leaathenatabako @WorldIs2Noisy To je moj projekt že cca 15 let. Narediti predvajalnik ki bo sam izločil reklame in govor.. zaenkrat sam v glavi :p",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079036072682811392",
+      "lang": "sl",
+      "in_reply_to_user_id": "328265345",
+      "created_at": "2018-12-29T15:27:02Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079036074557693952",
+      "author_id": "328265345",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1079036072682811392"
+        }
+      ],
+      "text": "Seveda je bilo neskončno smešno, ko je dvignil svoj gromki glas in suvereno (hihihi) poučeval zares velike glave osnov abecede itd. Bil je pač neskončno rad profesor VSEM, tudi daaaleč najinteligentnejšim, najodličnejšim, ni pa se mi zdel zahrbten itd. N to je danes VELIKO ...",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079036072682811392",
+      "lang": "sl",
+      "created_at": "2018-12-29T15:27:01Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079036072682811392",
+      "author_id": "328265345",
+      "text": "Jaz pa le misim, da se je trudil dati od sebe največ, kar pač (z)more; da pa je bil brezpogojno vdan klanu Kučan_et_al., to smo pa tako ali tako ves čas vedeli. Meni se zdi, da obstajajo drugi, \"aktualni\" ki so veliko bolj, kako bi rekla, veliko bolj sluzasti, kot je bil on. https://t.co/5rpjNKSUdw",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079035703252713480",
+      "lang": "und",
+      "created_at": "2018-12-29T15:25:33Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1079035703252713480",
+      "author_id": "458920966",
+      "text": "Magla svuda, magla oko nas 🌁  #Lucija #Istra #Slovenija #megla https://t.co/pteD9Q6U0p",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079029691074465793",
+      "lang": "sl",
+      "in_reply_to_user_id": "2380877786",
+      "created_at": "2018-12-29T15:21:08Z",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079034589681762307",
+      "author_id": "459532635",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1079029691074465793"
+        }
+      ],
+      "text": "@Medeja_7 Podpisal.",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079032540432945153",
+      "lang": "und",
+      "in_reply_to_user_id": "83646461",
+      "created_at": "2018-12-29T15:21:01Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1079034560367742976",
+      "author_id": "635174708",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1079033127887142912"
+        }
+      ],
+      "text": "@DanielKalan @balillaslavko Da! ⚓️🎶❤️🍷",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079033510491500545",
+      "lang": "und",
+      "created_at": "2018-12-29T15:16:51Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 8,
+        "quote_count": 0
+      },
+      "id": "1079033510491500545",
+      "author_id": "953916200194539520",
+      "text": "ej, @denislindros spij hitro do konca, na most morš. #Oberstdorf",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078925456655699968",
+      "lang": "und",
+      "in_reply_to_user_id": "525857537",
+      "created_at": "2018-12-29T15:13:26Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 3,
+        "quote_count": 0
+      },
+      "id": "1079032651863023616",
+      "author_id": "358790175",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1079014465893531648"
+        }
+      ],
+      "text": "@AmfibijaNancy @zena_od_afera Ides okolo i govoris “a inhalacija”",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079032540432945153",
+      "lang": "und",
+      "created_at": "2018-12-29T15:12:59Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 15,
+        "quote_count": 0
+      },
+      "id": "1079032540432945153",
+      "author_id": "635174708",
+      "text": "#rocknroll #Obala ❤️ https://t.co/FIUJ1su1qO",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078609947699621891",
+      "lang": "sl",
+      "in_reply_to_user_id": "2470499718",
+      "created_at": "2018-12-29T15:06:53Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1079031005602893824",
+      "author_id": "448357171",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1079029683482636288"
+        }
+      ],
+      "text": "@CZCBZ @CrtSeusek @sarecmarjan Na internistiki in nevrologiji je mejs med \nnepotreben pregled/\npotencialno življenje ogrožajoče stanje \ntanka in pogosto šele na koncu ugotoviš, kaj 'se zdi' resnica. Da bi zaračunaval, je tanek led.",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079030818402697217",
+      "lang": "sl",
+      "created_at": "2018-12-29T15:06:09Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1079030818402697217",
+      "author_id": "393877640",
+      "text": "Jih je upihnu 90...moj oče namreč. S kolesom se več ne vozi, vozniško dovoljenje ima pa še vedno, da svojo damo pelje v mesto. Cheers ata🥂 @ Brezice https://t.co/7I9ZDlDAdH",
+      "geo": {
+        "place_id": "58f54743b1a62911",
+        "coordinates": {
+          "type": "Point",
+          "coordinates": [
+            15.5911,
+            45.9033
+          ]
+        }
+      }
+    },
+    {
+      "conversation_id": "1079021046135689216",
+      "lang": "und",
+      "created_at": "2018-12-29T14:27:19Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 6,
+        "quote_count": 0
+      },
+      "id": "1079021046135689216",
+      "author_id": "953916200194539520",
+      "text": "🌞 #vipavavalley @VipavaValleySI 👍😀🚵🏼‍♂️ https://t.co/GxjLJ1cmDC",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079020618903928834",
+      "lang": "sl",
+      "created_at": "2018-12-29T14:25:37Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1079020618903928834",
+      "author_id": "524621366",
+      "text": "V SLO medijskem prostoru dajemo prepogosto vtis, da brcajo samo v Mariboru in Ljubljani, pa da se včasih še kakšne Domžale ali Mura \"zgodita\". Ena od drugačnih zgodb, via @Rok_Viskovic  https://t.co/v6POxFhaz2",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079016486503661570",
+      "lang": "und",
+      "created_at": "2018-12-29T14:09:12Z",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 12,
+        "quote_count": 0
+      },
+      "id": "1079016486503661570",
+      "author_id": "368767032",
+      "text": "Hej @veceivan, moja emisija je juče bila 7. najgledanija. Ono što znam sigurno je da bi bila 8. da je išla tvoja. I žao mi je što nije osma. Drži se. Ljubi brat sa Karaburme.",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078798542964228096",
+      "lang": "sl",
+      "in_reply_to_user_id": "3307396203",
+      "created_at": "2018-12-29T14:06:42Z",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1079015859551645696",
+      "author_id": "716252965724667904",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078798542964228096"
+        }
+      ],
+      "text": "@zaslovenijo2 TV3 večinoma Pirkovičev program, hčerinska NTV24",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079014881830019073",
+      "lang": "sl",
+      "created_at": "2018-12-29T14:02:49Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079014881830019073",
+      "author_id": "96847017",
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1078985230877446144"
+        }
+      ],
+      "text": "Evo js dodam še: Civilne iniciative proti gasilskim in domovom za starejše občane,\nposlanci, ki bi si dvignili plače...\n\nNadaljuj niz... https://t.co/iA6enYvyiT",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079014511527542787",
+      "lang": "und",
+      "created_at": "2018-12-29T14:01:21Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1079014511527542787",
+      "author_id": "492089060",
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1078410346170327045"
+        }
+      ],
+      "text": "Bravo Kranj https://t.co/wQVsOKJwQS",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078680038407458821",
+      "lang": "sl",
+      "in_reply_to_user_id": "69827637",
+      "created_at": "2018-12-29T14:00:43Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079014354551492609",
+      "author_id": "492089060",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078680038407458821"
+        }
+      ],
+      "text": "@AnzeKopitar @DomincInes Smrtonosni Bronco.",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079013288216797185",
+      "lang": "und",
+      "created_at": "2018-12-29T13:56:29Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079013288216797185",
+      "author_id": "61220731",
+      "text": "13:56 S57MS/P (Marko) on S5/RG-008 (Kalični vrh, 1117m, 4 Point(s)) 18.125 ssb [S57MS]",
+      "geo": {
+        "place_id": "58f54743b1a62911",
+        "coordinates": {
+          "type": "Point",
+          "coordinates": [
+            14.6342,
+            45.725
+          ]
+        }
+      }
+    },
+    {
+      "conversation_id": "1079013170054918147",
+      "lang": "sl",
+      "created_at": "2018-12-29T13:56:01Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079013170054918147",
+      "author_id": "837360098",
+      "text": "A ni že malo čudno, da zadnji dve leti izginjajo mladi fantje od vsepovsod, potem pa na njihovih truplih ni nobenega znaka nasilja? Kdo je tako dober?",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078977086151409664",
+      "lang": "sl",
+      "in_reply_to_user_id": "16550693",
+      "created_at": "2018-12-29T13:54:33Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079012801107161089",
+      "author_id": "492089060",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1079012509674336256"
+        }
+      ],
+      "text": "@mmmaaarrriooo @vanfranco Zdej sem broke",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079012788016693248",
+      "lang": "und",
+      "created_at": "2018-12-29T13:54:30Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079012788016693248",
+      "author_id": "61220731",
+      "text": "13:54 S57MS/P (Marko) on S5/RG-008 (Kalični vrh, 1117m, 4 Point(s)) 18.125 ssb [S57MS]",
+      "geo": {
+        "place_id": "58f54743b1a62911",
+        "coordinates": {
+          "type": "Point",
+          "coordinates": [
+            14.6342,
+            45.725
+          ]
+        }
+      }
+    },
+    {
+      "conversation_id": "1079012761353576448",
+      "lang": "sl",
+      "created_at": "2018-12-29T13:54:24Z",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 39,
+        "quote_count": 0
+      },
+      "id": "1079012761353576448",
+      "author_id": "190973098",
+      "text": "Prispeli 🤣🤣🤣🤣⚫⚪⚫⚪ https://t.co/kRzAFBwfZZ",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079012537042124800",
+      "lang": "und",
+      "created_at": "2018-12-29T13:53:30Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079012537042124800",
+      "author_id": "61220731",
+      "text": "13:52 S56KVJ/P (Valdemar) on S5/PK-016 (Sršenov vrh, 963m, 4 Point(s)) 14.300 ssb: *calling cq [SOTA Spotter] [S56KVJ]",
+      "geo": {
+        "place_id": "58f54743b1a62911",
+        "coordinates": {
+          "type": "Point",
+          "coordinates": [
+            15.3733,
+            46.6169
+          ]
+        }
+      }
+    },
+    {
+      "conversation_id": "1078996551069040640",
+      "lang": "sl",
+      "in_reply_to_user_id": "39734041",
+      "created_at": "2018-12-29T13:45:00Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079010398823727104",
+      "author_id": "17591324",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078996551069040640"
+        }
+      ],
+      "text": "@NovakBozidar @MatijaStepisnik Milojko najamite pa bo.",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079010281517445120",
+      "lang": "und",
+      "created_at": "2018-12-29T13:44:32Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079010281517445120",
+      "author_id": "61220731",
+      "text": "13:44 S57MS/P (Marko) on S5/RG-008 (Kalični vrh, 1117m, 4 Point(s)) 14.285 ssb [S57MS]",
+      "geo": {
+        "place_id": "58f54743b1a62911",
+        "coordinates": {
+          "type": "Point",
+          "coordinates": [
+            14.6342,
+            45.725
+          ]
+        }
+      }
+    },
+    {
+      "conversation_id": "1078976967591055360",
+      "lang": "sl",
+      "in_reply_to_user_id": "517906762",
+      "created_at": "2018-12-29T13:42:45Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1079009832697507841",
+      "author_id": "49831400",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078994070083694595"
+        }
+      ],
+      "text": "@WorldIs2Noisy @leaathenatabako Pa misliš da imaš danes večjo kvaliteto  ;)",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078977086151409664",
+      "lang": "sl",
+      "in_reply_to_user_id": "517906762",
+      "created_at": "2018-12-29T13:41:14Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079009450214785025",
+      "author_id": "492089060",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1079008215541665792"
+        }
+      ],
+      "text": "@WorldIs2Noisy Ne upam probat. Drgac je med dobrim spanskim in dobrim kraskim ogromna razlika.",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079009024841076736",
+      "lang": "sl",
+      "created_at": "2018-12-29T13:39:33Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079009024841076736",
+      "author_id": "61220731",
+      "text": "13:38 S510SOTA/P () on S5/KS-035 (Molakov vrh, 1183m, 4 Point(s)) 14.264 ssb [S59WT]",
+      "geo": {
+        "place_id": "58f54743b1a62911",
+        "coordinates": {
+          "type": "Point",
+          "coordinates": [
+            14.9872,
+            46.4586
+          ]
+        }
+      }
+    },
+    {
+      "conversation_id": "1078995497778626560",
+      "lang": "sl",
+      "in_reply_to_user_id": "408474577",
+      "created_at": "2018-12-29T13:35:06Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1079007906920648705",
+      "author_id": "2644773917",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078995497778626560"
+        }
+      ],
+      "text": "@AltR_Paulin Verjetno tudi Slovenija nebi bila v Jugoslaviji in se nam  eni bilo potrebno odcepiti. In nebi bili 45let brez človekovih pravic. 🤔",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079007752662511617",
+      "lang": "sl",
+      "created_at": "2018-12-29T13:34:29Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 3,
+        "quote_count": 0
+      },
+      "id": "1079007752662511617",
+      "author_id": "49831400",
+      "text": "Komentator smučarskih tekov napove, da se je v finale uvrstilo kar 6 slo predstavnikov... Potem našteje 5 deklet :p",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079007271974256645",
+      "lang": "und",
+      "created_at": "2018-12-29T13:32:35Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079007271974256645",
+      "author_id": "61220731",
+      "text": "13:31 S56KVJ/P (Valdemar) on S5/PK-016 (Sršenov vrh, 963m, 4 Point(s)) 7.185 ssb: *calling cq [SOTA Spotter] [S56KVJ]",
+      "geo": {
+        "place_id": "58f54743b1a62911",
+        "coordinates": {
+          "type": "Point",
+          "coordinates": [
+            15.3733,
+            46.6169
+          ]
+        }
+      }
+    },
+    {
+      "conversation_id": "1079006665314353153",
+      "lang": "sl",
+      "in_reply_to_user_id": "5120691",
+      "created_at": "2018-12-29T13:32:30Z",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1079007251317383168",
+      "author_id": "459532635",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1079006665314353153"
+        }
+      ],
+      "text": "@wef Lažejo. Aretirat.",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078799340343382016",
+      "lang": "sl",
+      "in_reply_to_user_id": "460335488",
+      "created_at": "2018-12-29T13:25:53Z",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 12,
+        "quote_count": 0
+      },
+      "id": "1079005586077990912",
+      "author_id": "2644773917",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078813754429792256"
+        }
+      ],
+      "text": "@BrunoVidmar Morala bi biti v javni hiši, če niso v učili arhiva🤔",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079004763411435525",
+      "lang": "sl",
+      "created_at": "2018-12-29T13:22:37Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079004763411435525",
+      "author_id": "61220731",
+      "text": "13:21 S510SOTA/P () on S5/KS-035 (Molakov vrh, 1183m, 4 Point(s)) 7.167 ssb [S59WT]",
+      "geo": {
+        "place_id": "58f54743b1a62911",
+        "coordinates": {
+          "type": "Point",
+          "coordinates": [
+            14.9872,
+            46.4586
+          ]
+        }
+      }
+    },
+    {
+      "conversation_id": "1079003944431562752",
+      "lang": "sl",
+      "created_at": "2018-12-29T13:19:21Z",
+      "public_metrics": {
+        "retweet_count": 10,
+        "reply_count": 3,
+        "like_count": 26,
+        "quote_count": 1
+      },
+      "id": "1079003944431562752",
+      "author_id": "459532635",
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1078999156709036032"
+        }
+      ],
+      "text": "Veselinovićev tanjug, ali brzi Gonzales. @Demokracija1 in @Nova24TV sta to objavila pred šestimi dnevi. https://t.co/LSJQIALuem",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078996432810577920",
+      "lang": "sl",
+      "in_reply_to_user_id": "408474577",
+      "created_at": "2018-12-29T13:14:56Z",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 1,
+        "like_count": 10,
+        "quote_count": 0
+      },
+      "id": "1079002829430374400",
+      "author_id": "459532635",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078996432810577920"
+        }
+      ],
+      "text": "@AltR_Paulin Sem že zapisal: Doberšek in Slivnik bi nas s tako vsebino fuknila na cesto. Upravičeno.\nSicer pa:\nDelo 2018 - 23.000 naklade\nDelo 1993 - 100.000 naklade\n\nJih pozdravlja Slivnikova četica\n@JozeBiscak",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078977086151409664",
+      "lang": "und",
+      "in_reply_to_user_id": "19643036",
+      "created_at": "2018-12-29T13:14:35Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079002744625737728",
+      "author_id": "492089060",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1079002616196202496"
+        }
+      ],
+      "text": "@anzet Tko ja :/",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078996946965143552",
+      "lang": "sl",
+      "in_reply_to_user_id": "845103810",
+      "created_at": "2018-12-29T13:12:18Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "id": "1079002168940744705",
+      "author_id": "459532635",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078996946965143552"
+        }
+      ],
+      "text": "@krtmen Čeprav govori neumnosti.",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078751427453992960",
+      "lang": "und",
+      "in_reply_to_user_id": "529262648",
+      "created_at": "2018-12-29T13:11:21Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079001930372997122",
+      "author_id": "459532635",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078912780676276225"
+        }
+      ],
+      "text": "@borisvoncina @AltR_Paulin Tetorist je terorist. Tale izbor fotke je pa manipulacija.",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079001761178963975",
+      "lang": "sl",
+      "created_at": "2018-12-29T13:10:41Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079001761178963975",
+      "author_id": "61220731",
+      "text": "13:10 S510SOTA/P () on S5/KS-035 (Molakov vrh, 1183m, 4 Point(s)) 7.167 ssb [S59WT]",
+      "geo": {
+        "place_id": "58f54743b1a62911",
+        "coordinates": {
+          "type": "Point",
+          "coordinates": [
+            14.9872,
+            46.4586
+          ]
+        }
+      }
+    },
+    {
+      "conversation_id": "1079001340066611201",
+      "lang": "sl",
+      "created_at": "2018-12-29T13:09:01Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1079001340066611201",
+      "author_id": "96847017",
+      "text": "\"Deček zaradi napačnih daril pod smrečico poklical policijo\"\n\nA še koga tole asociira na Vilija Kovačiča. \n\"Starček zaradi napačnega zmagovalca na volitvah vložil pritožbo\" \n\nhttps://t.co/WUfg0alyXz",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1079000075366555648",
+      "lang": "sl",
+      "created_at": "2018-12-29T13:03:59Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1079000075366555648",
+      "author_id": "2315955392",
+      "text": "💥Vabljeni k ogledu DETAJLOV Z NAŠIH STOJNIC + k sodelovanju v NOVOLETNI NAGRADNI IGRI\n💥💚💞🎄\nAmbrož kreacije  https://t.co/JPhUTeHrKn",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078977086151409664",
+      "lang": "sl",
+      "in_reply_to_user_id": "41363894",
+      "created_at": "2018-12-29T12:58:00Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1078998567774310400",
+      "author_id": "492089060",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078978993905459200"
+        }
+      ],
+      "text": "@vanfranco So ga, videl ga nisem",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078938813928476672",
+      "lang": "sl",
+      "in_reply_to_user_id": "117081687",
+      "created_at": "2018-12-29T12:46:00Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1078995551344099328",
+      "author_id": "63411930",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078995170358632448"
+        }
+      ],
+      "text": "@NejcSaje obstajajo podatki o rabi zmeljisca.. ce je kilometre okoli gozd, pac ne rabim senzorja, da mi pove kaksna je kvaliteta zraka.. ali pac?",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078995241972183041",
+      "lang": "sl",
+      "created_at": "2018-12-29T12:44:47Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1078995241972183041",
+      "author_id": "61220731",
+      "text": "12:44 S510SOTA/P () on S5/KS-035 (Molakov vrh, 1183m, 4 Point(s)) 14.264 ssb [S59WT]",
+      "geo": {
+        "place_id": "58f54743b1a62911",
+        "coordinates": {
+          "type": "Point",
+          "coordinates": [
+            14.9872,
+            46.4586
+          ]
+        }
+      }
+    },
+    {
+      "conversation_id": "1078992646205509632",
+      "lang": "und",
+      "created_at": "2018-12-29T12:34:28Z",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 0,
+        "like_count": 21,
+        "quote_count": 0
+      },
+      "id": "1078992646205509632",
+      "author_id": "190973098",
+      "text": "\"Neka večeras grme bubnjevi, pesma će naša tebe nositi, \nsvima u inat neka prkosi,\nnek znaju da si s'nama najači!\n\nSve ove godine mi smo uz tebe,\ni znaj da nikad nema predaje,\nZAUVEK SMO TU U PRKOS VREMENU, ZA VEČNU SLAVU TVOME IMENU!\" ⚫⚪⚫⚪ @PartizanBC https://t.co/9MSanM3coz",
+      "geo": {
+        "place_id": "58f54743b1a62911",
+        "coordinates": {
+          "type": "Point",
+          "coordinates": [
+            14.488991,
+            46.0352391
+          ]
+        }
+      }
+    },
+    {
+      "conversation_id": "1078986186587340802",
+      "lang": "und",
+      "in_reply_to_user_id": "1024728208758005762",
+      "created_at": "2018-12-29T12:32:34Z",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "id": "1078992168570753024",
+      "author_id": "459532635",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078986186587340802"
+        }
+      ],
+      "text": "@Tadej09054759 Slovenačka papica.",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078990542422315008",
+      "lang": "sl",
+      "created_at": "2018-12-29T12:26:06Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 4,
+        "quote_count": 0
+      },
+      "id": "1078990542422315008",
+      "author_id": "1008583529901502464",
+      "text": "Danes bo prvi večer brez @SBobovnik Začenja se novo štetje. Moj globok poklon, legenda.",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078989479153750016",
+      "lang": "und",
+      "created_at": "2018-12-29T12:21:53Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1078989479153750016",
+      "author_id": "61220731",
+      "text": "12:21 S510SOTA () on S5/KS-035 (Molakov vrh, 1183m, 4 Point(s)) 145.550 fm [S56IHX]",
+      "geo": {
+        "place_id": "58f54743b1a62911",
+        "coordinates": {
+          "type": "Point",
+          "coordinates": [
+            14.9872,
+            46.4586
+          ]
+        }
+      }
+    },
+    {
+      "conversation_id": "1078988496411463681",
+      "lang": "sl",
+      "created_at": "2018-12-29T12:17:58Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 12,
+        "quote_count": 0
+      },
+      "id": "1078988496411463681",
+      "author_id": "953916200194539520",
+      "text": "Še tri dni do Špele Grošelj v Ajdovščini.",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078988478652825600",
+      "lang": "und",
+      "created_at": "2018-12-29T12:17:54Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1078988478652825600",
+      "author_id": "61220731",
+      "text": "12:17 S510SOTA () on S5/KS-053 (Rahtelov vrh (Rahnetov vrh), 668m, 2 Point(s)) 145.550 fm [S56IHX]",
+      "geo": {
+        "place_id": "58f54743b1a62911",
+        "coordinates": {
+          "type": "Point",
+          "coordinates": [
+            15.0725,
+            46.5206
+          ]
+        }
+      }
+    },
+    {
+      "conversation_id": "1078958348064735232",
+      "lang": "sl",
+      "in_reply_to_user_id": "18412960",
+      "created_at": "2018-12-29T12:16:06Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1078988027186372609",
+      "author_id": "2214436298",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078958348064735232"
+        }
+      ],
+      "text": "@crnkovic Dobro vprašanje, ja.",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078972597373726721",
+      "lang": "sl",
+      "in_reply_to_user_id": "54506692",
+      "created_at": "2018-12-29T12:14:45Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1078987685325352960",
+      "author_id": "49831400",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078985648399441920"
+        }
+      ],
+      "text": "@petrasovdat Ne vem če je govora o sticnosti.. sem misli da o veganskih Browningjih... :P",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078977086151409664",
+      "lang": "und",
+      "in_reply_to_user_id": "492089060",
+      "created_at": "2018-12-29T11:46:30Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1078980576097566720",
+      "author_id": "204026155",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078977086151409664"
+        }
+      ],
+      "text": "@AndrazLogar Kad kreme stvarno krene https://t.co/S6EJGY6Djn",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078980207200141312",
+      "lang": "und",
+      "created_at": "2018-12-29T11:45:02Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1078980207200141312",
+      "author_id": "61220731",
+      "text": "11:44 S53XX/P (Slavko) on S5/JA-062 (Mahavček (Veliki Bogatin), 2005m, 10 Point(s)) 14.0573 cw: *[RBNHole] at G4HSO 25 WPM 29 dB SNR [RBNHOL",
+      "geo": {
+        "place_id": "58f54743b1a62911",
+        "coordinates": {
+          "type": "Point",
+          "coordinates": [
+            13.7361,
+            46.2772
+          ]
+        }
+      }
+    },
+    {
+      "conversation_id": "1078980175751196672",
+      "lang": "sl",
+      "created_at": "2018-12-29T11:44:55Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1078980175751196672",
+      "author_id": "96847017",
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1078732152660000769"
+        }
+      ],
+      "text": "S čem se folk zadovolji, pa kok hitr pozabu... a ni to tip z lažno titulo, eden od zafuratorjev 2. tira, srčni borec za nujnost dilanja z Madžari, maketar itd. itd. https://t.co/IWllWmSF4B",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078979518419873793",
+      "lang": "sl",
+      "created_at": "2018-12-29T11:42:18Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1078979518419873793",
+      "author_id": "96847017",
+      "text": "Ene moti Dedek mraz, druge jaslice.\n\nJebem vam mater nenormalno.",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078926726565163009",
+      "lang": "sl",
+      "in_reply_to_user_id": "29754756",
+      "created_at": "2018-12-29T11:38:30Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 3,
+        "quote_count": 0
+      },
+      "id": "1078978563745943552",
+      "author_id": "953916200194539520",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078928243032506370"
+        }
+      ],
+      "text": "@KatarinaJenko sej bi jim, čeb jih kdaj sreču.",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078972597373726721",
+      "lang": "sl",
+      "in_reply_to_user_id": "54506692",
+      "created_at": "2018-12-29T11:33:10Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1078977220817887232",
+      "author_id": "49831400",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078972597373726721"
+        }
+      ],
+      "text": "@petrasovdat A drugače daš not meso :p",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078670423657725953",
+      "lang": "und",
+      "in_reply_to_user_id": "3432582825",
+      "created_at": "2018-12-29T11:32:36Z",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1078977077150470144",
+      "author_id": "459532635",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078961056255479808"
+        }
+      ],
+      "text": "@tadejakrec @IvankaKoprivc Pejte mal na dopust. Potem pa zrihtajte zakonodajno pobudo. Zmenjeno?",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078933706579021824",
+      "lang": "sl",
+      "in_reply_to_user_id": "1069626581797228544",
+      "created_at": "2018-12-29T11:29:33Z",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 1,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "id": "1078976311853486080",
+      "author_id": "459532635",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078946484383637504"
+        }
+      ],
+      "text": "@BeliefBored Čudno, da ni zapisal, da sam leti po luftu.",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078974664901304320",
+      "lang": "sl",
+      "created_at": "2018-12-29T11:23:01Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1078974664901304320",
+      "author_id": "61220731",
+      "text": "11:22 S53XX/P (Slavko) on S5/JA-062 (Mahavček (Veliki Bogatin), 2005m, 10 Point(s)) 10.118 cw: *[RBNHole] at SE5E 25 WPM 13 dB SNR [RBNHOLE]",
+      "geo": {
+        "place_id": "58f54743b1a62911",
+        "coordinates": {
+          "type": "Point",
+          "coordinates": [
+            13.7361,
+            46.2772
+          ]
+        }
+      }
+    },
+    {
+      "conversation_id": "1078974495019405312",
+      "lang": "und",
+      "created_at": "2018-12-29T11:22:20Z",
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 0,
+        "like_count": 9,
+        "quote_count": 2
+      },
+      "id": "1078974495019405312",
+      "author_id": "459532635",
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1078971250117169152"
+        }
+      ],
+      "text": "Čisti sovražni govor. https://t.co/WHLCn9HS0t",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078944580412891142",
+      "lang": "sl",
+      "in_reply_to_user_id": "486984205",
+      "created_at": "2018-12-29T11:21:24Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1078974261027590145",
+      "author_id": "14344226",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078974118291275781"
+        }
+      ],
+      "text": "@PametnaRit Cene so šle gor.",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078669517746814977",
+      "lang": "sl",
+      "in_reply_to_user_id": "263141625",
+      "created_at": "2018-12-29T11:19:16Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1078973723124871169",
+      "author_id": "49831400",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078746547507159040"
+        }
+      ],
+      "text": "@miskasmetiska Sem pogledal. Stage pianoti nazalost niso.. ;) hvala",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1076900261405380609",
+      "lang": "und",
+      "in_reply_to_user_id": "1321631749",
+      "created_at": "2018-12-29T11:17:33Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1078973289081552897",
+      "author_id": "2228828034",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078647039456669698"
+        }
+      ],
+      "text": "@IgorPribac @NenadGlucks @SVesel @policija_si Igor Muslimac !’",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078742753809444866",
+      "lang": "sl",
+      "in_reply_to_user_id": "49831400",
+      "created_at": "2018-12-29T11:14:35Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1078972544844263424",
+      "author_id": "49831400",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078971509476081664"
+        }
+      ],
+      "text": "@MarkoPavlisic @Pertinacal @strankalevica * ker če ni .. sorry",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078972094929649669",
+      "lang": "sl",
+      "created_at": "2018-12-29T11:12:48Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1078972094929649669",
+      "author_id": "49831400",
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1078971004649684992"
+        }
+      ],
+      "text": "Misliš da je gledala Montyje :P https://t.co/xBSz9zs8Kd",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078971980815175681",
+      "lang": "sl",
+      "created_at": "2018-12-29T11:12:21Z",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 1,
+        "like_count": 19,
+        "quote_count": 0
+      },
+      "id": "1078971980815175681",
+      "author_id": "494312292",
+      "text": "Od danes naprej je pri meni ukinjen program @PrvaSrpskaTv1. Gledala sem samo ob petkih. Sicer voditelja malega voditelja velikega srca. @veceivan tudi v Sloveniji te imamo radi!",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078971654418677760",
+      "lang": "sl",
+      "created_at": "2018-12-29T11:11:03Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1078971654418677760",
+      "author_id": "61220731",
+      "text": "11:10 S56LXN/P (Bojan) on S5/KS-068 (Veniški vrh, 569m, 2 Point(s)) 7.126 ssb: *[VK port-a-log] [S56LXN]",
+      "geo": {
+        "place_id": "58f54743b1a62911",
+        "coordinates": {
+          "type": "Point",
+          "coordinates": [
+            15.0364,
+            46.3742
+          ]
+        }
+      }
+    },
+    {
+      "conversation_id": "1078941884578480128",
+      "lang": "sl",
+      "in_reply_to_user_id": "15424824",
+      "created_at": "2018-12-29T11:03:16Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1078969695359905793",
+      "author_id": "49831400",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078941884578480128"
+        }
+      ],
+      "text": "@juremes Benti .. še Slovaška naš šiša :p",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078969401934786563",
+      "lang": "sl",
+      "created_at": "2018-12-29T11:02:06Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1078969401934786563",
+      "author_id": "61220731",
+      "text": "11:02 S53XX/P (Slavko) on S5/JA-062 (Mahavček (Veliki Bogatin), 2005m, 10 Point(s)) 7.0281 cw: *[RBNHole] at HB9DQM 25 WPM 28 dB SNR [RBNHOL",
+      "geo": {
+        "place_id": "58f54743b1a62911",
+        "coordinates": {
+          "type": "Point",
+          "coordinates": [
+            13.7361,
+            46.2772
+          ]
+        }
+      }
+    },
+    {
+      "conversation_id": "1078956362766450694",
+      "lang": "sl",
+      "in_reply_to_user_id": "1201332908",
+      "created_at": "2018-12-29T11:00:52Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1078969094018338816",
+      "author_id": "635174708",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078968177877495809"
+        }
+      ],
+      "text": "@MorskaKvacka Vsega je, samo v manjših količinah!",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078968899545161729",
+      "lang": "sl",
+      "created_at": "2018-12-29T11:00:06Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1078968899545161729",
+      "author_id": "61220731",
+      "text": "10:59 S56LXN/P (Bojan) on S5/KS-068 (Veniški vrh, 569m, 2 Point(s)) 14.288 ssb: *[VK port-a-log] [S56LXN]",
+      "geo": {
+        "place_id": "58f54743b1a62911",
+        "coordinates": {
+          "type": "Point",
+          "coordinates": [
+            15.0364,
+            46.3742
+          ]
+        }
+      }
+    },
+    {
+      "conversation_id": "1078939644467834880",
+      "lang": "sl",
+      "in_reply_to_user_id": "459532635",
+      "created_at": "2018-12-29T10:59:43Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "id": "1078968803797729280",
+      "author_id": "2228828034",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078939644467834880"
+        }
+      ],
+      "text": "@vinkovasle1 @FrancHimelrajh “UDBOBANKO” naj si kupi UDBA in naj pol propade ...",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078956362766450694",
+      "lang": "sl",
+      "in_reply_to_user_id": "1201332908",
+      "created_at": "2018-12-29T10:54:09Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1078967402950479872",
+      "author_id": "635174708",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078957412596502528"
+        }
+      ],
+      "text": "@MorskaKvacka Koper je glih na meji med meglo in ☀️",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078967082216275969",
+      "lang": "sl",
+      "created_at": "2018-12-29T10:52:53Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1078967082216275969",
+      "author_id": "96847017",
+      "text": "U kermu filmu ta seronja živi!? https://t.co/WMdmOUXqqe",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078966695652409344",
+      "lang": "und",
+      "created_at": "2018-12-29T10:51:21Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1078966695652409344",
+      "author_id": "1073861010",
+      "text": "Lasko 1825 zlatorog \n#laskobeer #lasko \n#beer #Pivo #biere \n#birra \n#BpBSlovenia \n#BaccoEurope \n#Viaggiatoridelgusto \n#Slovenia #slovenia_ig \n#slovenjia \n#baccoperbaccobalcani @ Vipava,… https://t.co/YWH2LzGbRb",
+      "geo": {
+        "place_id": "58f54743b1a62911",
+        "coordinates": {
+          "type": "Point",
+          "coordinates": [
+            13.9631,
+            45.8467
+          ]
+        }
+      }
+    },
+    {
+      "conversation_id": "1078940479071358978",
+      "lang": "sl",
+      "in_reply_to_user_id": "412922635",
+      "created_at": "2018-12-29T10:48:50Z",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "id": "1078966062065045506",
+      "author_id": "2228828034",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078940479071358978"
+        }
+      ],
+      "text": "@acerne2 80 - PROTI SLOVENCEV !!! https://t.co/raSWzwETiu",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078966034739200000",
+      "lang": "sl",
+      "created_at": "2018-12-29T10:48:43Z",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 3,
+        "quote_count": 0
+      },
+      "id": "1078966034739200000",
+      "author_id": "1002912171595063296",
+      "text": "Torej bo zraven jaslic postavil še srp in kladivo, da bo enakopravnosti religij zadovoljeno. Sicer pa PR ni škof, da bi mu lahko naprtil neločenost ... https://t.co/oeNDAZSLsT",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078965786868359168",
+      "lang": "sl",
+      "created_at": "2018-12-29T10:47:44Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1078965786868359168",
+      "author_id": "2228828034",
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1078940479071358978"
+        }
+      ],
+      "text": "Ena TRETINA poslancev NI glasovala ZA SAMOSTOJNOST SLOVENIJE !!! - Banda 80 ih !! https://t.co/r1beA6PoF1",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078964337652436993",
+      "lang": "und",
+      "created_at": "2018-12-29T10:41:58Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1078964337652436993",
+      "author_id": "3021391625",
+      "text": "❣️ https://t.co/D8nRLKhDqN",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078931314764599296",
+      "lang": "und",
+      "in_reply_to_user_id": "90282903",
+      "created_at": "2018-12-29T10:35:47Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1078962779141361665",
+      "author_id": "37990022",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078958484320907264"
+        }
+      ],
+      "text": "@mitjast Sj to anketo je tak on naštimo,ker glavni direktor MDja je tak njegov zelo dober frend",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078953167709265921",
+      "lang": "sl",
+      "in_reply_to_user_id": "329695436",
+      "created_at": "2018-12-29T10:20:14Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1078958868267495424",
+      "author_id": "778182018",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078953167709265921"
+        }
+      ],
+      "text": "@lucijausaj JIh ni. Ženske so ostale doma.",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078958016823812096",
+      "lang": "und",
+      "created_at": "2018-12-29T10:16:51Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1078958016823812096",
+      "author_id": "2228828034",
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1078929721767985154"
+        }
+      ],
+      "text": "NO “Muhammad Tours”\nNE HODITE V “USRANE LUKNJE” - MUSLIMANSKE !! https://t.co/1ELQaRtM4z",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078956812613943296",
+      "lang": "sl",
+      "created_at": "2018-12-29T10:12:04Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1078956812613943296",
+      "author_id": "2382497281",
+      "text": "⛓⚜️Si bolj za srebrno ali zlato kombinacijo?\n\n~~&gt;samo še nekaj dni na voljo v europark_maribor @ Europark Maribor https://t.co/EXFgahw2v5",
+      "geo": {
+        "place_id": "58f54743b1a62911",
+        "coordinates": {
+          "type": "Point",
+          "coordinates": [
+            15.65165852,
+            46.55390376
+          ]
+        }
+      }
+    },
+    {
+      "conversation_id": "1078956661568663552",
+      "lang": "sl",
+      "created_at": "2018-12-29T10:11:28Z",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1078956661568663552",
+      "author_id": "202558404",
+      "text": "Za predstavi Deklica z vžigalicami danes in jutri ob 18h v Miniteatru je še nekaj vstopnic. Po predstavah vas pride direktno s sprevoda pozdravit tudi dedek Mraz:)\nPohitite:\nhttps://t.co/a8vU646Pft https://t.co/vexEtPSYHY",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1074760744179249152",
+      "lang": "sl",
+      "in_reply_to_user_id": "947677573223501824",
+      "created_at": "2018-12-29T10:10:51Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1078956503132971008",
+      "author_id": "2228828034",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1075469582910005248"
+        }
+      ],
+      "text": "@miran_lipovec @_Almita__ @JelenaJal Lepo Razložen - “Left-Balkan Komplex” !!",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078954509324431360",
+      "lang": "qme",
+      "created_at": "2018-12-29T10:02:55Z",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 0,
+        "like_count": 11,
+        "quote_count": 0
+      },
+      "id": "1078954509324431360",
+      "author_id": "1042146648",
+      "text": "#ifeelslovenia #WWII #history #Slovenia #Slovenija https://t.co/a2D8tA6Fht",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078951907673157632",
+      "lang": "sl",
+      "in_reply_to_user_id": "155582936",
+      "created_at": "2018-12-29T10:00:42Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "id": "1078953951574327296",
+      "author_id": "953916200194539520",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078953311175364609"
+        }
+      ],
+      "text": "@jkmcnk @KatarinaJenko in še skoki so popoldne.",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078953938295156736",
+      "lang": "sl",
+      "created_at": "2018-12-29T10:00:39Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1078953938295156736",
+      "author_id": "24393822",
+      "text": "Dober simbol zaostale in nedokončane tranzicije v Sloveniji je tudi Dedek Mraz. Ker so ga uvedli ideološko kot nadomestek Miklavža in Božička, bo tudi izginil (šele), ko bo tranzicija zaključena.",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078637885241331714",
+      "lang": "sl",
+      "in_reply_to_user_id": "1010424114962673664",
+      "created_at": "2018-12-29T09:58:06Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1078953295891349504",
+      "author_id": "1280103098",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078657928851349505"
+        }
+      ],
+      "text": "@JakAndrej @Alex4aleksandra sam največkrat, \"prešaltam\" na Hr, a kaj ko ne prenašajo vseh",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078952734127202304",
+      "lang": "und",
+      "created_at": "2018-12-29T09:55:52Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1078952734127202304",
+      "author_id": "2228828034",
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1078750532741804033"
+        }
+      ],
+      "text": "ĆEFUR-KOMPLEX https://t.co/s5Z6d2s1cg",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078951509990273024",
+      "lang": "und",
+      "created_at": "2018-12-29T09:51:00Z",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 9,
+        "quote_count": 0
+      },
+      "id": "1078951509990273024",
+      "author_id": "494312292",
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1078771429099884544"
+        }
+      ],
+      "text": "Jutro u Ljubljani ❤\nHvala ti na svemu. @veceivan od sad pratim youtube kanal 😉 https://t.co/6Gb0ZFg5nH",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078950260104458242",
+      "lang": "und",
+      "created_at": "2018-12-29T09:46:02Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "id": "1078950260104458242",
+      "author_id": "112512698",
+      "text": "Knjige o ishrani, umjesto nutricionista, počeli su pisati hodže i teolozi 😁",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078948719016460289",
+      "lang": "sl",
+      "in_reply_to_user_id": "2214436298",
+      "created_at": "2018-12-29T09:44:29Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1078949869899927552",
+      "author_id": "182089980",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078948719016460289"
+        }
+      ],
+      "text": "@DKosir7 @Dnevnik_si Dober intervju, za nekoga, ki (ni) presenečenje!👍😉",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078948719016460289",
+      "lang": "sl",
+      "created_at": "2018-12-29T09:39:55Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1078948719016460289",
+      "author_id": "2214436298",
+      "text": "Še zadnji, zelo zanimiv politični pregled leta, skozi objektivne številke s subjektivnim pogledom naše komentatorke: \nPregled gibanja podpore strankam:  LMŠ, ki je sestavila vlado, le enkrat doslej na vrhu strankarske lestvice https://t.co/QiHfCgIKlf via @Dnevnik_si",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078948540767002624",
+      "lang": "und",
+      "created_at": "2018-12-29T09:39:12Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "id": "1078948540767002624",
+      "author_id": "112512698",
+      "text": "Pokojni dr. Predrag Vranicki nekada davno politiku je opisao i sljedećim riječima:”U politici je kao u seksu, želje su jedno, mogućnosti nešto sasvim drugo.”",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078947836388102144",
+      "lang": "sl",
+      "created_at": "2018-12-29T09:36:24Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 2,
+        "quote_count": 1
+      },
+      "id": "1078947836388102144",
+      "author_id": "2214436298",
+      "text": "Kmalu brez ognjemeta tudi v Ljubljani?\nV anketi na facebooku odločen ne ognjemetu z ljubljanskega gradu https://t.co/bIejpVkM9W via @Dnevnik_si",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078946909442768897",
+      "lang": "sl",
+      "created_at": "2018-12-29T09:32:43Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1078946909442768897",
+      "author_id": "61220731",
+      "text": "09:31 S510SOTA/P () on S5/KS-032 (Kavnikov vrh, 1251m, 6 Point(s)) 14.272 ssb: Op Igor [SA4BLM]",
+      "geo": {
+        "place_id": "58f54743b1a62911",
+        "coordinates": {
+          "type": "Point",
+          "coordinates": [
+            14.9483,
+            46.4597
+          ]
+        }
+      }
+    },
+    {
+      "conversation_id": "1078940895150510080",
+      "lang": "sl",
+      "created_at": "2018-12-29T09:08:49Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1078940895150510080",
+      "author_id": "2214436298",
+      "text": "Res nora predstava, tako Luke s 7 trojkami na eni kot Davisa z 48 pikami na drugi strani.\n#video Nova izjemna predstava Luke Dončića in nov točkovni rekord  https://t.co/DBuwNsUZN3 via @Dnevnik_si",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078670423657725953",
+      "lang": "sl",
+      "in_reply_to_user_id": "3432582825",
+      "created_at": "2018-12-29T09:03:04Z",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 4,
+        "quote_count": 0
+      },
+      "id": "1078939448677670912",
+      "author_id": "459532635",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078670423657725953"
+        }
+      ],
+      "text": "@tadejakrec @IvankaKoprivc Podpišite, pa bo tudi za vas.",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078715088717205504",
+      "lang": "sl",
+      "in_reply_to_user_id": "403337692",
+      "created_at": "2018-12-29T09:01:42Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 4,
+        "quote_count": 0
+      },
+      "id": "1078939103184515072",
+      "author_id": "182089980",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078715088717205504"
+        }
+      ],
+      "text": "@bobsparrow70 Self made cowboy...ko razširi noge in zavzame revolveraško držo, vem, da ...ničesar ne vem! Vse ve le on in njegovi prišepetovalci!",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078938813928476672",
+      "lang": "sl",
+      "created_at": "2018-12-29T09:00:33Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1078938813928476672",
+      "author_id": "63411930",
+      "text": "vsaka aplikacija, ki mi pravi, da je sredi kocevskih gozdov kvaliteta zraka “moderate”, khm...  dejmo manj manj gledat v telefone in mal bolj okoli sebe...",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078568276047904768",
+      "lang": "sl",
+      "in_reply_to_user_id": "43716999",
+      "created_at": "2018-12-29T08:56:10Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1078937708964261890",
+      "author_id": "44965477",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078721430249000967"
+        }
+      ],
+      "text": "@mietke @UrosValant @Sport_Klub_Slo Ne delava tomazka :) prevelik spread, nepomembno :))",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078697871589937158",
+      "lang": "sl",
+      "in_reply_to_user_id": "473796411",
+      "created_at": "2018-12-29T08:55:07Z",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 4,
+        "quote_count": 0
+      },
+      "id": "1078937447860453376",
+      "author_id": "3181163932",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078697871589937158"
+        }
+      ],
+      "text": "@t_andrej @mojcav1 So pozabili, da je sposojeno treba tudi vrniti. To prepuščajo raje kakšni bodoči desni vladi, naj se oni blamirajo?! Dokler so bili oni, je bilo še vse v redu?!",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078786126251315200",
+      "lang": "qme",
+      "in_reply_to_user_id": "83264309",
+      "created_at": "2018-12-29T08:54:44Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1078937349394976773",
+      "author_id": "43596967",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078786126251315200"
+        }
+      ],
+      "text": "@javierabegazo https://t.co/HLrhITpJLi",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078768042602049536",
+      "lang": "sl",
+      "in_reply_to_user_id": "373929281",
+      "created_at": "2018-12-29T08:47:29Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1078935525007024128",
+      "author_id": "3181163932",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078768042602049536"
+        }
+      ],
+      "text": "@Pika_So Za zgubljanje časa, tako kot večina njih?!",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078935419012685825",
+      "lang": "sl",
+      "created_at": "2018-12-29T08:47:04Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 6,
+        "quote_count": 0
+      },
+      "id": "1078935419012685825",
+      "author_id": "2214436298",
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1078931124716331008"
+        }
+      ],
+      "text": "Zelo priporočam. Tale intervju se bere kot šus. https://t.co/vNdYXjfYde",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078562644892762113",
+      "lang": "sl",
+      "in_reply_to_user_id": "351842143",
+      "created_at": "2018-12-29T08:45:08Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1078934932716769281",
+      "author_id": "3181163932",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078562644892762113"
+        }
+      ],
+      "text": "@TinoMamic False flag manever?! Spet nas bodo okol prnesli. Ne vemo še kako, dejstvo je, govori se o zastavi, v ozadju potekajo druge bistvene zadeve.?!",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078934207194415104",
+      "lang": "sl",
+      "created_at": "2018-12-29T08:42:15Z",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 9,
+        "like_count": 18,
+        "quote_count": 0
+      },
+      "id": "1078934207194415104",
+      "author_id": "459532635",
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1078603264860581888"
+        }
+      ],
+      "text": "Še eden poln skromnosti in odpovedovanja. Še zbolel bo na biciklu.Itak bo. Volitve se bližajo. Mu pa menda v @NovaSlovenija že vrata kažejo. https://t.co/9ovsr28SnY",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078933706579021824",
+      "lang": "sl",
+      "created_at": "2018-12-29T08:40:15Z",
+      "public_metrics": {
+        "retweet_count": 7,
+        "reply_count": 13,
+        "like_count": 48,
+        "quote_count": 1
+      },
+      "id": "1078933706579021824",
+      "author_id": "459532635",
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1074604553054638080"
+        }
+      ],
+      "text": "Grozovito je biti EU poslanec. Človek se vsemu odpoveduje. https://t.co/AKQAkj8TA3",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078932555783696384",
+      "lang": "sl",
+      "in_reply_to_user_id": "379672433",
+      "created_at": "2018-12-29T08:35:41Z",
+      "public_metrics": {
+        "retweet_count": 3,
+        "reply_count": 4,
+        "like_count": 2,
+        "quote_count": 1
+      },
+      "id": "1078932555783696384",
+      "author_id": "459532635",
+      "text": "@drVinkoGorenak - to je ta genij, ki piše o zastavi na LJ gradu. Kaj čmo, vsak s ceste je že lahko novinar. \n\nhttps://t.co/MrZPhmaJ3I",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078920541493436416",
+      "lang": "und",
+      "in_reply_to_user_id": "107788493",
+      "created_at": "2018-12-29T08:33:10Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1078931923957882881",
+      "author_id": "40502358",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078930685535096832"
+        }
+      ],
+      "text": "@lukavalas @petracj @had @PametnaRit edino prav...",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078715738851020801",
+      "lang": "sl",
+      "in_reply_to_user_id": "1005778989623988224",
+      "created_at": "2018-12-29T08:32:04Z",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 3,
+        "quote_count": 0
+      },
+      "id": "1078931645007364097",
+      "author_id": "459532635",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078742303458709517"
+        }
+      ],
+      "text": "@kriticni @MarTin98766959 @vladaRS In se v tej deželi ne sme nič vprašati?",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078920541493436416",
+      "lang": "sl",
+      "in_reply_to_user_id": "970275582322921473",
+      "created_at": "2018-12-29T08:26:33Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1078930256197754880",
+      "author_id": "40502358",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078929069352382464"
+        }
+      ],
+      "text": "@vladarsi @petracj @had @PametnaRit Ja ja... saj to je le malce zabave ....",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078630896331382784",
+      "lang": "sl",
+      "in_reply_to_user_id": "803276742819516416",
+      "created_at": "2018-12-29T08:26:25Z",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "id": "1078930222391717894",
+      "author_id": "459532635",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078630896331382784"
+        }
+      ],
+      "text": "@KovacRebeka @MTurjan Zakaj? Samo reži se lahko.",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078920541493436416",
+      "lang": "sl",
+      "in_reply_to_user_id": "12291122",
+      "created_at": "2018-12-29T08:25:22Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1078929960147005440",
+      "author_id": "40502358",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078929100012691457"
+        }
+      ],
+      "text": "@had @petracj @PametnaRit točno na ta način je veljalo glede istospolnih porok v zda in pri nas. Dokler pač ni začelo veljati drugače. Ali glede bikinijev v Iranu.",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078929721767985154",
+      "lang": "und",
+      "created_at": "2018-12-29T08:24:25Z",
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 1,
+        "like_count": 18,
+        "quote_count": 1
+      },
+      "id": "1078929721767985154",
+      "author_id": "459532635",
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1078921537565196289"
+        }
+      ],
+      "text": "Samo 4 mrtvi? Vidite, islam religija miru. https://t.co/Vpb94ePSAr",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078903034418221056",
+      "lang": "sl",
+      "in_reply_to_user_id": "994147590043291649",
+      "created_at": "2018-12-29T08:22:11Z",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 5,
+        "quote_count": 0
+      },
+      "id": "1078929158967832577",
+      "author_id": "459532635",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078903034418221056"
+        }
+      ],
+      "text": "@Alex4aleksandra Ni čist diht. Mamić je podobrmen - drajšpurig.",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078927927704735744",
+      "lang": "sl",
+      "in_reply_to_user_id": "42730080",
+      "created_at": "2018-12-29T08:20:37Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1078928765626007552",
+      "author_id": "40502358",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078927927704735744"
+        }
+      ],
+      "text": "@Libertarec Po razvodenitvi le te (ustave) ...",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078928762627067904",
+      "lang": "sl",
+      "created_at": "2018-12-29T08:20:37Z",
+      "public_metrics": {
+        "retweet_count": 3,
+        "reply_count": 0,
+        "like_count": 3,
+        "quote_count": 0
+      },
+      "id": "1078928762627067904",
+      "author_id": "459532635",
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1078756085656420354"
+        }
+      ],
+      "text": "Podpišite. https://t.co/yelSqvVClw",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078920541493436416",
+      "lang": "sl",
+      "in_reply_to_user_id": "12291122",
+      "created_at": "2018-12-29T08:19:34Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 3,
+        "quote_count": 0
+      },
+      "id": "1078928500659314690",
+      "author_id": "40502358",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078927511277441024"
+        }
+      ],
+      "text": "@had @petracj @PametnaRit &gt; torej imejmo vsako jutro predsednisko molitev? \nČe mu paše, lahko tudi pred jogo.\n\n&gt; torej imejmo verouk v solah?\nkot zunaj obveznega pouka, komot.\n\n&gt;torej imejmo samo krscanstvo povsod, ker so pac najbolj stevilcni?\nTo si pa sedaj privlekel nekaj, česar nihče ne zagovarja.",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078925710960537600",
+      "lang": "und",
+      "in_reply_to_user_id": "212659393",
+      "created_at": "2018-12-29T08:17:55Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1078928083242098688",
+      "author_id": "953916200194539520",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078927014025928705"
+        }
+      ],
+      "text": "@tincaz danes je res amerika.",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078720463092793344",
+      "lang": "sl",
+      "in_reply_to_user_id": "871990712",
+      "created_at": "2018-12-29T08:16:56Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1078927837950816256",
+      "author_id": "40502358",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078927012520185856"
+        }
+      ],
+      "text": "@NovicaMihajlo Ja. Ampak ideje linča niso dobre ideje. Nisem pa rekel, da ne razumem porajanja teh idej, ampak razumsko si želim, da ne prevladale.",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078920541493436416",
+      "lang": "sl",
+      "in_reply_to_user_id": "12291122",
+      "created_at": "2018-12-29T08:14:35Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 4,
+        "quote_count": 0
+      },
+      "id": "1078927246998622208",
+      "author_id": "40502358",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078926290139389952"
+        }
+      ],
+      "text": "@had @petracj @PametnaRit Ločitev vere od države ne pomeni, da državljani, vključujoč najvišje predstavnike, ne prakticirajo verskih obredov. Pomeni predvsem zaščito verske skupnosti pred državo in določbo, da verski zakoni nimajo pravne moči.Da recimo lahko predsednik priseže pred bogom,lahko pa tudi ne.",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078926726565163009",
+      "lang": "sl",
+      "created_at": "2018-12-29T08:12:31Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 12,
+        "quote_count": 0
+      },
+      "id": "1078926726565163009",
+      "author_id": "953916200194539520",
+      "text": "Podarim štiri brezalkoholne pive, k se mi že pol leta valjajo po hladilniku.",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078720463092793344",
+      "lang": "sl",
+      "in_reply_to_user_id": "871990712",
+      "created_at": "2018-12-29T08:11:32Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1078926479189336064",
+      "author_id": "40502358",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078926242731212800"
+        }
+      ],
+      "text": "@NovicaMihajlo Ker to, da nekomu privoščiš, da ga z nogami naprej odnesejo ven, ni nikoli dobra misel.",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078920541493436416",
+      "lang": "sl",
+      "in_reply_to_user_id": "12291122",
+      "created_at": "2018-12-29T08:09:17Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 3,
+        "quote_count": 0
+      },
+      "id": "1078925909896368129",
+      "author_id": "40502358",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078925454906675201"
+        }
+      ],
+      "text": "@had @petracj @PametnaRit Nič hudega, če ne razumeš ustave, tudi Cerar je ne...",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078925710960537600",
+      "lang": "sl",
+      "created_at": "2018-12-29T08:08:29Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 8,
+        "quote_count": 0
+      },
+      "id": "1078925710960537600",
+      "author_id": "953916200194539520",
+      "text": "Vsi mi, k se nam zjutraj ni dalo vstat in it smučat.",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078693068461740032",
+      "lang": "sl",
+      "in_reply_to_user_id": "2583685333",
+      "created_at": "2018-12-29T08:05:01Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1078924836792160256",
+      "author_id": "40502358",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078921534360748032"
+        }
+      ],
+      "text": "@NPoglajen @GregorVirant1 @harari_yuval Tega sem pa že. Super knjiga.",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078924705384538112",
+      "lang": "sl",
+      "created_at": "2018-12-29T08:04:29Z",
+      "public_metrics": {
+        "retweet_count": 7,
+        "reply_count": 2,
+        "like_count": 23,
+        "quote_count": 1
+      },
+      "id": "1078924705384538112",
+      "author_id": "459532635",
+      "text": "NOVOREK: Na radiu slišim, da naj bi se pri nas v 2019 začela gospodarska rast umirjati. \nSe pravi - v buli smo.",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078894914212114432",
+      "lang": "und",
+      "in_reply_to_user_id": "446871956",
+      "created_at": "2018-12-29T07:58:37Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "id": "1078923226250657792",
+      "author_id": "31370707",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078894914212114432"
+        }
+      ],
+      "text": "@Turinek @StezinarDrago Časovni stroj!\nTole je bilo za Goli otok, dosmrtno ...",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078919940105736192",
+      "lang": "sl",
+      "created_at": "2018-12-29T07:45:33Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1078919940105736192",
+      "author_id": "40639889",
+      "text": "Ljubljana\n#ljubjana #ljubljanatimes #ljubljanamoments #igersljubljana #igerslovenia #igljubljana #visitljubljana @ Ljubljana, Slovenia https://t.co/ukhhxhJxoD",
+      "geo": {
+        "place_id": "58f54743b1a62911",
+        "coordinates": {
+          "type": "Point",
+          "coordinates": [
+            14.506,
+            46.0576
+          ]
+        }
+      }
+    },
+    {
+      "conversation_id": "1078742753809444866",
+      "lang": "sl",
+      "in_reply_to_user_id": "436867313",
+      "created_at": "2018-12-29T07:41:25Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1078918899276632065",
+      "author_id": "40502358",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078918055869190146"
+        }
+      ],
+      "text": "@robilesnik @StojanPovh @strankalevica Super cilj! Podpiram.",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078918553045266433",
+      "lang": "und",
+      "created_at": "2018-12-29T07:40:03Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1078918553045266433",
+      "author_id": "702290904460169216",
+      "text": "fdd1c72800p0130B",
+      "geo": {
+        "place_id": "58f54743b1a62911",
+        "coordinates": {
+          "type": "Point",
+          "coordinates": [
+            13.9281,
+            45.6611
+          ]
+        }
+      }
+    },
+    {
+      "conversation_id": "1078742753809444866",
+      "lang": "sl",
+      "in_reply_to_user_id": "436867313",
+      "created_at": "2018-12-29T07:30:47Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1078916223105200128",
+      "author_id": "40502358",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078914869682995200"
+        }
+      ],
+      "text": "@robilesnik @StojanPovh @strankalevica In, kateri cilj ti preferiraš?",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078693068461740032",
+      "lang": "sl",
+      "in_reply_to_user_id": "3979215519",
+      "created_at": "2018-12-29T07:30:23Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1078916120780906496",
+      "author_id": "40502358",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078915982373122048"
+        }
+      ],
+      "text": "@GregorVirant1 @harari_yuval Iz te knjige je izvleček...",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078914205032632325",
+      "lang": "und",
+      "created_at": "2018-12-29T07:22:46Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 3,
+        "quote_count": 0
+      },
+      "id": "1078914205032632325",
+      "author_id": "495247762",
+      "text": "Odmevi. @SBobovnik . Rovte, bregi, lepote dravske doline. Ponosna, da se poznava. #odmevi",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078913993492836352",
+      "lang": "sl",
+      "created_at": "2018-12-29T07:21:55Z",
+      "public_metrics": {
+        "retweet_count": 18,
+        "reply_count": 4,
+        "like_count": 31,
+        "quote_count": 2
+      },
+      "id": "1078913993492836352",
+      "author_id": "2724482035",
+      "text": "MIlan K. Plavi-tajni sodelavec KOS, si jemlje pravico, da sodi o osamosvojiteljih. Človek, ki mi je julija 2012  ob referendumu za TEŠ6 zabrusil - \"pusti narod, NAROD JE BUTAST\" o domoljubju nima pravice govoriti. Cankar bi napisal TRAGIKOMEDIJO in konec bi bilo s PLAVIM. https://t.co/1nQQbLJuAD",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078597985381027840",
+      "lang": "sl",
+      "in_reply_to_user_id": "293431114",
+      "created_at": "2018-12-29T07:06:39Z",
+      "public_metrics": {
+        "retweet_count": 3,
+        "reply_count": 1,
+        "like_count": 6,
+        "quote_count": 0
+      },
+      "id": "1078910149354496000",
+      "author_id": "2803444640",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078597985381027840"
+        }
+      ],
+      "text": "@javniprevoz @isoltesEP @lojzepeterle @tfajon @MilanZver @ivajgl @PatricijaSulin @RomanaTomc Iz moje Koprivnice potujem z osebnim avtomobilom do Brnika, z Adrio, z ekonomskim razredom, pa letim do Bruslja. V Strasbourg pa običajno potujem z avto do Zagreba, naprej z avionom do Frankfurta, in z vlakom do Strasbourga. Veliko varnih poti vam želim v 2019.",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078742753809444866",
+      "lang": "sl",
+      "in_reply_to_user_id": "436867313",
+      "created_at": "2018-12-29T06:59:36Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1078908375960899584",
+      "author_id": "40502358",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078902025423867904"
+        }
+      ],
+      "text": "@robilesnik @StojanPovh @strankalevica In ne, minimalna plača rešuje preživetje zaposlenim in ne na splošno. Tudi tukaj je fajn biti natančen. Minimalna plača nezaposlenemu ne pomaga nič. Prej nasprotno.",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078742753809444866",
+      "lang": "sl",
+      "in_reply_to_user_id": "436867313",
+      "created_at": "2018-12-29T06:58:02Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1078907982153437185",
+      "author_id": "40502358",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078902025423867904"
+        }
+      ],
+      "text": "@robilesnik @StojanPovh @strankalevica vprašanje je, kaj je cilj. Ali da je mediana višja (večina ima dovolj za življenje) ali, da nihče nima preveč (višja stopnja enakosti). Pri čemer je fajn razlikovati med deklarirano in dejansko enakostjo.",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078906366075551745",
+      "lang": "und",
+      "created_at": "2018-12-29T06:51:37Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1078906366075551745",
+      "author_id": "100552853",
+      "text": "Vetrinjska street @ Night #maribor #igmaribor #city #streets #night #nightphotography #colors #lights #slovenia #igslovenia #sony #sonyalpha #sonya7riii #visitmaribor #ifeelslovenia @… https://t.co/zOX3Dz29t0",
+      "geo": {
+        "place_id": "58f54743b1a62911",
+        "coordinates": {
+          "type": "Point",
+          "coordinates": [
+            15.6467,
+            46.5547
+          ]
+        }
+      }
+    },
+    {
+      "conversation_id": "1078891409179058177",
+      "lang": "sl",
+      "created_at": "2018-12-29T05:52:11Z",
+      "public_metrics": {
+        "retweet_count": 7,
+        "reply_count": 3,
+        "like_count": 8,
+        "quote_count": 0
+      },
+      "id": "1078891409179058177",
+      "author_id": "144880017",
+      "text": "#Požareport - april 2018\n(Hiti leta) Knjiga Alenke Bratušek @StrankaAB, usodna afera #DUTB v Logatcu in denar za spremljevalca Lidie Glavina. Pa tudi o tem, kako so kadri Gregorja Golobiča - med njimi @had - zavzeli celo rumene @SlovenskeNovice.\nVeč: https://t.co/6zfaAbJPoA https://t.co/BMfMJ1643F",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078866461815459840",
+      "lang": "und",
+      "created_at": "2018-12-29T04:13:03Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1078866461815459840",
+      "author_id": "714417488382070784",
+      "text": "5:13\n-2,1°C (max -0,7°C; min -2,2°C)\n87% vlaznost, rosisce -4,0°C\nsunki vetra do 0km/h, ---\ndez 0,0mm\ntlak 1025,0mb, rahlo pada",
+      "geo": {
+        "place_id": "58f54743b1a62911",
+        "coordinates": {
+          "type": "Point",
+          "coordinates": [
+            13.61027778,
+            46.05277778
+          ]
+        }
+      }
+    },
+    {
+      "conversation_id": "1078854494174236672",
+      "lang": "sl",
+      "created_at": "2018-12-29T03:25:30Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1078854494174236672",
+      "author_id": "49831400",
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1078672934745583617"
+        }
+      ],
+      "text": "-35 pa sveže ribe https://t.co/yuOae5km0d",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078822428409843714",
+      "lang": "art",
+      "created_at": "2018-12-29T01:18:05Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1078822428409843714",
+      "author_id": "37990022",
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1078800462864887809"
+        }
+      ],
+      "text": "🙈🤢💩 https://t.co/7iSgjeNmHH",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078657043702128641",
+      "lang": "und",
+      "in_reply_to_user_id": "299464714",
+      "created_at": "2018-12-29T01:17:00Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1078822155591344129",
+      "author_id": "37990022",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078797671803039745"
+        }
+      ],
+      "text": "@AljazSkorjanec @D_DeGea @bbcstrictly Sj ne upa 🤪🤷‍♂️",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078742516378292224",
+      "lang": "sl",
+      "in_reply_to_user_id": "396846172",
+      "created_at": "2018-12-29T00:24:34Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 3,
+        "quote_count": 0
+      },
+      "id": "1078808963028787200",
+      "author_id": "31370707",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1078742516378292224"
+        }
+      ],
+      "text": "@miro5ek Ni problema ...\nLevičarji teh oddaj ne gledajo ...",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    },
+    {
+      "conversation_id": "1078808194678472704",
+      "lang": "sl",
+      "created_at": "2018-12-29T00:21:31Z",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 0,
+        "like_count": 3,
+        "quote_count": 0
+      },
+      "id": "1078808194678472704",
+      "author_id": "31370707",
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1078366070107443200"
+        }
+      ],
+      "text": "Izbrani...praktično brez publike!\nLetos vam je uspelo do potankosti!\nSlovenija bo spušila na celi črti, ampak, to niti ni pomembno ...komisija, ki je naredila izbor itak ne nosi nobene odgovornosti ...\nJa, bo pa Ultra Urbano!!!\n#porazen_izbor. https://t.co/zW1lrPH1NL",
+      "geo": {
+        "place_id": "58f54743b1a62911"
+      }
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "public_metrics": {
+          "followers_count": 2260,
+          "following_count": 995,
+          "tweet_count": 7129,
+          "listed_count": 31
+        },
+        "name": "Anže",
+        "id": "188011104",
+        "username": "anzebaselj",
+        "created_at": "2010-09-07T18:25:06Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 546,
+          "tweet_count": 4568,
+          "listed_count": 23
+        },
+        "name": "Marko Ristic",
+        "id": "494864152",
+        "username": "ReesticM",
+        "created_at": "2012-02-17T10:27:57Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 1984,
+          "following_count": 1042,
+          "tweet_count": 7889,
+          "listed_count": 14
+        },
+        "name": "marko miladinovic",
+        "id": "28444782",
+        "username": "hoki21",
+        "created_at": "2009-04-02T23:17:12Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 1162,
+          "following_count": 1292,
+          "tweet_count": 18660,
+          "listed_count": 0
+        },
+        "name": "Bojan Simončič",
+        "id": "31370707",
+        "username": "bojansimm",
+        "created_at": "2009-04-15T08:47:46Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 193,
+          "tweet_count": 12685,
+          "listed_count": 0
+        },
+        "name": "Drasko Veselinovic",
+        "id": "1251558624",
+        "username": "dr_drasko",
+        "created_at": "2013-03-08T12:14:57Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 8361,
+          "following_count": 1944,
+          "tweet_count": 277981,
+          "listed_count": 38
+        },
+        "name": "vinko vasle novinar",
+        "id": "459532635",
+        "username": "vinkovasle1",
+        "created_at": "2012-01-09T19:38:58Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 7322,
+          "following_count": 410,
+          "tweet_count": 2514,
+          "listed_count": 5
+        },
+        "name": "م. أحمد قمصاني",
+        "id": "1295721338",
+        "username": "Ahgommosani",
+        "created_at": "2013-03-24T15:52:14Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 2888,
+          "following_count": 2865,
+          "tweet_count": 35251,
+          "listed_count": 24
+        },
+        "name": "R  ⭕️ K",
+        "id": "635174708",
+        "username": "rokschuster",
+        "created_at": "2012-07-14T06:49:39Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 852,
+          "following_count": 846,
+          "tweet_count": 18456,
+          "listed_count": 5
+        },
+        "name": "tanja jesenšek",
+        "id": "451337847",
+        "username": "TanjaJesensek",
+        "created_at": "2011-12-31T09:39:55Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 13465,
+          "following_count": 410,
+          "tweet_count": 3905,
+          "listed_count": 43
+        },
+        "name": "Vladimir Grbić",
+        "id": "2452913056",
+        "username": "grbic_vladimir",
+        "created_at": "2014-04-01T17:38:13Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 185,
+          "tweet_count": 3893,
+          "listed_count": 0
+        },
+        "name": "Bo",
+        "id": "2228828034",
+        "username": "borisstepanov1",
+        "created_at": "2013-12-03T20:41:01Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 46,
+          "tweet_count": 235,
+          "listed_count": 7
+        },
+        "name": "AVADOX",
+        "id": "4134673103",
+        "username": "avadoxmusic",
+        "created_at": "2015-11-07T14:14:08Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 25196,
+          "following_count": 441,
+          "tweet_count": 19754,
+          "listed_count": 147
+        },
+        "name": "Adam Ruehmer",
+        "id": "37733018",
+        "username": "heydudeimadam",
+        "created_at": "2009-05-04T19:24:39Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 600,
+          "following_count": 1058,
+          "tweet_count": 19798,
+          "listed_count": 0
+        },
+        "name": "Aljoša Novaković",
+        "id": "295806113",
+        "username": "AljosaNovakovic",
+        "created_at": "2011-05-09T17:59:25Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 273,
+          "tweet_count": 14333,
+          "listed_count": 15
+        },
+        "name": "Matteo Proserpio",
+        "id": "359280521",
+        "username": "MatteoMooskio",
+        "created_at": "2011-08-21T09:30:07Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 2692,
+          "following_count": 3209,
+          "tweet_count": 109203,
+          "listed_count": 5
+        },
+        "name": "Rastislav Rastko Tepina",
+        "id": "835042923104387072",
+        "username": "LajnarEU",
+        "created_at": "2017-02-24T08:25:22Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 893,
+          "tweet_count": 4071,
+          "listed_count": 0
+        },
+        "name": "Tamer Zakaria",
+        "id": "2392809751",
+        "username": "tamerboqboq",
+        "created_at": "2014-03-16T14:27:57Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 310,
+          "tweet_count": 11276,
+          "listed_count": 8
+        },
+        "name": "Blaž Smolnikar 🇸🇮",
+        "id": "76274090",
+        "username": "smolnikar",
+        "created_at": "2009-09-22T07:14:34Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 2409,
+          "following_count": 758,
+          "tweet_count": 16070,
+          "listed_count": 13
+        },
+        "name": "Darijan Košir",
+        "id": "2214436298",
+        "username": "DKosir7",
+        "created_at": "2013-11-25T17:50:52Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 673,
+          "tweet_count": 18179,
+          "listed_count": 8
+        },
+        "name": "Marko Dvornik",
+        "id": "2593109912",
+        "username": "markodvornik",
+        "created_at": "2014-06-28T13:40:14Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 348,
+          "tweet_count": 1411,
+          "listed_count": 1
+        },
+        "name": "Jernej Vlasic",
+        "id": "906645992",
+        "username": "JernejVlasic",
+        "created_at": "2012-10-26T19:40:12Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 341,
+          "tweet_count": 13222,
+          "listed_count": 0
+        },
+        "name": "Gabica",
+        "id": "577177456",
+        "username": "Gabon13i",
+        "created_at": "2012-05-11T14:21:26Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 4415,
+          "following_count": 2565,
+          "tweet_count": 35041,
+          "listed_count": 33
+        },
+        "name": "Uroš Esih",
+        "id": "313287925",
+        "username": "UrosEsih",
+        "created_at": "2011-06-08T12:37:14Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 6785,
+          "following_count": 3117,
+          "tweet_count": 73044,
+          "listed_count": 40
+        },
+        "name": "Tomaž Celestina",
+        "id": "365291778",
+        "username": "t_celestina",
+        "created_at": "2011-08-31T05:30:24Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 196,
+          "tweet_count": 1226,
+          "listed_count": 0
+        },
+        "name": "HerrDentist",
+        "id": "809148636026306560",
+        "username": "HerrDentist",
+        "created_at": "2016-12-14T21:30:42Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 633,
+          "tweet_count": 1651,
+          "listed_count": 10
+        },
+        "name": "Angel V. HORNA",
+        "id": "189011411",
+        "username": "ahorna",
+        "created_at": "2010-09-10T03:57:07Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 814,
+          "tweet_count": 37464,
+          "listed_count": 6
+        },
+        "name": "father of two sisters 🎗",
+        "id": "37990022",
+        "username": "masta_84",
+        "created_at": "2009-05-05T18:52:25Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 15287,
+          "following_count": 937,
+          "tweet_count": 24835,
+          "listed_count": 82
+        },
+        "name": "dr. Vinko Gorenak",
+        "id": "379672433",
+        "username": "drVinkoGorenak",
+        "created_at": "2011-09-25T10:53:22Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 1297,
+          "following_count": 54,
+          "tweet_count": 48189,
+          "listed_count": 29
+        },
+        "name": "Rok Grilec",
+        "id": "44965477",
+        "username": "rgrilec",
+        "created_at": "2009-06-05T18:56:49Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 6851,
+          "following_count": 691,
+          "tweet_count": 32866,
+          "listed_count": 42
+        },
+        "name": "Mitja Irsic",
+        "id": "2965817333",
+        "username": "MitjaIrsic",
+        "created_at": "2015-01-07T11:01:17Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 2110,
+          "following_count": 1514,
+          "tweet_count": 101442,
+          "listed_count": 96
+        },
+        "name": "Brane Gruban (ex Dialogos)",
+        "id": "182089980",
+        "username": "bgruban",
+        "created_at": "2010-08-23T20:18:40Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 1794,
+          "following_count": 554,
+          "tweet_count": 31005,
+          "listed_count": 49
+        },
+        "name": "Andraz Logar",
+        "id": "492089060",
+        "username": "AndrazLogar",
+        "created_at": "2012-02-14T10:20:47Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 2410,
+          "following_count": 357,
+          "tweet_count": 27055,
+          "listed_count": 10
+        },
+        "name": "Matjaž Jazbar",
+        "id": "953916200194539520",
+        "username": "JazbarMatjaz",
+        "created_at": "2018-01-18T09:05:19Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 596,
+          "tweet_count": 435,
+          "listed_count": 2
+        },
+        "name": "Goran Salavec",
+        "id": "1328730660",
+        "username": "GoranSalavec",
+        "created_at": "2013-04-05T09:00:09Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 677,
+          "tweet_count": 43469,
+          "listed_count": 9
+        },
+        "name": "iztok X",
+        "id": "49831400",
+        "username": "iztokX",
+        "created_at": "2009-06-23T00:51:26Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 417,
+          "tweet_count": 629,
+          "listed_count": 8
+        },
+        "name": "Marusa Zagar",
+        "id": "559956450",
+        "username": "MarusaZagar",
+        "created_at": "2012-04-21T21:24:45Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 294,
+          "tweet_count": 1750,
+          "listed_count": 7
+        },
+        "name": "Sara Bernardi",
+        "id": "3139904650",
+        "username": "sarabernardi888",
+        "created_at": "2015-04-06T09:39:27Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 44,
+          "tweet_count": 309,
+          "listed_count": 0
+        },
+        "name": "Miha Koren",
+        "id": "1142954072",
+        "username": "MihaKoren13",
+        "created_at": "2013-02-02T17:19:32Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 1119,
+          "tweet_count": 5465,
+          "listed_count": 39
+        },
+        "name": "Ales Bellotti",
+        "id": "204026155",
+        "username": "alesbellotti",
+        "created_at": "2010-10-17T19:11:08Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 431,
+          "tweet_count": 1640,
+          "listed_count": 0
+        },
+        "name": "Zavod Orbita",
+        "id": "915952917831659520",
+        "username": "ZavodOrbita",
+        "created_at": "2017-10-05T14:52:48Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 321,
+          "tweet_count": 6174,
+          "listed_count": 2
+        },
+        "name": "Ajda Gorenc",
+        "id": "1128685700",
+        "username": "AjdaGorenc",
+        "created_at": "2013-01-28T17:19:12Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 82,
+          "tweet_count": 103,
+          "listed_count": 0
+        },
+        "name": "Alenka",
+        "id": "878317834077560833",
+        "username": "AlenkaPek",
+        "created_at": "2017-06-23T18:24:24Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 333,
+          "tweet_count": 3822,
+          "listed_count": 0
+        },
+        "name": "Franci Bačar",
+        "id": "861088008",
+        "username": "FranciBacar",
+        "created_at": "2012-10-04T08:57:28Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 1082,
+          "following_count": 695,
+          "tweet_count": 52838,
+          "listed_count": 42
+        },
+        "name": "Senta Šetinc",
+        "id": "328265345",
+        "username": "Maxatnes",
+        "created_at": "2011-07-03T01:54:00Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 785,
+          "following_count": 767,
+          "tweet_count": 13824,
+          "listed_count": 0
+        },
+        "name": "Matjaž Derin",
+        "id": "458920966",
+        "username": "MatjazDerin",
+        "created_at": "2012-01-09T02:58:57Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 832,
+          "following_count": 802,
+          "tweet_count": 15961,
+          "listed_count": 6
+        },
+        "name": "mexxm 🧢",
+        "id": "358790175",
+        "username": "mexxm",
+        "created_at": "2011-08-20T14:17:27Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 893,
+          "following_count": 2040,
+          "tweet_count": 16822,
+          "listed_count": 39
+        },
+        "name": "Sabeentza",
+        "id": "448357171",
+        "username": "SaaBeEntza",
+        "created_at": "2011-12-27T22:33:52Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 306,
+          "tweet_count": 1476,
+          "listed_count": 2
+        },
+        "name": "VELODROM.SI/shop/service/rent/guide",
+        "id": "393877640",
+        "username": "Velodrom1",
+        "created_at": "2011-10-19T06:55:32Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 735,
+          "following_count": 371,
+          "tweet_count": 3409,
+          "listed_count": 10
+        },
+        "name": "Martin Pavcnik",
+        "id": "524621366",
+        "username": "MartinPavcnik",
+        "created_at": "2012-03-14T18:48:12Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 6562,
+          "following_count": 1021,
+          "tweet_count": 8336,
+          "listed_count": 8
+        },
+        "name": "Vladimir Banic",
+        "id": "368767032",
+        "username": "banicvlada",
+        "created_at": "2011-09-06T05:55:24Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 138,
+          "tweet_count": 1375,
+          "listed_count": 2
+        },
+        "name": "zebra",
+        "id": "716252965724667904",
+        "username": "dalija277",
+        "created_at": "2016-04-02T13:16:29Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 1911,
+          "following_count": 1294,
+          "tweet_count": 25838,
+          "listed_count": 9
+        },
+        "name": "Darko Mršić",
+        "id": "96847017",
+        "username": "DarkoMrso",
+        "created_at": "2009-12-14T21:41:59Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 875,
+          "following_count": 0,
+          "tweet_count": 974561,
+          "listed_count": 149
+        },
+        "name": "SOTAwatch spots",
+        "id": "61220731",
+        "username": "SOTAwatch",
+        "created_at": "2009-07-29T15:30:04Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 446,
+          "tweet_count": 3257,
+          "listed_count": 2
+        },
+        "name": "Iztok Škornik",
+        "id": "837360098",
+        "username": "IztokSkornik",
+        "created_at": "2012-09-21T09:03:44Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 403,
+          "tweet_count": 958,
+          "listed_count": 1
+        },
+        "name": "Ivan Drenovac",
+        "id": "190973098",
+        "username": "DrexBGD",
+        "created_at": "2010-09-15T09:07:20Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 994,
+          "following_count": 2352,
+          "tweet_count": 12594,
+          "listed_count": 29
+        },
+        "name": "Miro Pušnik",
+        "id": "17591324",
+        "username": "miropusnik",
+        "created_at": "2008-11-24T13:01:17Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 1783,
+          "following_count": 3185,
+          "tweet_count": 50330,
+          "listed_count": 7
+        },
+        "name": "Marijan Turjan",
+        "id": "2644773917",
+        "username": "MTurjan",
+        "created_at": "2014-06-26T19:37:54Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 988,
+          "tweet_count": 3520,
+          "listed_count": 1
+        },
+        "name": "Katarina",
+        "id": "2315955392",
+        "username": "KatarinaAmbroz",
+        "created_at": "2014-01-28T19:15:48Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 162,
+          "tweet_count": 3430,
+          "listed_count": 5
+        },
+        "name": "Aleš Štimec",
+        "id": "63411930",
+        "username": "alesstimec",
+        "created_at": "2009-08-06T07:58:36Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 571,
+          "following_count": 1089,
+          "tweet_count": 1070,
+          "listed_count": 7
+        },
+        "name": "Jure K. Čokl 🎤",
+        "id": "1008583529901502464",
+        "username": "KCokl",
+        "created_at": "2018-06-18T05:33:46Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 100,
+          "tweet_count": 51138,
+          "listed_count": 24
+        },
+        "name": "Luka",
+        "id": "14344226",
+        "username": "luka259",
+        "created_at": "2008-04-09T18:45:17Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 1208,
+          "following_count": 510,
+          "tweet_count": 21112,
+          "listed_count": 8
+        },
+        "name": "Snezana",
+        "id": "494312292",
+        "username": "Snezana_Ceca",
+        "created_at": "2012-02-16T19:22:08Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 2110,
+          "following_count": 2952,
+          "tweet_count": 35488,
+          "listed_count": 143
+        },
+        "name": "Bacco Per Bacco Italia",
+        "id": "1073861010",
+        "username": "baccoperbaccoit",
+        "created_at": "2013-01-09T14:04:27Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 130,
+          "tweet_count": 18020,
+          "listed_count": 2
+        },
+        "name": "Boštjan Feguš",
+        "id": "1002912171595063296",
+        "username": "BostjanFegus",
+        "created_at": "2018-06-02T13:57:49Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 250,
+          "tweet_count": 245,
+          "listed_count": 1
+        },
+        "name": "Ines Vidič_Sportines",
+        "id": "3021391625",
+        "username": "ines_vidic",
+        "created_at": "2015-02-06T12:34:07Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 365,
+          "tweet_count": 18570,
+          "listed_count": 11
+        },
+        "name": "AlexKreb",
+        "id": "778182018",
+        "username": "AlexKreb",
+        "created_at": "2012-08-24T13:29:41Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 0,
+          "tweet_count": 598,
+          "listed_count": 17
+        },
+        "name": "TejaJeglichDesign",
+        "id": "2382497281",
+        "username": "TejaJeglich",
+        "created_at": "2014-03-10T18:07:02Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 919,
+          "following_count": 528,
+          "tweet_count": 860,
+          "listed_count": 7
+        },
+        "name": "Mini Teater",
+        "id": "202558404",
+        "username": "Miniteater",
+        "created_at": "2010-10-14T09:31:49Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 861,
+          "following_count": 795,
+          "tweet_count": 1963,
+          "listed_count": 10
+        },
+        "name": "PVZ",
+        "id": "1042146648",
+        "username": "pvz_pivka",
+        "created_at": "2012-12-28T13:07:49Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 2268,
+          "following_count": 596,
+          "tweet_count": 85856,
+          "listed_count": 37
+        },
+        "name": "Anton Tomazic",
+        "id": "24393822",
+        "username": "AntonTomazic",
+        "created_at": "2009-03-14T16:48:55Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 921,
+          "following_count": 911,
+          "tweet_count": 9879,
+          "listed_count": 2
+        },
+        "name": "marjan podlogar",
+        "id": "1280103098",
+        "username": "marjanpodlogar",
+        "created_at": "2013-03-19T10:40:13Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 489,
+          "tweet_count": 7154,
+          "listed_count": 7
+        },
+        "name": "Harun 🇧🇦🇸🇮",
+        "id": "112512698",
+        "username": "binbashich",
+        "created_at": "2010-02-08T19:35:02Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 743,
+          "following_count": 781,
+          "tweet_count": 34643,
+          "listed_count": 1
+        },
+        "name": "hermelin",
+        "id": "3181163932",
+        "username": "R10Vojko",
+        "created_at": "2015-04-18T22:37:21Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 1876,
+          "following_count": 856,
+          "tweet_count": 12935,
+          "listed_count": 400
+        },
+        "name": "Dejan Gajsek 🤘🤘",
+        "id": "43596967",
+        "username": "dgajsek",
+        "created_at": "2009-05-30T21:27:07Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 5108,
+          "following_count": 1011,
+          "tweet_count": 93002,
+          "listed_count": 51
+        },
+        "name": "Marko Pavlišič",
+        "id": "40502358",
+        "username": "MarkoPavlisic",
+        "created_at": "2009-05-16T17:20:05Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 22,
+          "tweet_count": 25,
+          "listed_count": 0
+        },
+        "name": "Massimo Mocilnik",
+        "id": "40639889",
+        "username": "Mocilnik",
+        "created_at": "2009-05-17T10:30:47Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 0,
+          "tweet_count": 569042,
+          "listed_count": 116
+        },
+        "name": "object82",
+        "id": "702290904460169216",
+        "username": "object82",
+        "created_at": "2016-02-24T00:36:14Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 134,
+          "tweet_count": 906,
+          "listed_count": 1
+        },
+        "name": "Cvetka Zirovnik",
+        "id": "495247762",
+        "username": "CvetkaZ",
+        "created_at": "2012-02-17T19:19:11Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 2483,
+          "following_count": 204,
+          "tweet_count": 5586,
+          "listed_count": 12
+        },
+        "name": "Vili Kovačič",
+        "id": "2724482035",
+        "username": "DrzavljanK",
+        "created_at": "2014-08-11T18:32:49Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 4478,
+          "following_count": 3662,
+          "tweet_count": 12897,
+          "listed_count": 187
+        },
+        "name": "Franc Bogovič",
+        "id": "2803444640",
+        "username": "Franc_Bogovic",
+        "created_at": "2014-09-11T10:16:36Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 209,
+          "tweet_count": 3584,
+          "listed_count": 4
+        },
+        "name": "Igor Unuk",
+        "id": "100552853",
+        "username": "igorunuk",
+        "created_at": "2009-12-30T17:39:24Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 24225,
+          "following_count": 611,
+          "tweet_count": 42446,
+          "listed_count": 95
+        },
+        "name": "BojanPožar",
+        "id": "144880017",
+        "username": "BojanPozar",
+        "created_at": "2010-05-17T15:05:11Z"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 8,
+          "tweet_count": 6690,
+          "listed_count": 1
+        },
+        "name": "Vreme Deskle",
+        "id": "714417488382070784",
+        "username": "vremeDeskle",
+        "created_at": "2016-03-28T11:42:57Z"
+      }
+    ],
+    "places": [
+      {
+        "geo": {
+          "type": "Feature",
+          "bbox": [
+            13.3755107,
+            45.42151,
+            16.6104836,
+            46.8766467
+          ],
+          "properties": {}
+        },
+        "name": "Republic of Slovenia",
+        "id": "58f54743b1a62911",
+        "country_code": "SI",
+        "full_name": "Republic of Slovenia"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1079158592723472384",
+    "oldest_id": "1078808194678472704",
+    "result_count": 245
+  }
+}

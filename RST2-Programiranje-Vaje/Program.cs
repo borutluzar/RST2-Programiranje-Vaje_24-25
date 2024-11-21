@@ -14,6 +14,11 @@
             Vaje_08 =  8, // 15. 11. 2024
             Vaje_09 =  9, // 21. 11. 2024
             Vaje_10 = 10, // 29. 11. 2024
+            Vaje_11 = 11, //  6. 12. 2024
+            Vaje_12 = 12, // 12. 12. 2024
+            Vaje_13 = 13, // 20. 12. 2024
+            Vaje_14 = 14, //  9.  1. 2025
+            Vaje_15 = 15, // 15.  1. 2025
         }
 
         static void Main(string[] args)
@@ -225,6 +230,11 @@
                             case Vaje_08_Naloge.Naloga274:
                                 {
                                     Vaje_08.Naloga274();
+                                }
+                                break;
+                            case Vaje_08_Naloge.Naloga300:
+                                {
+                                    Vaje_08.Naloga300();
                                 }
                                 break;
                         }

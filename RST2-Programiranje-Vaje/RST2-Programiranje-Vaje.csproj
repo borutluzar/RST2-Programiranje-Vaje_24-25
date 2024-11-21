@@ -9,7 +9,80 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\MojaKnjiznica\MojaKnjiznica.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Vaje_08_Tweets\SI-Tweets_2018-12-10__1.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Vaje_08_Tweets\SI-Tweets_2018-12-11__1.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Vaje_08_Tweets\SI-Tweets_2018-12-12__1.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Vaje_08_Tweets\SI-Tweets_2018-12-13__1.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Vaje_08_Tweets\SI-Tweets_2018-12-14__1.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Vaje_08_Tweets\SI-Tweets_2018-12-15__1.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Vaje_08_Tweets\SI-Tweets_2018-12-16__1.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Vaje_08_Tweets\SI-Tweets_2018-12-17__1.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Vaje_08_Tweets\SI-Tweets_2018-12-18__1.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Vaje_08_Tweets\SI-Tweets_2018-12-19__1.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Vaje_08_Tweets\SI-Tweets_2018-12-20__1.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Vaje_08_Tweets\SI-Tweets_2018-12-21__1.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Vaje_08_Tweets\SI-Tweets_2018-12-22__1.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Vaje_08_Tweets\SI-Tweets_2018-12-23__1.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Vaje_08_Tweets\SI-Tweets_2018-12-24__1.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Vaje_08_Tweets\SI-Tweets_2018-12-25__1.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Vaje_08_Tweets\SI-Tweets_2018-12-26__1.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Vaje_08_Tweets\SI-Tweets_2018-12-27__1.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Vaje_08_Tweets\SI-Tweets_2018-12-28__1.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Vaje_08_Tweets\SI-Tweets_2018-12-29__1.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Vaje_08_Tweets\SI-Tweets_2018-12-30__1.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Vaje_08_Tweets\SI-Tweets_2018-12-31__1.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 
 </Project>
