@@ -240,6 +240,7 @@
                         }
                     }
                     break;
+                
                 case Sections.Vaje_09:
                     {
                         switch (InterfaceFunctions.ChooseSection<Vaje_09_Naloge>())
@@ -267,6 +268,19 @@
                                 {
                                     List<int> lst = new() { 5, 16, 25, 39, 46 };
                                     Vaje_09.Naloga312(lst, Vaje_09.MetodaZa311, Vaje_09.Metoda312PrestejKvadrate);
+                                }
+                                break;
+                        }
+                    }
+                    break;
+
+                case Sections.Vaje_10:
+                    {
+                        switch (InterfaceFunctions.ChooseSection<Vaje_10_Naloge>())
+                        {
+                            case Vaje_10_Naloge.NalogaXY:
+                                {
+                                    Vaje_10.NalogaXY();
                                 }
                                 break;
                         }
