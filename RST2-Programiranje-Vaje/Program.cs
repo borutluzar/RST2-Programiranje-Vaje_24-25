@@ -247,21 +247,26 @@
                             case Vaje_09_Naloge.Naloga301:
                                 {
                                     Vaje_09.Naloga301();
+
+                                    /* Ali s seznamom */
+                                    var lstAuthors = Vaje_09.Naloga301();
+                                    Vaje_09.Naloga301(lstAuthors);
                                 }
                                 break;
                             case Vaje_09_Naloge.Naloga302:
-                                {
+                                {                                    
                                     Vaje_09.Naloga302();
-                                }
-                                break;
-                            case Vaje_09_Naloge.Naloga303:
-                                {
-                                    Vaje_09.Naloga303();
                                 }
                                 break;
                             case Vaje_09_Naloge.Naloga311:
                                 {
                                     Vaje_09.Naloga311();
+                                }
+                                break;
+                            case Vaje_09_Naloge.Naloga312:
+                                {
+                                    List<int> lst = new() { 5, 16, 25, 39, 46 };
+                                    Vaje_09.Naloga312(lst, Vaje_09.MetodaZa311, Vaje_09.Metoda312PrestejKvadrate);
                                 }
                                 break;
                         }

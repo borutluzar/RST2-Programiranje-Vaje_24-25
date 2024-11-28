@@ -1,4 +1,6 @@
 ﻿using Newtonsoft.Json;
+using System.Reflection.Metadata;
+using System.Security.Cryptography;
 
 namespace RST2_Programiranje_Vaje
 {
@@ -6,9 +8,9 @@ namespace RST2_Programiranje_Vaje
     {
         Naloga301 = 1,
         Naloga302 = 2,
-        Naloga303 = 3,
-        Naloga304 = 4,
-        Naloga311 = 5,
+        Naloga304 = 3,
+        Naloga311 = 4,
+        Naloga312 = 5,
     }
 
     /// <summary>
@@ -17,60 +19,17 @@ namespace RST2_Programiranje_Vaje
     public class Vaje_09
     {
         /// <summary>
-        /// NAVODILA
-        /// </summary>
-        public static void NalogaXY()
-        {
-
-        }
-
-        /// <summary>
         /// V mapi Vaje_08_Tweets imate datoteke s tviti v JSON obliki.
         /// Razširite Nalogo 300 iz 8. vaj tako da: 
-        /// (302) najdete vse tvite za dani seznam avtorjev
-        /// (303) najdete vse uporabnike, ki so danemu uporabniku kdaj odgovorili
-        /// (304) poiščete avtorja, ki ima največ objav
+        /// (301) najdete vse tvite za dani seznam avtorjev
+        /// (302) najdete vse uporabnike, ki so danemu uporabniku kdaj odgovorili
+        /// (303) poiščete avtorja, ki ima največ objav
         /// </summary>
-        public static void Naloga301()
+        public static List<string> Naloga301()
         {
             string folderPath = $"./Vaje_08_Tweets";
             List<string> lstAuthorsTweets = new List<string>();
 
-            // ID naključnega avtorja, za katerega izpisujemo tvite
-            string authorID = "14344226";
-
-            foreach (var file in Directory.GetFiles(folderPath))
-            {
-                // Izberemo datoteko
-                StreamReader sr = new StreamReader($"{file}");
-                // Pretvorimo JSON datoteko v objekt
-                var jsonData = (Newtonsoft.Json.Linq.JObject)JsonConvert.DeserializeObject(sr.ReadToEnd());
-
-                // Vsi podatki o posameznih tvitih so v tabeli data
-                var tweets = jsonData["data"];
-
-                // Pridobimo le tiste, katerih avtor je izbran                
-                lstAuthorsTweets.AddRange(
-                                    tweets.Where(tweet => tweet["author_id"].ToString() == authorID)
-                                        .Select(tweet => tweet["text"].ToString()));
-            }
-
-            Console.WriteLine($"Tviti avtorja {authorID} so:");
-            int count = 1;
-            foreach (var item in lstAuthorsTweets)
-            {
-                Console.WriteLine($"{count}.\t{item}");
-                count++;
-            }
-        }
-
-        public static void Naloga302()
-        {
-            string folderPath = $"./Vaje_08_Tweets";
-            List<string> lstAuthorsTweets = new List<string>();
-
-            // ID naključnega avtorja, za katerega izpisujemo tvite
-            string authorID = "14344226";
             List<string> authorIds = new();
 
             var prvaDat = Directory.GetFiles(folderPath).First();
@@ -102,17 +61,17 @@ namespace RST2_Programiranje_Vaje
                                     tweets!.Where(tweet => authorIds.Contains(tweet["author_id"]!.ToString()))
                                         .Select(tweet => tweet["text"]!.ToString()));
             }
-
-            Console.WriteLine($"Tviti avtorja {authorID} so:");
-            int count = 1;
-            foreach (var item in lstAuthorsTweets)
-            {
-                Console.WriteLine($"{count}.\t{item}");
-                count++;
-            }
+            return authorIds;
         }
 
-        public static void Naloga302(List<string> authorIds)
+        /// <summary>
+        /// V mapi Vaje_08_Tweets imate datoteke s tviti v JSON obliki.
+        /// Razširite Nalogo 300 iz 8. vaj tako da: 
+        /// (301) najdete vse tvite za dani seznam avtorjev
+        /// (302) najdete vse uporabnike, ki so danemu uporabniku kdaj odgovorili
+        /// (303) poiščete avtorja, ki ima največ objav
+        /// </summary>
+        public static void Naloga301(List<string> authorIds)
         {
             string folderPath = $"./Vaje_08_Tweets";
             List<string> lstAuthorsTweets = new List<string>();
@@ -145,7 +104,14 @@ namespace RST2_Programiranje_Vaje
             }
         }
 
-        public static List<string> Naloga303()
+        /// <summary>
+        /// V mapi Vaje_08_Tweets imate datoteke s tviti v JSON obliki.
+        /// Razširite Nalogo 300 iz 8. vaj tako da: 
+        /// (301) najdete vse tvite za dani seznam avtorjev
+        /// (302) najdete vse uporabnike, ki so danemu uporabniku kdaj odgovorili
+        /// (303) poiščete avtorja, ki ima največ objav
+        /// </summary>
+        public static List<string> Naloga302()
         {
             string folderPath = $"./Vaje_08_Tweets";
             List<string> lstAuthorsTweets = new List<string>();
@@ -174,6 +140,13 @@ namespace RST2_Programiranje_Vaje
             return listRepliers.Distinct().ToList();
         }
 
+        /// <summary>
+        /// Definirajte nov tip delegata, ki se sklicuje na funkcije, 
+        /// ki imajo dva vhodna parametra tipov double in int, 
+        /// vrnejo pa rezultat tipa double. 
+        /// Ustvarite instanco definiranega tipa (delegata) in mu podajte neko vrednost (funkcijo), 
+        /// nato pa izvedite klic delegata.
+        /// </summary>
         public static void Naloga311()
         {
             Naloga311Delegate mojDelegat = MetodaZa311;
@@ -181,12 +154,45 @@ namespace RST2_Programiranje_Vaje
             Console.WriteLine($"Rezulat je: {rezultat}");
         }
 
+        /// <summary>
+        /// Ustvarite funkcijo, ki kot parameter dobi seznam celih števil in dva različna tipa delegatov. 
+        /// Določite ji smiselno delovanje in jo izvedite.
+        /// </summary>
+        public static void Naloga312(List<int> lst,Naloga311Delegate del1, Naloga312KvantificirajSeznam del2)
+        {
+            List<int> seznamKvadratov = new List<int>();
+            foreach (int x in lst)
+            {
+                seznamKvadratov.Add((int)del1(x, 2));
+            }
+
+            int steviloKvadratov = del2(seznamKvadratov);
+
+            Console.WriteLine($"Vseh stevilk v seznamu je {lst.Count}, stevilo kvadratov pa je {steviloKvadratov}");
+        }
+
+
         public delegate double Naloga311Delegate(int x, double y);
+
+        public delegate int Naloga312KvantificirajSeznam(List<int> lst);
 
         public static double MetodaZa311(int x, double y)
         {
             double rezultat = Math.Pow(x, y);
             return rezultat;
+        }
+
+        public static int Metoda312PrestejKvadrate(List<int> lst)
+        {
+            int stevec = 0;
+            foreach (int x in lst)
+            {
+                if(Math.Sqrt(x) % 1 <= double.Epsilon)
+                {
+                    stevec++;
+                }
+            }
+            return stevec;
         }
     }
 }
