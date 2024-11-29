@@ -6,7 +6,8 @@ namespace RST2_Programiranje_Vaje
     public enum Vaje_10_Naloge
     {
         Naloga421 = 1,
-        Naloga422 = 2
+        Naloga422 = 2,
+        Naloga432 = 3,
     }
 
     /// <summary>
@@ -70,6 +71,27 @@ namespace RST2_Programiranje_Vaje
                 Console.WriteLine(ver.TwoFactorAuthentificationNumber);
                 ver.Authenticate("3");
             }
+        }
+
+        public static void Naloga432()
+        {
+            int i = 1;
+            Console.WriteLine("--\t--\t--\t--");
+            Console.WriteLine($"{typeof(KoktejlEnum).Name}:\n");
+            foreach (var section in Enum.GetValues(typeof(KoktejlEnum)))
+            {
+                var value = Convert.ChangeType(section, Type.GetTypeCode(typeof(KoktejlEnum)));
+                Console.WriteLine($"{value}. {section}");
+
+                if ((int)value > i)
+                    i = (int)value;
+            }
+            Console.WriteLine("\n--\t--\t--\t--");
+            Console.Write($"Choose {typeof(KoktejlEnum).Name} to run: ");
+
+            var tip = (KoktejlEnum)int.Parse(Console.ReadLine());
+            var koktejl = KoktejlFactory.GetKoktejl(tip);
+            Console.WriteLine(koktejl.Recept);
         }
     }
 
@@ -146,6 +168,70 @@ namespace RST2_Programiranje_Vaje
         {
             if (pin == TwoFactorAuthentificationNumber) Console.WriteLine("Contract legitimate");
             else Console.WriteLine("Fraud attempt!");
+        }
+    }
+
+    public enum KoktejlEnum
+    {
+        BlodyMeri = 1,
+        PinaKolada = 2,
+        Mojito = 3,
+    }
+
+    public abstract class Koktejl
+    {
+        public string Recept { get; set; }
+        public double Cena { get; set; }
+    }
+
+    public class Mojito : Koktejl
+    {
+        public void MeshMintAndIce()
+        {
+            Console.WriteLine("Meta in led sta speštana.");
+        }
+        public Mojito() { Recept = "Meta in led."; }
+    }
+
+    public class PinaKolada : Koktejl
+    {
+        public void NarežiAnanas()
+        {
+            Console.WriteLine("Ananas je narezan.");
+        }
+
+        public PinaKolada() { Recept = "Ananas in nekaj."; }
+    }
+
+    public class BlodyMeri : Koktejl
+    {
+        public void OlupiParadajz()
+        {
+            Console.WriteLine("Paradajz.");
+        }
+
+        public BlodyMeri() { Recept = "Paradajz in nekaj."; }
+    }
+
+    public class KoktejlFactory
+    {
+        public static Koktejl GetKoktejl(KoktejlEnum tipKoktejla)
+        {
+            Koktejl koktejl = null;
+
+            switch (tipKoktejla)
+            {
+                case KoktejlEnum.PinaKolada:
+                    koktejl = new PinaKolada();
+                    break;
+                case KoktejlEnum.Mojito:
+                    koktejl = new Mojito();
+                    break;
+                case KoktejlEnum.BlodyMeri:
+                    koktejl = new BlodyMeri();
+                    break;
+            }
+            return koktejl;
         }
     }
 }

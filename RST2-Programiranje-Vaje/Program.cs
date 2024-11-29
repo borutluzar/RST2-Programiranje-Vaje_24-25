@@ -288,6 +288,11 @@
                                     Vaje_10.Naloga422();
                                 }
                                 break;
+                            case Vaje_10_Naloge.Naloga432:
+                                {
+                                    Vaje_10.Naloga432();
+                                }
+                                break;
                         }
                     }
                     break;
