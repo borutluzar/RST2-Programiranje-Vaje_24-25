@@ -283,6 +283,11 @@
                                     Vaje_10.Naloga421();
                                 }
                                 break;
+                            case Vaje_10_Naloge.Naloga422:
+                                {
+                                    Vaje_10.Naloga422();
+                                }
+                                break;
                         }
                     }
                     break;
