@@ -1,16 +1,18 @@
-﻿namespace RST2_Programiranje_Vaje
+﻿using System.Numerics;
+
+namespace RST2_Programiranje_Vaje
 {
     public enum Vaje_11_Naloge
     {
         Naloga441 = 1,
         Naloga442 = 2,
-        Naloga443 = 3,
+        Naloga551 = 3,
     }
 
     /// <summary>
     /// Rešitve vaj - 6. december 2024
     /// </summary>
-    public class Vaje_11
+    public static class Vaje_11
     {
         /// <summary>
         /// NAVODILA
@@ -28,6 +30,27 @@
         {
             MobilnaNaprava mojMobi = new PametniTelefon("Samsung");
             mojMobi.SprejmiKlic();
+        }
+
+        public static void Naloga551()
+        {
+            List<int> intList = [1, 2, 3, 4, 5, 6, 7, 8, 9];
+            List<double> doubleList = [1.2, 2.1, 3, 4, 5, 6, 7.8, 8, 9];
+
+            Console.WriteLine(intList.SumOfLargestKNumber<int>(5));
+            Console.WriteLine(doubleList.SumOfLargestKNumber<double>(5));
+        }
+
+        public static T SumOfLargestKNumber<T>(this List<T> values, int k)
+            where T : INumber<T>
+        {
+            T sum = default(T);
+            foreach (T value in values.OrderByDescending(x => x).Take(k).ToList())
+            {
+                sum += value;
+            }
+
+            return sum;
         }
     }
     public abstract class Atlet
