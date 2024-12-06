@@ -1,4 +1,7 @@
-﻿using System.Diagnostics;
+﻿using System;
+using System.Diagnostics;
+using System.Runtime.ConstrainedExecution;
+using System.Runtime.Intrinsics.X86;
 using System.Text;
 
 namespace RST2_Programiranje_Vaje
@@ -15,6 +18,15 @@ namespace RST2_Programiranje_Vaje
     /// </summary>
     public class Vaje_10
     {
+        /// <summary>
+        /// Napišite preprost program, ki ob zagonu uporabnika vpraša po nekaj fiksnih parametrih, 
+        /// ki si jih shrani v nek objekt, katerega v nadaljevanju ne moremo več spreminjati.
+        /// Program nato v obliki zanke while uporabnika sprašuje preprosta matematična vprašanja, 
+        /// npr. o vsoti ali produktu dveh naključno izbranih števil ter pričakuje njegov odgovor. 
+        /// Čas vsakega odgovora tudi izmeri. Spraševanje poteka, dokler se uporabnik dvakrat ne zmoti.
+        /// Vsak odgovor uporabnika, čas in pravilnost si naj program zapomni v posebni datoteki. 
+        /// Pri implementaciji programa ustrezno uporabite vzorec singleton.
+        /// </summary>
         public static void Naloga421()
         {
             Console.WriteLine("Navedite ime: ");
@@ -50,6 +62,15 @@ namespace RST2_Programiranje_Vaje
             }
         }
 
+        /// <summary>
+        /// Napišite razred, ki bo sledil vzorcu singleton in bo predstavljal osebni dokument (npr.potni list). 
+        /// Predpostavimo, da ima vsak posameznik lahko samo enega. 
+        /// Razred naj implementira vmesnik IVerifiable, ki zagotavlja metode za preverjanje pristnosti.
+        /// Ustvarite še nek drug razred, npr. EmploymentContract (takih imamo več), 
+        /// ki ne sledi vzorcu singleton, vendar prav tako implementira vmesnik IVerifiable.
+        /// Pripravite izvedbeno metodo, ki v nek seznam doda potni list in nekaj pogodb 
+        /// ter za vsak element seznama pokličite metodo za preverjanje pristnosti.
+        /// </summary>
         public static void Naloga422()
         {            
             List<IVerifiable> nekSeznam = new();
@@ -73,6 +94,18 @@ namespace RST2_Programiranje_Vaje
             }
         }
 
+        /// <summary>
+        /// Pripravljamo aplikacijo za lokalni bar, kjer bo izbor koktejlov ponujen 
+        /// kar na tablici, na kateri bo gost izbral napitek. 
+        /// Aplikacija bo imela preprost uporabniški vmesnik z vsemi napitki v ponudbi, 
+        /// pri čemer ga bomo razvili po navodilih lokalnega umetnika z veliko občutka za dizajn 
+        /// in zato uporabniškega vmesnika v nadaljevanju vsaj nekaj časa ne bomo spreminjali. 
+        /// Za vse posodobitve ponudbe moramo poskrbeti v zalednem delu aplikacije. 
+        /// Ne smemo pozabiti, da bo aplikacijo uporabljal tudi barman, 
+        /// ki bo ob naročilu posameznega koktejla zraven dobil še recept za pripravo. 
+        /// Pripravite osnutek preproste verzije opisane aplikacije. 
+        /// Pri implementaciji ustrezno uporabite vzorec factory.
+        /// </summary>
         public static void Naloga432()
         {
             int i = 1;

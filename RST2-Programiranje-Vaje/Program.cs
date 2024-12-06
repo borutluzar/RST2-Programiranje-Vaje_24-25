@@ -296,6 +296,19 @@
                         }
                     }
                     break;
+
+                case Sections.Vaje_11:
+                    {
+                        switch (InterfaceFunctions.ChooseSection<Vaje_11_Naloge>())
+                        {
+                            case Vaje_11_Naloge.NalogaXY:
+                                {
+                                    Vaje_11.NalogaXY();
+                                }
+                                break;
+                        }
+                    }
+                    break;
             }
             Console.Read();
         }
