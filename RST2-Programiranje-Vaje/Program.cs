@@ -311,9 +311,9 @@
                                     Vaje_11.Naloga442();
                                 }
                                 break;
-                            case Vaje_11_Naloge.Naloga551:
+                            case Vaje_11_Naloge.Naloga511:
                                 {
-                                    Vaje_11.Naloga551();
+                                    Vaje_11.Naloga511();
                                 }
                                 break;
                         }

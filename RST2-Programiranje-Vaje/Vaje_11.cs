@@ -1,4 +1,7 @@
-﻿using System.Numerics;
+﻿using System;
+using System.Numerics;
+using System.Reflection;
+using System.Runtime.Intrinsics.X86;
 
 namespace RST2_Programiranje_Vaje
 {
@@ -6,7 +9,7 @@ namespace RST2_Programiranje_Vaje
     {
         Naloga441 = 1,
         Naloga442 = 2,
-        Naloga551 = 3,
+        Naloga511 = 3,
     }
 
     /// <summary>
@@ -15,7 +18,12 @@ namespace RST2_Programiranje_Vaje
     public static class Vaje_11
     {
         /// <summary>
-        /// NAVODILA
+        /// Pripravite razredni model, ki bo opisoval atlete. 
+        /// Atlet naj bo nadrazred, ki ima nekaj podrazredov 
+        /// (npr.metalec, šprinter, skakalec, deseterobojec). 
+        /// V glavnem razredu določite nekaj ustreznih funkcionalnosti(tek, met, skok), 
+        /// ki jih podrazredom ločeno implementirate glede na njihove specifike. 
+        /// Uporabite strateški načrtovalski vzorec.
         /// </summary>
         public static void Naloga441()
         {
@@ -26,30 +34,45 @@ namespace RST2_Programiranje_Vaje
             luka.ReakciskiCasZacetka();
         }
 
+        /// <summary>
+        /// Pripravite abstrakten razred mobilna naprava, zanjo naredite nekaj podrazredov 	
+        /// in implementirajte funkcionalnosti zanje.
+        /// Npr.pošiljanje SMS-ov, telefoniranje, sprejemanje signala 4G ali celo 5G.
+        /// Naprave naj bodo med seboj karseda različne, 
+        /// obenem pa naj model omogoča preprosto dopolnjevanje dodatnih funkcionalnosti 
+        /// in dodajanje novih podrazredov. 
+        /// Uporabite strateški načrtovalski vzorec.
+        /// </summary>
         public static void Naloga442()
         {
             MobilnaNaprava mojMobi = new PametniTelefon("Samsung");
             mojMobi.SprejmiKlic();
         }
 
-        public static void Naloga551()
+        /// <summary>
+        /// Pripravite generično metodo, ki za dan seznam števil tipa T 
+        /// izračuna vsoto največjih k števil, 
+        /// pri čemer je k tudi parameter metode. 
+        /// V metodi uporabite le LINQ metode. 
+        /// [Pri metodi Sum smo imeli težave, zato smo uporabili foreach zanko.]
+        /// </summary>
+        public static void Naloga511()
         {
             List<int> intList = [1, 2, 3, 4, 5, 6, 7, 8, 9];
             List<double> doubleList = [1.2, 2.1, 3, 4, 5, 6, 7.8, 8, 9];
 
-            Console.WriteLine(intList.SumOfLargestKNumber<int>(5));
-            Console.WriteLine(doubleList.SumOfLargestKNumber<double>(5));
+            Console.WriteLine(intList.SumOfLargestKNumbers<int>(5));
+            Console.WriteLine(doubleList.SumOfLargestKNumbers<double>(5));
         }
 
-        public static T SumOfLargestKNumber<T>(this List<T> values, int k)
-            where T : INumber<T>
+
+        public static T SumOfLargestKNumbers<T>(this List<T> values, int k) where T : INumber<T>
         {
             T sum = default(T);
             foreach (T value in values.OrderByDescending(x => x).Take(k).ToList())
             {
                 sum += value;
             }
-
             return sum;
         }
     }
