@@ -22,7 +22,12 @@
             Atlet luka = new Maratonec();
             luka.MocOdskoka();
             luka.ReakciskiCasZacetka();
+        }
 
+        public static void Naloga442()
+        {
+            MobilnaNaprava mojMobi = new PametniTelefon("Samsung");
+            mojMobi.SprejmiKlic();
         }
     }
     public abstract class Atlet
@@ -137,6 +142,46 @@
         public void Izmet(double kotIzmeta)
         {
             Console.WriteLine($"povprečen kot izmeta kladiva je {kotIzmeta}");
+        }
+    }
+
+
+    public abstract class MobilnaNaprava
+    {
+        protected ITelefoniranje Telefoniranje { get; set; }
+
+        public void SprejmiKlic()
+        {
+            this.Telefoniranje.Sprejmi();
+        }
+    }
+    public class PametniTelefon : MobilnaNaprava
+    {
+        public PametniTelefon(string proizvajalec)
+        {
+            this.Telefoniranje = new Telefoniranje();
+            this.Proizvajalec = proizvajalec;
+        }
+
+        public string Proizvajalec { get; }
+        public string TelefonskaStevilka { get; set; }
+    }
+    public interface ITelefoniranje
+    {
+        public void Sprejmi();
+        public void Zavrni();
+
+    }
+    public class Telefoniranje : ITelefoniranje
+    {
+        public void Sprejmi()
+        {
+            Console.WriteLine("Klic je uspešno sprejet."); ;
+        }
+
+        public void Zavrni()
+        {
+            Console.WriteLine("Klic je uspešno zavrnjen.");
         }
     }
 }
