@@ -15,7 +15,7 @@
         /// </summary>
         public static void NalogaXY()
         {
-             
+              
         }
     }    
 }
