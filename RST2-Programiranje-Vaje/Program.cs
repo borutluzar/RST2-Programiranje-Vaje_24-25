@@ -334,6 +334,11 @@
                                     Vaje_12.Naloga623();
                                 }
                                 break;
+                            case Vaje_12_Naloge.Naloga625:
+                                {
+                                    Vaje_12.Naloga625();
+                                }
+                                break;
                         }
                     }
                     break;
