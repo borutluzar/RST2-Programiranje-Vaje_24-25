@@ -324,9 +324,14 @@
                     {
                         switch (InterfaceFunctions.ChooseSection<Vaje_12_Naloge>())
                         {
-                            case Vaje_12_Naloge.NalogaXY:
+                            case Vaje_12_Naloge.Naloga621:
                                 {
-                                    Vaje_12.NalogaXY();
+                                    Vaje_12.Naloga621();
+                                }
+                                break;
+                            case Vaje_12_Naloge.Naloga623:
+                                {
+                                    Vaje_12.Naloga623();
                                 }
                                 break;
                         }

@@ -83,6 +83,9 @@
     <None Update="Vaje_08_Tweets\SI-Tweets_2018-12-31__1.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
+    <None Update="Vaje_12_Podatki\postnestevilke.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 
 </Project>
