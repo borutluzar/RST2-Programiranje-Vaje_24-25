@@ -342,6 +342,45 @@
                         }
                     }
                     break;
+
+                case Sections.Vaje_13:
+                    {
+                        switch (InterfaceFunctions.ChooseSection<Vaje_13_Naloge>())
+                        {
+                            case Vaje_13_Naloge.NalogaXY:
+                                {
+                                    Vaje_13.NalogaXY();
+                                }
+                                break;
+                        }
+                    }
+                    break;
+
+                case Sections.Vaje_14:
+                    {
+                        switch (InterfaceFunctions.ChooseSection<Vaje_14_Naloge>())
+                        {
+                            case Vaje_14_Naloge.NalogaXY:
+                                {
+                                    Vaje_14.NalogaXY();
+                                }
+                                break;
+                        }
+                    }
+                    break;
+
+                case Sections.Vaje_15:
+                    {
+                        switch (InterfaceFunctions.ChooseSection<Vaje_15_Naloge>())
+                        {
+                            case Vaje_15_Naloge.NalogaXY:
+                                {
+                                    Vaje_15.NalogaXY();
+                                }
+                                break;
+                        }
+                    }
+                    break;
             }
             Console.Read();
         }
