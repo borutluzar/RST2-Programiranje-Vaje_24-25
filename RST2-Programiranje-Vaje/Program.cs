@@ -9,14 +9,14 @@
             Vaje_03 =  3, //  9. 10. 2024
             Vaje_04 =  4, // 19. 10. 2024
             Vaje_05 =  5, // 26. 10. 2024
-            Vaje_06 =  6, // 30. 10. 2024 - skupno delo (Nalogi 2.5.3 in 2.5.4)
+            Vaje_06 =  6, // 30. 10. 2024 - skupinsko delo (Nalogi 2.5.3 in 2.5.4)
             Vaje_07 =  7, //  7. 11. 2024
             Vaje_08 =  8, // 15. 11. 2024
             Vaje_09 =  9, // 21. 11. 2024
             Vaje_10 = 10, // 29. 11. 2024
             Vaje_11 = 11, //  6. 12. 2024
             Vaje_12 = 12, // 12. 12. 2024
-            Vaje_13 = 13, // 20. 12. 2024
+            Vaje_13 = 13, // 20. 12. 2024 - skupinsko delo
             Vaje_14 = 14, //  9.  1. 2025
             Vaje_15 = 15, // 15.  1. 2025
         }
@@ -347,9 +347,19 @@
                     {
                         switch (InterfaceFunctions.ChooseSection<Vaje_13_Naloge>())
                         {
-                            case Vaje_13_Naloge.NalogaXY:
+                            case Vaje_13_Naloge.Naloga711:
                                 {
-                                    Vaje_13.NalogaXY();
+                                    Vaje_13.Naloga711();
+                                }
+                                break;
+                            case Vaje_13_Naloge.Naloga721:
+                                {
+                                    Vaje_13.Naloga721();
+                                }
+                                break;
+                            case Vaje_13_Naloge.Naloga722:
+                                {
+                                    //Vaje_13.Naloga722(); // Domača vaja!
                                 }
                                 break;
                         }
