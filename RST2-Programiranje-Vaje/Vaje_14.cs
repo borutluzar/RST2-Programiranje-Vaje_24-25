@@ -3,7 +3,8 @@
     public enum Vaje_14_Naloge
     {
         Naloga731 = 1,
-        Naloga732 = 2
+        Naloga732 = 2,
+        Naloga741 = 3
     }
 
     /// <summary>
@@ -28,6 +29,21 @@
         /// Implementirajte jo zaporedno in vzporedno in primerjajte čas izvajanja.
         /// </summary>
         public static void Naloga732()
+        {
+
+        }
+
+        /// <summary>
+        /// Napišite program, ki za danih pet spletnih strani 
+        /// (njihove naslove podajte v eni datoteki) 
+        /// prebere izvorno kodo, poišče vse vložene povezave (v atributih href) 
+        /// in odpre ter prebere spletne strani na teh povezavah.
+        /// Za vsako od prebranih strani preveri, 
+        /// če katera od njih vsebuje povezavo nazaj na začetno stran. 
+        /// Upoštevajte samo povezave na drugačni domeni. 
+        /// Za program smiselno uporabite pristope asinhronega programiranja.
+        /// </summary>
+        public static void Naloga741()
         {
 
         }

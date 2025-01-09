@@ -380,6 +380,11 @@
                                     Vaje_14.Naloga732();
                                 }
                                 break;
+                            case Vaje_14_Naloge.Naloga741:
+                                {
+                                    Vaje_14.Naloga741();
+                                }
+                                break;
                         }
                     }
                     break;
