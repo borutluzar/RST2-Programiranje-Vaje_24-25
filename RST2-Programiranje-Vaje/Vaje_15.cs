@@ -3,6 +3,7 @@
     public enum Vaje_15_Naloge
     {
         Naloga3 = 1,
+        Naloga5 = 2,
     }
 
     /// <summary>
@@ -31,6 +32,28 @@
 
             tekmovanje.Ekipe.Add(EkipaFactory.GetEkipa(++i, "nevem", "novomesto", new() { "Marko", "Beno" }));
         }
+
+        public static void Naloga5()
+        {
+            Tekmovanje tekmovanje = new(1);
+            var ekipa1 = EkipaFactory.GetEkipa(1, "Ekipa 1", "Novo mesto");
+            tekmovanje.Ekipe.Add(ekipa1);
+            var ekipa2 = EkipaFactory.GetEkipa(2, "Ekipa 2", "Krško");
+            tekmovanje.Ekipe.Add(ekipa2);
+            var ekipa3 = EkipaFactory.GetEkipa(3, "Ekipa 3", "Kočevje");
+            tekmovanje.Ekipe.Add(ekipa3);
+
+            Statistika st1 = new Stat_Nogomet(1) { Domaci_ID = 1, Gost_ID = 2, Rezultat = (1,2)};
+            tekmovanje.Tekme.Add(new Tekma(1) { Domaci = ekipa1, Gostje = ekipa2, Statistika = st1 });
+
+            Statistika st2 = new Stat_Nogomet(2) { Domaci_ID = 3, Gost_ID = 1, Rezultat = (2, 0) };
+            tekmovanje.Tekme.Add(new Tekma(2) { Domaci = ekipa3, Gostje = ekipa1, Statistika = st2 });
+
+            Statistika st3 = new Stat_Nogomet(3) { Domaci_ID = 2, Gost_ID = 3, Rezultat = (2, 1) };
+            tekmovanje.Tekme.Add(new Tekma(3) { Domaci = ekipa2, Gostje = ekipa3, Statistika = st3 });
+
+            Console.WriteLine($"Zmagovalec turnirja je {tekmovanje.Razvrstitev().First().Ime}");
+        }
     }
 
     public enum TipTekmovanja
@@ -42,7 +65,7 @@
 
     interface IRanking<T>
     {
-        SortedSet<T> Razvrstitev();
+        List<T> Razvrstitev();
     }
 
     public abstract class Statistika
@@ -54,7 +77,7 @@
         public int ID { get; }
         public int Domaci_ID { get; set; }
         public int Gost_ID { get; set; }
-        public (int, int) Rezultat { get; set; }
+        public (int RezDomaci, int RezGostje) Rezultat { get; set; }
         public abstract string Izid();
     }
 
@@ -108,8 +131,8 @@
 
             return novaEkipa;
         }
-
     }
+
     public class Tekma
     {
         public Tekma(int id)
@@ -118,9 +141,9 @@
             Sodniki = new List<string>();
         }
         public int ID { get; }
-        public int Domaci_ID { get; set; }
-        public int Gost_ID { get; set; }
-        public int Statistika_ID { get; set; }
+        public Ekipa Domaci { get; set; }
+        public Ekipa Gostje { get; set; }
+        public Statistika Statistika { get; set; }
         public List<string> Sodniki { get; }
     }
 
@@ -137,12 +160,36 @@
         public TipTekmovanja TipTekmovanja { get; set; }
         public List<Ekipa> Ekipe { get; set; }
         public List<Tekma> Tekme { get; set; }
-        public SortedSet<Ekipa> Razvrstitev()
-        {
-            throw new NotImplementedException();
+        public List<Ekipa> Razvrstitev()
+        {            
+            Dictionary<Ekipa, int> dicEkipeTocke = new Dictionary<Ekipa, int>();
+
+            foreach (var ekipa in Ekipe)
+            {
+                dicEkipeTocke.Add(ekipa, 0);
+            }
+
+            foreach (var tekma in Tekme)
+            {
+                // Držimo se pravila:
+                // če ima ekipa 1 več točk kot ekipa 2, je zmagovalec ekipa 1
+                // 3 točke za zmago, 1 točka za remi
+                if (tekma.Statistika.Rezultat.RezDomaci > tekma.Statistika.Rezultat.RezGostje)
+                {
+                    dicEkipeTocke[tekma.Domaci] += 3;
+                }
+                else if (tekma.Statistika.Rezultat.RezDomaci < tekma.Statistika.Rezultat.RezGostje)
+                {
+                    dicEkipeTocke[tekma.Gostje] += 3;
+                }
+                else
+                {
+                    dicEkipeTocke[tekma.Domaci] += 1;
+                    dicEkipeTocke[tekma.Gostje] += 1;
+                }
+            }
+
+            return dicEkipeTocke.OrderByDescending(x => x.Value).Select(x => x.Key).ToList();
         }
     }
-
-
-
 }

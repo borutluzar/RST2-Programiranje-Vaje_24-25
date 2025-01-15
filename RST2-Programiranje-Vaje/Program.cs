@@ -398,6 +398,11 @@
                                     Vaje_15.Naloga3();
                                 }
                                 break;
+                            case Vaje_15_Naloge.Naloga5:
+                                {
+                                    Vaje_15.Naloga5();
+                                }
+                                break;
                         }
                     }
                     break;
