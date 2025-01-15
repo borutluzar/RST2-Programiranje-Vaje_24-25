@@ -43,7 +43,7 @@
             var ekipa3 = EkipaFactory.GetEkipa(3, "Ekipa 3", "Kočevje");
             tekmovanje.Ekipe.Add(ekipa3);
 
-            Statistika st1 = new Stat_Nogomet(1) { Domaci_ID = 1, Gost_ID = 2, Rezultat = (1,2)};
+            Statistika st1 = new Stat_Nogomet(1) { Domaci_ID = 1, Gost_ID = 2, Rezultat = (1, 2) };
             tekmovanje.Tekme.Add(new Tekma(1) { Domaci = ekipa1, Gostje = ekipa2, Statistika = st1 });
 
             Statistika st2 = new Stat_Nogomet(2) { Domaci_ID = 3, Gost_ID = 1, Rezultat = (2, 0) };
@@ -115,6 +115,10 @@
         public string Ime { get; set; }
         public List<string> Igralci { get; }
         public string Mesto { get; set; }
+        public override string ToString()
+        {
+            return Ime + "-" + Mesto;
+        }
     }
 
     public static class EkipaFactory
@@ -161,7 +165,7 @@
         public List<Ekipa> Ekipe { get; set; }
         public List<Tekma> Tekme { get; set; }
         public List<Ekipa> Razvrstitev()
-        {            
+        {
             Dictionary<Ekipa, int> dicEkipeTocke = new Dictionary<Ekipa, int>();
 
             foreach (var ekipa in Ekipe)
@@ -190,6 +194,23 @@
             }
 
             return dicEkipeTocke.OrderByDescending(x => x.Value).Select(x => x.Key).ToList();
+        }
+    }
+
+    public static class Razsiritve
+    {
+        public static string IzpisiStatistiko(this Ekipa ekipa, Statistika statistika)
+        {
+            string returnVal = ekipa.ToString();
+            if (statistika.Domaci_ID == ekipa.ID)
+            {
+                returnVal += " : " + statistika.Rezultat.RezDomaci;
+            }
+            else
+            {
+                returnVal += " : " + statistika.Rezultat.RezGostje;
+            }
+            return returnVal;
         }
     }
 }
