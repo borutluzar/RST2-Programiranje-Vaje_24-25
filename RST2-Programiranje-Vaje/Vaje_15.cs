@@ -1,10 +1,8 @@
-﻿using System.Security.Cryptography.X509Certificates;
-
-namespace RST2_Programiranje_Vaje
+﻿namespace RST2_Programiranje_Vaje
 {
     public enum Vaje_15_Naloge
     {
-        NalogaXY = 1,
+        Naloga3 = 1,
     }
 
     /// <summary>
@@ -15,11 +13,26 @@ namespace RST2_Programiranje_Vaje
         /// <summary>
         /// NAVODILA
         /// </summary>
-        public static void NalogaXY()
+        public static void Naloga3()
         {
+            Tekmovanje tekmovanje = new(1);
 
+            int i = 0;
+            while (i < 3)
+            {
+                Console.WriteLine("Ime ekipe: ");
+                string ime = Console.ReadLine();
+                Console.WriteLine("Ime mesta");
+                string mesto = Console.ReadLine();
+                tekmovanje.Ekipe.Add(EkipaFactory.GetEkipa(i, ime, mesto));
+
+                i++;
+            }
+
+            tekmovanje.Ekipe.Add(EkipaFactory.GetEkipa(++i, "nevem", "novomesto", new() { "Marko", "Beno" }));
         }
     }
+
     public enum TipTekmovanja
     {
         Evropsko = 1,
@@ -81,6 +94,22 @@ namespace RST2_Programiranje_Vaje
         public string Mesto { get; set; }
     }
 
+    public static class EkipaFactory
+    {
+        public static Ekipa GetEkipa(int id, string ime, string mesto, List<string> igralci = null)
+        {
+            Ekipa novaEkipa = new Ekipa(id);
+            novaEkipa.Ime = ime;
+            novaEkipa.Mesto = mesto;
+            if (igralci != null)
+            {
+                novaEkipa.Igralci.AddRange(igralci);
+            }
+
+            return novaEkipa;
+        }
+
+    }
     public class Tekma
     {
         public Tekma(int id)
@@ -113,5 +142,7 @@ namespace RST2_Programiranje_Vaje
             throw new NotImplementedException();
         }
     }
+
+
 
 }
