@@ -52,7 +52,9 @@
             Statistika st3 = new Stat_Nogomet(3) { Domaci_ID = 2, Gost_ID = 3, Rezultat = (2, 1) };
             tekmovanje.Tekme.Add(new Tekma(3) { Domaci = ekipa2, Gostje = ekipa3, Statistika = st3 });
 
-            Console.WriteLine($"Zmagovalec turnirja je {tekmovanje.Razvrstitev().First().Ime}");
+            Ekipa zmagovalec = tekmovanje.Razvrstitev().First();
+            Console.WriteLine($"Zmagovalec turnirja je {zmagovalec.Ime}");
+            Console.WriteLine($"Zmagovalec turnirja je igral na {tekmovanje.TekmeEkipe(zmagovalec).Count()} tekmah.");
         }
     }
 
@@ -90,8 +92,8 @@
         {
             return "";
         }
-
     }
+
     public class Stat_Hokej : Statistika
     {
         public Stat_Hokej(int id) : base(id) { }
@@ -102,8 +104,8 @@
         {
             return "";
         }
-
     }
+
     public class Ekipa
     {
         public Ekipa(int id)
@@ -194,6 +196,11 @@
             }
 
             return dicEkipeTocke.OrderByDescending(x => x.Value).Select(x => x.Key).ToList();
+        }
+
+        public List<Tekma> TekmeEkipe(Ekipa ekipa)
+        {
+            return this.Tekme.Where(t => t.Domaci.ID == ekipa.ID || t.Gostje.ID == ekipa.ID).ToList();
         }
     }
 
