@@ -62,7 +62,7 @@ namespace RST2_Programiranje_Vaje
         public static void Naloga732()
         {
             int listSize = int.MaxValue; //1_000_000; //10_000_000;
-            int numDivs = 200;
+            int numDivs = 100;
 
             var lstNums = Enumerable.Range(1, listSize);
 
